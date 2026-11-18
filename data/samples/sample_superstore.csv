@@ -1,0 +1,1509 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Postal_Code
+ORD-2024-10000,2025-07-02,CUST-100,Consumer,West,Furniture,Furnishings,Furnishings Model A,1592.68,5,0.0,392.76,75001.0
+ORD-2025-10001,2025-12-11,CUST-101,Home Office,South,Office Supplies,Art,Art Model B,205.18,2,0.2,27.84,90001.0
+ORD-2024-10002,2025-02-22,CUST-102,Corporate,South,Furniture,Bookcases,Bookcases Model C,1015.37,4,0.1,172.37,90001.0
+ORD-2025-10003,2025-09-22,CUST-103,Corporate,South,Technology,Laptops,Laptops Model D,3257.93,3,0.0,808.06,10001.0
+ORD-2024-10004,2025-07-04,CUST-104,Home Office,North,Furniture,Tables,Tables Model E,1208.61,5,0.2,130.36,60601.0
+ORD-2025-10005,2025-06-17,CUST-105,Home Office,West,Technology,Copiers,Copiers Model F,1936.55,2,0.0,491.18,60601.0
+ORD-2024-10006,2025-05-23,CUST-106,Consumer,North,Technology,Laptops,Laptops Model G,1789.21,4,0.1,314.1,60601.0
+ORD-2025-10007,2024-02-28,CUST-107,Consumer,South,Furniture,Bookcases,Bookcases Model H,255.82,1,0.3,13.42,60601.0
+ORD-2024-10008,2024-08-14,CUST-108,Home Office,South,Technology,Accessories,Accessories Model I,2276.82,3,0.3,90.33,60601.0
+ORD-2025-10009,2025-08-25,CUST-109,Consumer,West,Office Supplies,Art,Art Model J,33.14,2,0.0,4.99,75001.0
+ORD-2024-10010,2024-06-09,CUST-110,Home Office,North,Office Supplies,Art,Art Model A,334.33,5,0.5,-35.3,75001.0
+ORD-2025-10011,2025-12-22,CUST-111,Home Office,West,Furniture,Tables,Tables Model B,741.47,3,0.1,127.6,90001.0
+ORD-2024-10012,2024-02-12,CUST-112,Consumer,South,Technology,Copiers,Copiers Model C,1077.46,1,0.0,270.79,90001.0
+ORD-2025-10013,2025-11-10,CUST-113,Consumer,North,Technology,Accessories,Accessories Model D,515.42,1,0.1,94.45,75001.0
+ORD-2024-10014,2025-06-30,CUST-114,Consumer,West,Furniture,Tables,Tables Model E,3645.45,8,0.0,911.58,10001.0
+ORD-2025-10015,2025-02-28,CUST-115,Corporate,South,Furniture,Bookcases,Bookcases Model F,254.09,1,0.2,33.1,10001.0
+ORD-2024-10016,2024-03-04,CUST-116,Corporate,West,Technology,Accessories,Accessories Model G,2799.94,3,0.1,510.9,60601.0
+ORD-2025-10017,2025-10-10,CUST-117,Consumer,West,Office Supplies,Art,Art Model H,125.61,1,0.0,34.65,75001.0
+ORD-2024-10018,2025-01-09,CUST-118,Consumer,East,Furniture,Tables,Tables Model I,161.12,1,0.0,35.32,75001.0
+ORD-2025-10019,2024-06-16,CUST-119,Consumer,North,Technology,Accessories,Accessories Model J,349.48,2,0.2,39.21,30301.0
+ORD-2024-10020,2025-11-30,CUST-120,Home Office,North,Office Supplies,Art,Art Model A,106.3,1,0.0,24.76,75001.0
+ORD-2025-10021,2025-01-27,CUST-121,Consumer,North,Furniture,Chairs,Chairs Model B,3153.7,8,0.1,568.54,30301.0
+ORD-2024-10022,2024-07-06,CUST-122,Consumer,South,Office Supplies,Storage,Storage Model C,76.75,4,0.0,16.35,75001.0
+ORD-2025-10023,2025-08-14,CUST-123,Home Office,South,Furniture,Tables,Tables Model D,442.52,4,0.1,83.31,60601.0
+ORD-2024-10024,2025-04-10,CUST-124,Consumer,North,Technology,Accessories,Accessories Model E,2641.5,3,0.0,663.63,60601.0
+ORD-2025-10025,2024-05-14,CUST-125,Consumer,South,Office Supplies,Appliances,Appliances Model F,236.41,2,0.2,25.51,75001.0
+ORD-2024-10026,2025-07-30,CUST-126,Corporate,North,Technology,Accessories,Accessories Model G,2274.11,4,0.0,570.24,10001.0
+ORD-2025-10027,2024-08-11,CUST-127,Corporate,East,Furniture,Tables,Tables Model H,94.59,1,0.3,6.07,10001.0
+ORD-2024-10028,2025-10-13,CUST-128,Consumer,South,Furniture,Bookcases,Bookcases Model I,397.73,3,0.0,99.23,60601.0
+ORD-2025-10029,2024-01-11,CUST-129,Consumer,East,Technology,Laptops,Laptops Model J,655.22,1,0.0,156.65,75001.0
+ORD-2024-10030,2024-05-02,CUST-130,Consumer,East,Furniture,Bookcases,Bookcases Model A,1190.06,4,0.2,130.79,90001.0
+ORD-2025-10031,2024-12-29,CUST-131,Consumer,West,Technology,Copiers,Copiers Model B,1887.0,3,0.1,336.8,75001.0
+ORD-2024-10032,2025-02-20,CUST-132,Corporate,North,Furniture,Furnishings,Furnishings Model C,360.53,1,0.2,32.73,75001.0
+ORD-2025-10033,2024-08-18,CUST-133,Consumer,West,Furniture,Tables,Tables Model D,135.31,1,0.1,18.82,10001.0
+ORD-2024-10034,2025-06-10,CUST-134,Consumer,West,Office Supplies,Binders,Binders Model E,205.88,3,0.2,27.12,10001.0
+ORD-2025-10035,2024-09-05,CUST-135,Corporate,West,Office Supplies,Storage,Storage Model F,223.96,2,0.1,43.49,90001.0
+ORD-2024-10036,2025-12-31,CUST-136,Consumer,North,Furniture,Tables,Tables Model G,147.03,1,0.2,11.02,60601.0
+ORD-2025-10037,2024-12-06,CUST-137,Consumer,North,Office Supplies,Storage,Storage Model H,182.62,2,0.1,30.23,10001.0
+ORD-2024-10038,2025-04-19,CUST-138,Corporate,North,Office Supplies,Appliances,Appliances Model I,20.11,1,0.0,10.48,75001.0
+ORD-2025-10039,2024-04-02,CUST-139,Consumer,South,Technology,Copiers,Copiers Model J,4568.31,8,0.0,1141.52,90001.0
+ORD-2024-10040,2025-04-11,CUST-140,Corporate,South,Office Supplies,Binders,Binders Model A,218.77,4,0.3,0.59,10001.0
+ORD-2025-10041,2024-11-30,CUST-141,Consumer,South,Furniture,Tables,Tables Model B,1102.57,4,0.0,272.78,75001.0
+ORD-2024-10042,2025-04-11,CUST-142,Consumer,East,Furniture,Bookcases,Bookcases Model C,590.6,2,0.0,143.18,60601.0
+ORD-2025-10043,2024-09-30,CUST-143,Consumer,East,Office Supplies,Binders,Binders Model D,202.59,2,0.0,49.95,10001.0
+ORD-2024-10044,2025-09-09,CUST-144,Corporate,South,Technology,Phones,Phones Model E,1654.37,5,0.0,413.98,75001.0
+ORD-2025-10045,2025-02-08,CUST-145,Consumer,South,Furniture,Chairs,Chairs Model F,1017.6,3,0.0,247.99,30301.0
+ORD-2024-10046,2025-07-15,CUST-146,Corporate,East,Technology,Accessories,Accessories Model G,2158.82,4,0.2,242.62,30301.0
+ORD-2025-10047,2024-11-10,CUST-147,Home Office,North,Office Supplies,Art,Art Model H,27.22,1,0.0,8.0,90001.0
+ORD-2024-10048,2024-01-10,CUST-148,Home Office,South,Office Supplies,Storage,Storage Model I,108.52,2,0.0,27.83,90001.0
+ORD-2025-10049,2025-02-13,CUST-149,Corporate,South,Office Supplies,Storage,Storage Model J,29.55,1,0.0,9.65,75001.0
+ORD-2024-10050,2024-03-21,CUST-150,Home Office,East,Furniture,Furnishings,Furnishings Model A,358.31,3,0.0,88.62,75001.0
+ORD-2025-10051,2025-09-23,CUST-151,Consumer,West,Technology,Accessories,Accessories Model B,174.01,1,0.2,20.23,90001.0
+ORD-2024-10052,2024-07-07,CUST-152,Corporate,East,Office Supplies,Binders,Binders Model C,120.58,3,0.0,26.29,30301.0
+ORD-2025-10053,2024-10-19,CUST-153,Consumer,East,Furniture,Tables,Tables Model D,2840.99,8,0.2,313.99,60601.0
+ORD-2024-10054,2024-06-02,CUST-154,Home Office,East,Technology,Accessories,Accessories Model E,1087.45,2,0.1,198.73,90001.0
+ORD-2025-10055,2024-01-07,CUST-155,Consumer,West,Office Supplies,Storage,Storage Model F,154.69,3,0.0,42.18,90001.0
+ORD-2024-10056,2024-04-27,CUST-156,Consumer,South,Furniture,Bookcases,Bookcases Model G,558.67,2,0.1,99.05,10001.0
+ORD-2025-10057,2025-01-12,CUST-157,Corporate,East,Office Supplies,Paper,Paper Model H,343.72,5,0.2,37.64,30301.0
+ORD-2024-10058,2025-10-28,CUST-158,Consumer,South,Technology,Phones,Phones Model I,1077.88,2,0.1,200.94,75001.0
+ORD-2025-10059,2024-10-01,CUST-159,Consumer,North,Office Supplies,Storage,Storage Model J,26.54,3,0.2,5.74,90001.0
+ORD-2024-10060,2025-03-12,CUST-160,Home Office,North,Office Supplies,Storage,Storage Model A,59.23,1,0.0,10.45,10001.0
+ORD-2025-10061,2025-10-25,CUST-161,Corporate,South,Technology,Accessories,Accessories Model B,868.88,3,0.0,212.3,60601.0
+ORD-2024-10062,2024-02-14,CUST-162,Consumer,South,Furniture,Chairs,Chairs Model C,1322.86,3,0.0,335.46,60601.0
+ORD-2025-10063,2025-11-07,CUST-163,Consumer,West,Furniture,Furnishings,Furnishings Model D,837.03,2,0.0,205.95,75001.0
+ORD-2024-10064,2025-04-10,CUST-164,Corporate,North,Office Supplies,Storage,Storage Model E,131.4,2,0.2,9.16,90001.0
+ORD-2025-10065,2025-12-20,CUST-165,Consumer,West,Technology,Laptops,Laptops Model F,1310.61,3,0.0,330.04,
+ORD-2024-10066,2025-12-07,CUST-166,Corporate,West,Office Supplies,Paper,Paper Model G,61.92,2,0.0,17.99,90001.0
+ORD-2025-10067,2024-09-04,CUST-167,Consumer,North,Office Supplies,Art,Art Model H,269.67,3,0.1,46.74,75001.0
+ORD-2024-10068,2025-01-12,CUST-168,Consumer,East,Technology,Laptops,Laptops Model I,307.6,1,0.1,52.28,60601.0
+ORD-2025-10069,2024-01-17,CUST-169,Home Office,East,Office Supplies,Binders,Binders Model J,25.18,1,0.1,14.01,75001.0
+ORD-2024-10070,2024-04-09,CUST-170,Consumer,North,Office Supplies,Art,Art Model A,135.19,1,0.0,30.55,30301.0
+ORD-2025-10071,2025-06-21,CUST-171,Corporate,West,Technology,Phones,Phones Model B,809.79,3,0.0,196.33,75001.0
+ORD-2024-10072,2025-11-18,CUST-172,Consumer,South,Office Supplies,Appliances,Appliances Model C,746.84,8,0.1,142.79,30301.0
+ORD-2025-10073,2025-05-14,CUST-173,Home Office,North,Furniture,Furnishings,Furnishings Model D,1040.05,3,0.0,262.11,75001.0
+ORD-2024-10074,2025-05-12,CUST-174,Corporate,South,Furniture,Tables,Tables Model E,542.35,3,0.2,54.2,60601.0
+ORD-2025-10075,2025-11-19,CUST-175,Consumer,East,Technology,Phones,Phones Model F,1096.91,3,0.2,119.08,60601.0
+ORD-2024-10076,2024-10-02,CUST-176,Consumer,East,Furniture,Furnishings,Furnishings Model G,207.31,1,0.0,42.65,30301.0
+ORD-2025-10077,2025-07-03,CUST-177,Home Office,West,Furniture,Bookcases,Bookcases Model H,399.44,3,0.1,74.44,30301.0
+ORD-2024-10078,2024-12-07,CUST-178,Home Office,North,Technology,Copiers,Copiers Model I,1265.47,4,0.0,319.21,30301.0
+ORD-2025-10079,2024-07-14,CUST-179,Consumer,South,Furniture,Chairs,Chairs Model J,101.21,1,0.3,7.05,75001.0
+ORD-2024-10080,2024-12-21,CUST-180,Consumer,South,Furniture,Chairs,Chairs Model A,635.3,3,0.0,160.26,90001.0
+ORD-2025-10081,2024-03-19,CUST-181,Consumer,North,Technology,Phones,Phones Model B,706.11,1,0.0,175.95,30301.0
+ORD-2024-10082,2024-04-07,CUST-182,Consumer,South,Technology,Accessories,Accessories Model C,916.99,3,0.0,236.9,10001.0
+ORD-2025-10083,2025-04-29,CUST-183,Consumer,South,Office Supplies,Storage,Storage Model D,63.43,2,0.2,13.07,90001.0
+ORD-2024-10084,2024-05-11,CUST-184,Consumer,North,Office Supplies,Storage,Storage Model E,119.58,1,0.0,34.58,30301.0
+ORD-2025-10085,2025-01-31,CUST-185,Consumer,North,Office Supplies,Binders,Binders Model F,82.38,3,0.2,16.67,75001.0
+ORD-2024-10086,2025-09-22,CUST-186,Consumer,West,Office Supplies,Art,Art Model G,74.49,2,0.0,21.33,60601.0
+ORD-2025-10087,2024-08-09,CUST-187,Consumer,South,Furniture,Bookcases,Bookcases Model H,70.45,1,0.2,11.55,75001.0
+ORD-2024-10088,2025-12-24,CUST-188,Consumer,North,Office Supplies,Art,Art Model I,280.12,8,0.2,30.74,10001.0
+ORD-2025-10089,2025-09-12,CUST-189,Consumer,East,Technology,Copiers,Copiers Model J,466.02,1,0.0,119.4,75001.0
+ORD-2024-10090,2025-05-09,CUST-190,Corporate,West,Furniture,Furnishings,Furnishings Model A,617.42,2,0.3,27.02,75001.0
+ORD-2025-10091,2024-05-23,CUST-191,Consumer,West,Technology,Phones,Phones Model B,1983.17,2,0.1,357.8,75001.0
+ORD-2024-10092,2024-12-16,CUST-192,Consumer,East,Office Supplies,Binders,Binders Model C,74.32,1,0.1,23.44,60601.0
+ORD-2025-10093,2024-06-13,CUST-193,Consumer,East,Technology,Accessories,Accessories Model D,189.88,1,0.3,8.28,60601.0
+ORD-2024-10094,2025-03-03,CUST-194,Consumer,South,Furniture,Bookcases,Bookcases Model E,1216.06,3,0.0,309.94,75001.0
+ORD-2025-10095,2025-06-08,CUST-195,Home Office,North,Furniture,Bookcases,Bookcases Model F,551.03,3,0.1,102.78,75001.0
+ORD-2024-10096,2025-01-20,CUST-196,Consumer,North,Office Supplies,Paper,Paper Model G,32.55,1,0.3,6.11,75001.0
+ORD-2025-10097,2024-04-15,CUST-197,Home Office,South,Technology,Copiers,Copiers Model H,1443.39,2,0.1,259.55,30301.0
+ORD-2024-10098,2025-01-06,CUST-198,Consumer,North,Furniture,Bookcases,Bookcases Model I,331.38,1,0.0,72.02,75001.0
+ORD-2025-10099,2024-04-01,CUST-199,Consumer,North,Furniture,Furnishings,Furnishings Model J,586.58,4,0.1,110.46,10001.0
+ORD-2024-10100,2024-07-03,CUST-200,Home Office,South,Furniture,Furnishings,Furnishings Model A,339.37,2,0.1,62.95,30301.0
+ORD-2025-10101,2024-08-27,CUST-201,Corporate,South,Office Supplies,Storage,Storage Model B,100.72,1,0.1,26.13,30301.0
+ORD-2024-10102,2025-06-02,CUST-202,Corporate,North,Office Supplies,Paper,Paper Model C,344.79,3,0.1,63.27,10001.0
+ORD-2025-10103,2025-07-28,CUST-203,Corporate,North,Office Supplies,Art,Art Model D,265.6,2,0.0,79.41,75001.0
+ORD-2024-10104,2024-01-07,CUST-204,Home Office,East,Technology,Copiers,Copiers Model E,478.68,2,0.2,53.96,10001.0
+ORD-2025-10105,2024-02-01,CUST-205,Corporate,South,Office Supplies,Paper,Paper Model F,70.07,1,0.2,0.71,30301.0
+ORD-2024-10106,2024-09-10,CUST-206,Home Office,North,Technology,Laptops,Laptops Model G,1135.88,2,0.0,287.58,60601.0
+ORD-2025-10107,2025-10-27,CUST-207,Corporate,South,Furniture,Furnishings,Furnishings Model H,407.77,1,0.0,100.08,60601.0
+ORD-2024-10108,2025-07-15,CUST-208,Consumer,North,Furniture,Furnishings,Furnishings Model I,150.09,1,0.0,42.42,60601.0
+ORD-2025-10109,2024-11-11,CUST-209,Corporate,North,Furniture,Bookcases,Bookcases Model J,568.48,2,0.1,101.05,75001.0
+ORD-2024-10110,2025-12-29,CUST-210,Consumer,East,Furniture,Tables,Tables Model A,645.86,3,0.0,166.8,75001.0
+ORD-2025-10111,2025-06-12,CUST-211,Corporate,East,Furniture,Chairs,Chairs Model B,264.88,1,0.0,70.46,90001.0
+ORD-2024-10112,2025-07-19,CUST-212,Corporate,North,Furniture,Bookcases,Bookcases Model C,2178.28,8,0.3,82.01,30301.0
+ORD-2025-10113,2024-10-15,CUST-213,Home Office,East,Office Supplies,Storage,Storage Model D,240.68,3,0.3,18.9,60601.0
+ORD-2024-10114,2024-07-09,CUST-214,Consumer,South,Technology,Copiers,Copiers Model E,180.96,1,0.2,20.61,60601.0
+ORD-2025-10115,2024-07-22,CUST-215,Home Office,North,Office Supplies,Art,Art Model F,83.15,2,0.0,11.95,30301.0
+ORD-2024-10116,2024-05-20,CUST-216,Consumer,South,Technology,Phones,Phones Model G,300.13,1,0.1,39.67,90001.0
+ORD-2025-10117,2024-07-03,CUST-217,Corporate,North,Furniture,Chairs,Chairs Model H,369.49,3,0.1,65.7,
+ORD-2024-10118,2024-04-22,CUST-218,Consumer,South,Technology,Laptops,Laptops Model I,236.29,1,0.0,53.73,90001.0
+ORD-2025-10119,2025-05-10,CUST-219,Consumer,North,Technology,Laptops,Laptops Model J,163.53,1,0.3,-3.14,90001.0
+ORD-2024-10120,2024-01-20,CUST-220,Corporate,South,Technology,Copiers,Copiers Model A,257.78,1,0.1,41.08,60601.0
+ORD-2025-10121,2025-05-26,CUST-221,Consumer,South,Furniture,Tables,Tables Model B,3095.56,8,0.0,774.58,10001.0
+ORD-2024-10122,2024-03-06,CUST-222,Consumer,North,Office Supplies,Paper,Paper Model C,186.26,5,0.3,4.41,90001.0
+ORD-2025-10123,2024-04-07,CUST-223,Consumer,South,Office Supplies,Binders,Binders Model D,391.26,3,0.0,105.96,90001.0
+ORD-2024-10124,2025-01-14,CUST-224,Consumer,North,Technology,Laptops,Laptops Model E,479.29,1,0.3,21.35,75001.0
+ORD-2025-10125,2025-03-28,CUST-225,Consumer,East,Office Supplies,Art,Art Model F,120.18,1,0.0,34.56,10001.0
+ORD-2024-10126,2025-05-29,CUST-226,Consumer,North,Office Supplies,Binders,Binders Model G,52.89,2,0.2,-1.41,60601.0
+ORD-2025-10127,2025-06-05,CUST-227,Consumer,West,Office Supplies,Appliances,Appliances Model H,468.31,8,0.2,51.99,75001.0
+ORD-2024-10128,2024-09-01,CUST-228,Home Office,South,Technology,Copiers,Copiers Model I,1477.4,2,0.0,374.54,75001.0
+ORD-2025-10129,2024-07-16,CUST-229,Consumer,South,Office Supplies,Storage,Storage Model J,36.14,1,0.0,11.56,90001.0
+ORD-2024-10130,2025-01-26,CUST-230,Corporate,South,Technology,Phones,Phones Model A,1425.03,4,0.1,266.6,75001.0
+ORD-2025-10131,2024-02-17,CUST-231,Home Office,South,Office Supplies,Storage,Storage Model B,60.55,2,0.1,1.75,60601.0
+ORD-2024-10132,2024-11-28,CUST-232,Corporate,South,Office Supplies,Art,Art Model C,69.39,4,0.2,10.24,60601.0
+ORD-2025-10133,2024-12-19,CUST-233,Corporate,East,Office Supplies,Art,Art Model D,132.93,4,0.0,33.26,10001.0
+ORD-2024-10134,2025-04-12,CUST-234,Consumer,North,Technology,Phones,Phones Model E,1022.96,1,0.0,258.16,10001.0
+ORD-2025-10135,2024-10-25,CUST-235,Corporate,West,Technology,Accessories,Accessories Model F,411.25,1,0.2,44.06,30301.0
+ORD-2024-10136,2025-12-24,CUST-236,Consumer,North,Furniture,Tables,Tables Model G,349.85,3,0.0,88.71,75001.0
+ORD-2025-10137,2024-11-08,CUST-237,Corporate,East,Furniture,Bookcases,Bookcases Model H,911.99,4,0.0,230.1,10001.0
+ORD-2024-10138,2025-05-15,CUST-238,Corporate,North,Office Supplies,Binders,Binders Model I,166.54,3,0.0,43.05,30301.0
+ORD-2025-10139,2025-08-27,CUST-239,Consumer,North,Technology,Copiers,Copiers Model J,2161.52,4,0.0,539.09,60601.0
+ORD-2024-10140,2024-09-01,CUST-240,Corporate,South,Office Supplies,Binders,Binders Model A,452.36,4,0.2,52.93,75001.0
+ORD-2025-10141,2025-01-08,CUST-241,Consumer,West,Office Supplies,Binders,Binders Model B,67.34,2,0.0,22.38,30301.0
+ORD-2024-10142,2024-07-12,CUST-242,Consumer,North,Technology,Copiers,Copiers Model C,2004.71,2,0.0,499.15,90001.0
+ORD-2025-10143,2025-02-27,CUST-243,Corporate,West,Office Supplies,Storage,Storage Model D,918.18,8,0.1,164.94,90001.0
+ORD-2024-10144,2025-01-21,CUST-244,Consumer,West,Office Supplies,Appliances,Appliances Model E,118.97,1,0.1,16.86,90001.0
+ORD-2025-10145,2024-07-09,CUST-245,Home Office,South,Technology,Copiers,Copiers Model F,246.82,1,0.1,44.89,90001.0
+ORD-2024-10146,2024-04-10,CUST-246,Home Office,West,Office Supplies,Appliances,Appliances Model G,56.26,2,0.5,-2.83,90001.0
+ORD-2025-10147,2025-05-20,CUST-247,Home Office,South,Furniture,Furnishings,Furnishings Model H,878.78,2,0.0,230.96,30301.0
+ORD-2024-10148,2025-03-09,CUST-248,Corporate,South,Technology,Accessories,Accessories Model I,580.19,1,0.2,58.22,10001.0
+ORD-2025-10149,2025-12-23,CUST-249,Corporate,South,Furniture,Furnishings,Furnishings Model J,621.27,2,0.1,111.28,30301.0
+ORD-2024-10150,2025-02-24,CUST-250,Consumer,North,Office Supplies,Appliances,Appliances Model A,164.37,3,0.3,13.97,90001.0
+ORD-2025-10151,2024-12-27,CUST-251,Consumer,North,Office Supplies,Binders,Binders Model B,472.85,5,0.0,121.27,75001.0
+ORD-2024-10152,2025-09-07,CUST-252,Consumer,South,Technology,Phones,Phones Model C,1188.29,3,0.0,297.48,90001.0
+ORD-2025-10153,2024-10-01,CUST-253,Consumer,North,Furniture,Chairs,Chairs Model D,200.59,2,0.2,14.78,90001.0
+ORD-2024-10154,2025-05-11,CUST-254,Home Office,South,Furniture,Tables,Tables Model E,222.07,1,0.1,38.38,90001.0
+ORD-2025-10155,2024-02-16,CUST-255,Consumer,East,Office Supplies,Art,Art Model F,365.42,5,0.0,87.37,30301.0
+ORD-2024-10156,2024-08-23,CUST-256,Corporate,West,Office Supplies,Appliances,Appliances Model G,138.43,3,0.0,38.05,60601.0
+ORD-2025-10157,2025-11-27,CUST-257,Corporate,East,Office Supplies,Binders,Binders Model H,52.06,2,0.0,15.11,75001.0
+ORD-2024-10158,2024-04-22,CUST-258,Corporate,South,Technology,Accessories,Accessories Model I,2200.64,2,0.0,547.53,60601.0
+ORD-2025-10159,2024-12-30,CUST-259,Corporate,South,Technology,Laptops,Laptops Model J,441.28,3,0.3,25.18,
+ORD-2024-10160,2025-08-04,CUST-260,Corporate,North,Office Supplies,Appliances,Appliances Model A,181.98,2,0.2,21.6,10001.0
+ORD-2025-10161,2024-09-19,CUST-261,Consumer,South,Technology,Accessories,Accessories Model B,646.01,2,0.0,171.01,90001.0
+ORD-2024-10162,2025-05-30,CUST-262,Home Office,South,Furniture,Furnishings,Furnishings Model C,224.67,1,0.1,41.75,30301.0
+ORD-2025-10163,2024-09-12,CUST-263,Home Office,West,Furniture,Furnishings,Furnishings Model D,929.97,2,0.0,237.75,75001.0
+ORD-2024-10164,2025-07-30,CUST-264,Consumer,North,Office Supplies,Binders,Binders Model E,167.23,2,0.0,39.79,90001.0
+ORD-2025-10165,2025-09-08,CUST-265,Consumer,North,Technology,Accessories,Accessories Model F,2537.47,3,0.0,635.01,10001.0
+ORD-2024-10166,2025-06-24,CUST-266,Corporate,South,Furniture,Bookcases,Bookcases Model G,668.85,2,0.0,167.08,30301.0
+ORD-2025-10167,2024-10-07,CUST-267,Consumer,West,Technology,Phones,Phones Model H,2354.9,2,0.0,590.13,75001.0
+ORD-2024-10168,2024-11-27,CUST-268,Consumer,South,Office Supplies,Storage,Storage Model I,39.81,3,0.0,12.76,60601.0
+ORD-2025-10169,2024-09-27,CUST-269,Consumer,South,Technology,Laptops,Laptops Model J,4637.72,8,0.1,833.31,60601.0
+ORD-2024-10170,2025-05-07,CUST-270,Consumer,West,Technology,Accessories,Accessories Model A,1053.92,2,0.1,190.62,75001.0
+ORD-2025-10171,2024-11-10,CUST-271,Home Office,North,Technology,Laptops,Laptops Model B,2002.27,4,0.1,354.51,75001.0
+ORD-2024-10172,2025-01-22,CUST-272,Consumer,South,Technology,Phones,Phones Model C,2332.83,2,0.0,577.84,10001.0
+ORD-2025-10173,2025-05-26,CUST-273,Consumer,West,Technology,Accessories,Accessories Model D,2947.16,3,0.0,737.99,90001.0
+ORD-2024-10174,2025-10-25,CUST-274,Consumer,North,Furniture,Bookcases,Bookcases Model E,173.83,2,0.1,32.56,60601.0
+ORD-2025-10175,2025-10-21,CUST-275,Corporate,North,Office Supplies,Appliances,Appliances Model F,78.21,1,0.1,16.42,90001.0
+ORD-2024-10176,2025-10-29,CUST-276,Consumer,West,Furniture,Tables,Tables Model G,2194.59,8,0.0,549.92,75001.0
+ORD-2025-10177,2025-12-29,CUST-277,Corporate,North,Furniture,Bookcases,Bookcases Model H,484.69,2,0.0,126.4,75001.0
+ORD-2024-10178,2025-09-02,CUST-278,Consumer,West,Technology,Accessories,Accessories Model I,1737.33,3,0.1,312.19,90001.0
+ORD-2025-10179,2024-04-02,CUST-279,Consumer,East,Technology,Phones,Phones Model J,880.76,2,0.0,227.14,60601.0
+ORD-2024-10180,2025-08-30,CUST-280,Home Office,East,Technology,Accessories,Accessories Model A,394.41,2,0.1,75.75,75001.0
+ORD-2025-10181,2025-11-16,CUST-281,Home Office,South,Furniture,Chairs,Chairs Model B,137.96,1,0.3,11.02,10001.0
+ORD-2024-10182,2025-11-12,CUST-282,Home Office,East,Office Supplies,Paper,Paper Model C,46.12,1,0.1,10.88,60601.0
+ORD-2025-10183,2025-09-28,CUST-283,Home Office,West,Technology,Copiers,Copiers Model D,3633.06,4,0.1,657.53,90001.0
+ORD-2024-10184,2024-11-03,CUST-284,Corporate,South,Furniture,Tables,Tables Model E,162.52,2,0.1,34.74,75001.0
+ORD-2025-10185,2024-11-01,CUST-285,Home Office,North,Technology,Phones,Phones Model F,705.4,1,0.2,87.0,30301.0
+ORD-2024-10186,2025-04-18,CUST-286,Corporate,North,Furniture,Furnishings,Furnishings Model G,288.06,1,0.2,23.72,10001.0
+ORD-2025-10187,2025-09-16,CUST-287,Home Office,South,Furniture,Chairs,Chairs Model H,310.57,1,0.0,73.85,10001.0
+ORD-2024-10188,2025-11-04,CUST-288,Consumer,East,Technology,Accessories,Accessories Model I,2177.32,2,0.0,553.33,30301.0
+ORD-2025-10189,2024-12-11,CUST-289,Consumer,South,Furniture,Tables,Tables Model J,186.61,1,0.1,39.78,30301.0
+ORD-2024-10190,2025-12-21,CUST-290,Consumer,East,Technology,Accessories,Accessories Model A,696.7,1,0.0,171.55,30301.0
+ORD-2025-10191,2025-11-29,CUST-291,Consumer,North,Technology,Accessories,Accessories Model B,2654.14,3,0.1,478.51,90001.0
+ORD-2024-10192,2024-11-11,CUST-292,Consumer,South,Office Supplies,Paper,Paper Model C,99.16,1,0.3,3.12,90001.0
+ORD-2025-10193,2024-06-03,CUST-293,Corporate,South,Office Supplies,Paper,Paper Model D,188.81,2,0.3,8.3,30301.0
+ORD-2024-10194,2025-08-30,CUST-294,Consumer,North,Office Supplies,Art,Art Model E,356.19,5,0.2,34.97,60601.0
+ORD-2025-10195,2025-09-04,CUST-295,Home Office,East,Technology,Accessories,Accessories Model F,4324.67,5,0.1,780.49,90001.0
+ORD-2024-10196,2024-11-28,CUST-296,Corporate,East,Technology,Copiers,Copiers Model G,347.46,2,0.3,-0.26,75001.0
+ORD-2025-10197,2024-11-18,CUST-297,Consumer,South,Furniture,Bookcases,Bookcases Model H,643.81,2,0.2,70.9,75001.0
+ORD-2024-10198,2025-11-11,CUST-298,Corporate,West,Technology,Phones,Phones Model I,2034.51,3,0.2,223.3,30301.0
+ORD-2025-10199,2025-12-29,CUST-299,Corporate,South,Furniture,Bookcases,Bookcases Model J,737.86,3,0.0,182.3,30301.0
+ORD-2024-10200,2025-09-03,CUST-300,Corporate,North,Technology,Copiers,Copiers Model A,2762.94,3,0.1,498.82,60601.0
+ORD-2025-10201,2025-07-07,CUST-301,Consumer,South,Technology,Laptops,Laptops Model B,648.74,2,0.0,159.01,90001.0
+ORD-2024-10202,2024-08-02,CUST-302,Consumer,North,Furniture,Furnishings,Furnishings Model C,872.41,2,0.1,162.3,90001.0
+ORD-2025-10203,2024-10-01,CUST-303,Consumer,North,Furniture,Furnishings,Furnishings Model D,1613.87,4,0.0,399.85,60601.0
+ORD-2024-10204,2025-09-20,CUST-304,Consumer,East,Technology,Phones,Phones Model E,1515.35,2,0.1,275.72,30301.0
+ORD-2025-10205,2025-11-17,CUST-305,Home Office,North,Office Supplies,Storage,Storage Model F,358.94,3,0.0,99.69,10001.0
+ORD-2024-10206,2025-11-17,CUST-306,Consumer,North,Office Supplies,Art,Art Model G,233.31,3,0.0,58.43,30301.0
+ORD-2025-10207,2025-07-07,CUST-307,Corporate,North,Furniture,Chairs,Chairs Model H,1088.92,4,0.2,120.93,10001.0
+ORD-2024-10208,2025-04-08,CUST-308,Home Office,North,Technology,Accessories,Accessories Model I,1504.72,2,0.1,266.8,30301.0
+ORD-2025-10209,2025-06-21,CUST-309,Corporate,East,Furniture,Furnishings,Furnishings Model J,284.75,3,0.1,44.97,75001.0
+ORD-2024-10210,2024-12-05,CUST-310,Consumer,East,Technology,Copiers,Copiers Model A,1504.24,5,0.1,270.78,60601.0
+ORD-2025-10211,2024-02-24,CUST-311,Home Office,East,Furniture,Chairs,Chairs Model B,799.12,2,0.0,191.65,10001.0
+ORD-2024-10212,2024-01-01,CUST-312,Consumer,South,Furniture,Tables,Tables Model C,201.98,4,0.5,-17.96,30301.0
+ORD-2025-10213,2024-11-08,CUST-313,Home Office,North,Furniture,Chairs,Chairs Model D,746.74,3,0.5,-72.82,90001.0
+ORD-2024-10214,2024-04-16,CUST-314,Corporate,South,Office Supplies,Art,Art Model E,30.35,3,0.5,-0.29,10001.0
+ORD-2025-10215,2025-02-19,CUST-315,Consumer,East,Technology,Laptops,Laptops Model F,5764.48,5,0.0,1438.21,75001.0
+ORD-2024-10216,2025-08-30,CUST-316,Consumer,South,Furniture,Furnishings,Furnishings Model G,572.16,3,0.3,25.7,30301.0
+ORD-2025-10217,2024-07-06,CUST-317,Consumer,North,Technology,Phones,Phones Model H,1013.57,1,0.1,184.53,75001.0
+ORD-2024-10218,2025-11-25,CUST-318,Consumer,East,Furniture,Bookcases,Bookcases Model I,260.05,1,0.0,61.03,90001.0
+ORD-2025-10219,2025-07-15,CUST-319,Home Office,West,Furniture,Furnishings,Furnishings Model J,575.53,2,0.0,145.58,10001.0
+ORD-2024-10220,2025-06-08,CUST-320,Home Office,West,Technology,Laptops,Laptops Model A,1243.4,2,0.2,138.81,10001.0
+ORD-2025-10221,2024-12-21,CUST-321,Home Office,West,Furniture,Furnishings,Furnishings Model B,3587.91,8,0.0,889.08,10001.0
+ORD-2024-10222,2025-12-01,CUST-322,Consumer,North,Office Supplies,Binders,Binders Model C,138.12,4,0.0,35.06,10001.0
+ORD-2025-10223,2024-04-29,CUST-323,Corporate,South,Office Supplies,Art,Art Model D,79.28,2,0.2,11.64,75001.0
+ORD-2024-10224,2025-02-10,CUST-324,Home Office,East,Technology,Phones,Phones Model E,2177.77,2,0.0,540.14,30301.0
+ORD-2025-10225,2025-12-12,CUST-325,Consumer,South,Furniture,Chairs,Chairs Model F,898.78,2,0.0,219.54,10001.0
+ORD-2024-10226,2024-04-08,CUST-326,Corporate,East,Office Supplies,Art,Art Model G,213.71,4,0.1,35.45,30301.0
+ORD-2025-10227,2025-08-10,CUST-327,Consumer,North,Office Supplies,Art,Art Model H,117.18,1,0.0,29.05,60601.0
+ORD-2024-10228,2024-02-29,CUST-328,Consumer,North,Technology,Laptops,Laptops Model I,336.14,2,0.2,42.51,30301.0
+ORD-2025-10229,2024-07-13,CUST-329,Consumer,West,Office Supplies,Binders,Binders Model J,94.34,2,0.1,12.44,10001.0
+ORD-2024-10230,2025-01-08,CUST-330,Home Office,South,Office Supplies,Binders,Binders Model A,786.8,8,0.2,93.85,90001.0
+ORD-2025-10231,2024-05-22,CUST-331,Consumer,East,Office Supplies,Paper,Paper Model B,167.0,2,0.3,-1.92,75001.0
+ORD-2024-10232,2024-05-15,CUST-332,Home Office,South,Furniture,Chairs,Chairs Model C,310.96,1,0.1,59.54,10001.0
+ORD-2025-10233,2025-03-06,CUST-333,Consumer,South,Technology,Phones,Phones Model D,304.16,1,0.2,38.26,75001.0
+ORD-2024-10234,2024-04-05,CUST-334,Consumer,West,Office Supplies,Art,Art Model E,122.99,1,0.0,32.95,30301.0
+ORD-2025-10235,2025-04-22,CUST-335,Consumer,West,Office Supplies,Art,Art Model F,50.62,1,0.2,9.46,30301.0
+ORD-2024-10236,2024-12-31,CUST-336,Home Office,North,Furniture,Chairs,Chairs Model G,127.19,3,0.5,-20.31,10001.0
+ORD-2025-10237,2024-03-10,CUST-337,Corporate,East,Technology,Accessories,Accessories Model H,1481.47,2,0.0,368.58,60601.0
+ORD-2024-10238,2024-10-23,CUST-338,Consumer,West,Furniture,Bookcases,Bookcases Model I,1617.56,4,0.1,283.72,10001.0
+ORD-2025-10239,2025-08-19,CUST-339,Consumer,North,Technology,Phones,Phones Model J,2270.59,4,0.5,-221.98,10001.0
+ORD-2024-10240,2025-07-12,CUST-340,Consumer,East,Furniture,Furnishings,Furnishings Model A,310.52,1,0.0,83.88,90001.0
+ORD-2025-10241,2024-03-31,CUST-341,Corporate,West,Technology,Phones,Phones Model B,894.26,2,0.0,215.99,90001.0
+ORD-2024-10242,2025-10-18,CUST-342,Consumer,North,Office Supplies,Art,Art Model C,405.77,8,0.2,41.84,10001.0
+ORD-2025-10243,2024-08-13,CUST-343,Consumer,North,Furniture,Chairs,Chairs Model D,196.05,2,0.5,-17.9,75001.0
+ORD-2024-10244,2025-10-30,CUST-344,Consumer,West,Furniture,Chairs,Chairs Model E,2232.5,8,0.1,403.56,90001.0
+ORD-2025-10245,2024-11-16,CUST-345,Consumer,South,Office Supplies,Binders,Binders Model F,77.49,2,0.0,12.93,30301.0
+ORD-2024-10246,2025-01-06,CUST-346,Corporate,West,Furniture,Tables,Tables Model G,78.63,1,0.3,0.41,30301.0
+ORD-2025-10247,2025-04-09,CUST-347,Corporate,North,Office Supplies,Appliances,Appliances Model H,299.49,3,0.0,73.51,10001.0
+ORD-2024-10248,2024-07-14,CUST-348,Corporate,East,Furniture,Chairs,Chairs Model I,190.28,1,0.1,33.18,30301.0
+ORD-2025-10249,2025-10-28,CUST-349,Consumer,East,Furniture,Tables,Tables Model J,172.93,2,0.0,44.62,30301.0
+ORD-2024-10250,2024-03-12,CUST-100,Corporate,North,Office Supplies,Binders,Binders Model A,289.24,3,0.0,72.18,10001.0
+ORD-2025-10251,2025-07-24,CUST-101,Corporate,North,Furniture,Tables,Tables Model B,928.22,2,0.0,242.58,60601.0
+ORD-2024-10252,2025-02-24,CUST-102,Home Office,South,Office Supplies,Binders,Binders Model C,75.75,2,0.1,8.85,90001.0
+ORD-2025-10253,2024-08-25,CUST-103,Home Office,North,Technology,Accessories,Accessories Model D,459.01,2,0.0,118.0,
+ORD-2024-10254,2025-03-27,CUST-104,Consumer,South,Furniture,Furnishings,Furnishings Model E,306.8,2,0.1,47.83,75001.0
+ORD-2025-10255,2024-09-24,CUST-105,Home Office,West,Furniture,Bookcases,Bookcases Model F,277.73,1,0.1,44.33,90001.0
+ORD-2024-10256,2024-06-13,CUST-106,Consumer,South,Office Supplies,Storage,Storage Model G,278.8,5,0.1,41.6,30301.0
+ORD-2025-10257,2025-02-28,CUST-107,Consumer,West,Technology,Laptops,Laptops Model H,1579.8,2,0.2,175.2,10001.0
+ORD-2024-10258,2024-11-07,CUST-108,Corporate,South,Furniture,Tables,Tables Model I,421.93,3,0.0,112.98,75001.0
+ORD-2025-10259,2024-08-17,CUST-109,Corporate,South,Technology,Phones,Phones Model J,358.65,2,0.3,14.35,90001.0
+ORD-2024-10260,2024-03-14,CUST-110,Corporate,South,Office Supplies,Storage,Storage Model A,46.43,1,0.0,15.56,60601.0
+ORD-2025-10261,2025-12-01,CUST-111,Home Office,South,Office Supplies,Appliances,Appliances Model B,55.58,5,0.0,15.6,75001.0
+ORD-2024-10262,2025-10-05,CUST-112,Consumer,South,Office Supplies,Binders,Binders Model C,377.99,3,0.0,88.77,75001.0
+ORD-2025-10263,2024-05-07,CUST-113,Consumer,North,Furniture,Bookcases,Bookcases Model D,367.6,1,0.2,33.62,90001.0
+ORD-2024-10264,2024-03-10,CUST-114,Home Office,East,Furniture,Chairs,Chairs Model E,1322.04,3,0.0,324.99,60601.0
+ORD-2025-10265,2024-06-17,CUST-115,Consumer,East,Office Supplies,Art,Art Model F,141.32,2,0.1,27.23,60601.0
+ORD-2024-10266,2024-10-30,CUST-116,Corporate,East,Furniture,Chairs,Chairs Model G,147.77,1,0.0,33.39,30301.0
+ORD-2025-10267,2025-05-09,CUST-117,Consumer,North,Office Supplies,Appliances,Appliances Model H,53.54,1,0.0,7.09,10001.0
+ORD-2024-10268,2025-03-04,CUST-118,Corporate,East,Furniture,Bookcases,Bookcases Model I,790.76,2,0.2,88.89,75001.0
+ORD-2025-10269,2024-01-01,CUST-119,Consumer,South,Technology,Phones,Phones Model J,2890.42,3,0.1,524.23,60601.0
+ORD-2024-10270,2025-03-12,CUST-120,Consumer,North,Technology,Phones,Phones Model A,1028.53,3,0.0,261.42,75001.0
+ORD-2025-10271,2025-10-08,CUST-121,Consumer,South,Technology,Accessories,Accessories Model B,992.76,1,0.0,247.02,60601.0
+ORD-2024-10272,2024-05-03,CUST-122,Consumer,East,Technology,Accessories,Accessories Model C,566.94,3,0.1,103.91,90001.0
+ORD-2025-10273,2024-08-08,CUST-123,Corporate,South,Office Supplies,Appliances,Appliances Model D,58.54,1,0.2,8.39,60601.0
+ORD-2024-10274,2025-05-31,CUST-124,Consumer,North,Office Supplies,Storage,Storage Model E,100.69,1,0.0,18.48,30301.0
+ORD-2025-10275,2025-07-30,CUST-125,Home Office,South,Office Supplies,Appliances,Appliances Model F,73.07,2,0.5,-7.74,30301.0
+ORD-2024-10276,2025-05-08,CUST-126,Consumer,North,Technology,Accessories,Accessories Model G,729.01,3,0.1,126.8,30301.0
+ORD-2025-10277,2024-01-04,CUST-127,Home Office,South,Office Supplies,Paper,Paper Model H,201.89,4,0.2,29.49,90001.0
+ORD-2024-10278,2025-09-03,CUST-128,Consumer,North,Office Supplies,Appliances,Appliances Model I,33.62,2,0.0,14.44,75001.0
+ORD-2025-10279,2025-06-30,CUST-129,Corporate,East,Technology,Accessories,Accessories Model J,942.25,1,0.0,249.31,30301.0
+ORD-2024-10280,2025-01-31,CUST-130,Consumer,North,Furniture,Chairs,Chairs Model A,534.84,2,0.2,59.52,75001.0
+ORD-2025-10281,2024-04-10,CUST-131,Consumer,East,Furniture,Chairs,Chairs Model B,329.89,2,0.0,88.28,10001.0
+ORD-2024-10282,2025-07-15,CUST-132,Corporate,West,Furniture,Tables,Tables Model C,707.79,2,0.1,126.57,
+ORD-2025-10283,2024-07-15,CUST-133,Corporate,South,Furniture,Furnishings,Furnishings Model D,820.71,3,0.1,142.32,60601.0
+ORD-2024-10284,2024-03-14,CUST-134,Consumer,South,Technology,Laptops,Laptops Model E,805.18,1,0.1,149.17,30301.0
+ORD-2025-10285,2024-01-26,CUST-135,Corporate,East,Office Supplies,Appliances,Appliances Model F,31.09,1,0.0,1.61,60601.0
+ORD-2024-10286,2025-07-10,CUST-136,Corporate,North,Technology,Copiers,Copiers Model G,716.94,3,0.0,182.59,60601.0
+ORD-2025-10287,2024-11-01,CUST-137,Consumer,West,Furniture,Tables,Tables Model H,322.22,1,0.0,79.09,30301.0
+ORD-2024-10288,2024-10-12,CUST-138,Home Office,East,Office Supplies,Art,Art Model I,1040.99,8,0.0,259.76,90001.0
+ORD-2025-10289,2025-12-03,CUST-139,Home Office,West,Office Supplies,Appliances,Appliances Model J,66.84,1,0.0,14.19,60601.0
+ORD-2024-10290,2025-12-04,CUST-140,Consumer,East,Office Supplies,Paper,Paper Model A,57.14,2,0.0,13.64,60601.0
+ORD-2025-10291,2024-02-20,CUST-141,Home Office,South,Furniture,Bookcases,Bookcases Model B,716.09,2,0.1,132.19,10001.0
+ORD-2024-10292,2024-05-03,CUST-142,Home Office,South,Technology,Copiers,Copiers Model C,1042.43,2,0.1,185.08,60601.0
+ORD-2025-10293,2025-08-31,CUST-143,Consumer,West,Furniture,Furnishings,Furnishings Model D,664.68,2,0.3,37.69,60601.0
+ORD-2024-10294,2025-07-06,CUST-144,Consumer,East,Furniture,Bookcases,Bookcases Model E,427.96,1,0.1,82.6,90001.0
+ORD-2025-10295,2024-09-04,CUST-145,Corporate,South,Furniture,Tables,Tables Model F,840.62,2,0.0,215.54,75001.0
+ORD-2024-10296,2025-12-29,CUST-146,Consumer,West,Office Supplies,Binders,Binders Model G,34.24,3,0.1,10.4,30301.0
+ORD-2025-10297,2024-02-17,CUST-147,Consumer,South,Furniture,Tables,Tables Model H,223.91,1,0.1,42.8,75001.0
+ORD-2024-10298,2024-03-15,CUST-148,Consumer,East,Furniture,Tables,Tables Model I,988.54,3,0.0,247.96,30301.0
+ORD-2025-10299,2025-03-20,CUST-149,Home Office,North,Office Supplies,Storage,Storage Model J,120.65,1,0.1,21.18,90001.0
+ORD-2024-10300,2025-03-03,CUST-150,Home Office,North,Office Supplies,Storage,Storage Model A,777.35,8,0.0,191.76,30301.0
+ORD-2025-10301,2024-06-13,CUST-151,Home Office,West,Technology,Phones,Phones Model B,570.21,2,0.0,141.57,30301.0
+ORD-2024-10302,2025-02-03,CUST-152,Consumer,South,Furniture,Tables,Tables Model C,475.8,1,0.0,120.62,90001.0
+ORD-2025-10303,2025-07-31,CUST-153,Consumer,South,Office Supplies,Storage,Storage Model D,42.55,1,0.0,10.74,90001.0
+ORD-2024-10304,2025-04-10,CUST-154,Consumer,North,Technology,Phones,Phones Model E,1009.02,1,0.0,252.1,10001.0
+ORD-2025-10305,2024-03-18,CUST-155,Consumer,North,Furniture,Furnishings,Furnishings Model F,815.67,2,0.0,199.68,30301.0
+ORD-2024-10306,2025-01-24,CUST-156,Consumer,North,Furniture,Bookcases,Bookcases Model G,834.86,4,0.0,202.79,60601.0
+ORD-2025-10307,2024-07-12,CUST-157,Home Office,South,Technology,Copiers,Copiers Model H,864.2,1,0.0,204.44,60601.0
+ORD-2024-10308,2025-09-25,CUST-158,Consumer,West,Technology,Copiers,Copiers Model I,711.3,2,0.1,111.41,10001.0
+ORD-2025-10309,2025-01-31,CUST-159,Consumer,West,Office Supplies,Binders,Binders Model J,89.52,2,0.2,2.5,60601.0
+ORD-2024-10310,2025-11-20,CUST-160,Corporate,West,Technology,Phones,Phones Model A,1497.98,2,0.2,166.75,90001.0
+ORD-2025-10311,2025-07-17,CUST-161,Consumer,South,Technology,Copiers,Copiers Model B,843.76,1,0.2,92.41,10001.0
+ORD-2024-10312,2025-08-16,CUST-162,Consumer,West,Technology,Laptops,Laptops Model C,5072.06,5,0.1,911.22,10001.0
+ORD-2025-10313,2024-07-13,CUST-163,Consumer,West,Furniture,Bookcases,Bookcases Model D,772.75,2,0.0,188.21,30301.0
+ORD-2024-10314,2024-11-07,CUST-164,Consumer,North,Technology,Accessories,Accessories Model E,1074.07,1,0.0,271.19,60601.0
+ORD-2025-10315,2025-05-29,CUST-165,Corporate,South,Technology,Laptops,Laptops Model F,399.51,1,0.0,106.02,10001.0
+ORD-2024-10316,2024-11-30,CUST-166,Consumer,South,Technology,Accessories,Accessories Model G,2190.73,5,0.0,555.64,75001.0
+ORD-2025-10317,2024-08-11,CUST-167,Corporate,South,Furniture,Tables,Tables Model H,850.99,2,0.1,152.15,75001.0
+ORD-2024-10318,2025-04-09,CUST-168,Consumer,North,Technology,Accessories,Accessories Model I,972.74,2,0.1,175.2,60601.0
+ORD-2025-10319,2024-08-16,CUST-169,Home Office,South,Office Supplies,Appliances,Appliances Model J,895.83,8,0.2,102.97,10001.0
+ORD-2024-10320,2025-11-11,CUST-170,Consumer,North,Furniture,Furnishings,Furnishings Model A,345.9,1,0.1,58.19,90001.0
+ORD-2025-10321,2025-05-23,CUST-171,Corporate,South,Office Supplies,Paper,Paper Model B,82.7,3,0.0,17.94,60601.0
+ORD-2024-10322,2024-12-30,CUST-172,Home Office,West,Technology,Phones,Phones Model C,1018.59,2,0.1,179.18,90001.0
+ORD-2025-10323,2024-01-19,CUST-173,Consumer,South,Office Supplies,Storage,Storage Model D,303.68,3,0.3,11.45,
+ORD-2024-10324,2024-04-21,CUST-174,Consumer,East,Office Supplies,Binders,Binders Model E,138.76,3,0.1,14.01,90001.0
+ORD-2025-10325,2025-11-06,CUST-175,Consumer,West,Office Supplies,Appliances,Appliances Model F,297.67,3,0.1,54.04,10001.0
+ORD-2024-10326,2024-09-30,CUST-176,Consumer,South,Furniture,Furnishings,Furnishings Model G,265.98,1,0.0,64.15,30301.0
+ORD-2025-10327,2024-07-31,CUST-177,Consumer,North,Furniture,Furnishings,Furnishings Model H,378.26,1,0.0,88.79,60601.0
+ORD-2024-10328,2025-09-28,CUST-178,Consumer,South,Technology,Accessories,Accessories Model I,1610.3,3,0.2,179.47,10001.0
+ORD-2025-10329,2024-01-13,CUST-179,Consumer,East,Technology,Accessories,Accessories Model J,186.19,1,0.1,41.12,75001.0
+ORD-2024-10330,2024-04-19,CUST-180,Consumer,West,Office Supplies,Paper,Paper Model A,116.05,1,0.0,28.29,75001.0
+ORD-2025-10331,2025-09-25,CUST-181,Consumer,South,Furniture,Bookcases,Bookcases Model B,386.1,1,0.1,64.76,90001.0
+ORD-2024-10332,2025-01-23,CUST-182,Consumer,South,Furniture,Chairs,Chairs Model C,660.71,2,0.0,165.79,90001.0
+ORD-2025-10333,2024-05-17,CUST-183,Corporate,East,Office Supplies,Appliances,Appliances Model D,505.5,4,0.1,85.95,10001.0
+ORD-2024-10334,2025-03-03,CUST-184,Consumer,South,Furniture,Tables,Tables Model E,1708.61,4,0.0,421.5,10001.0
+ORD-2025-10335,2025-04-12,CUST-185,Consumer,North,Technology,Laptops,Laptops Model F,2384.54,3,0.0,608.19,10001.0
+ORD-2024-10336,2024-08-08,CUST-186,Corporate,East,Office Supplies,Paper,Paper Model G,88.58,1,0.0,18.66,75001.0
+ORD-2025-10337,2025-05-11,CUST-187,Corporate,North,Office Supplies,Appliances,Appliances Model H,292.01,8,0.1,56.35,90001.0
+ORD-2024-10338,2025-01-31,CUST-188,Home Office,South,Office Supplies,Paper,Paper Model I,249.79,2,0.0,68.22,90001.0
+ORD-2025-10339,2024-11-16,CUST-189,Home Office,North,Furniture,Tables,Tables Model J,1037.25,5,0.1,184.11,60601.0
+ORD-2024-10340,2024-09-22,CUST-190,Consumer,South,Office Supplies,Art,Art Model A,262.3,5,0.0,66.53,90001.0
+ORD-2025-10341,2025-08-14,CUST-191,Consumer,West,Furniture,Tables,Tables Model B,499.24,3,0.1,92.11,30301.0
+ORD-2024-10342,2025-06-06,CUST-192,Consumer,East,Technology,Phones,Phones Model C,555.9,1,0.1,100.96,90001.0
+ORD-2025-10343,2024-01-08,CUST-193,Corporate,North,Office Supplies,Storage,Storage Model D,141.63,1,0.0,37.84,60601.0
+ORD-2024-10344,2025-08-04,CUST-194,Consumer,South,Technology,Accessories,Accessories Model E,998.82,2,0.1,177.01,30301.0
+ORD-2025-10345,2025-08-28,CUST-195,Consumer,West,Office Supplies,Appliances,Appliances Model F,73.46,2,0.1,14.24,10001.0
+ORD-2024-10346,2024-03-17,CUST-196,Corporate,South,Furniture,Furnishings,Furnishings Model G,385.93,1,0.2,49.3,10001.0
+ORD-2025-10347,2024-08-19,CUST-197,Consumer,South,Furniture,Tables,Tables Model H,816.01,2,0.0,211.15,60601.0
+ORD-2024-10348,2025-06-04,CUST-198,Home Office,North,Office Supplies,Art,Art Model I,34.56,1,0.2,-10.42,75001.0
+ORD-2025-10349,2025-11-10,CUST-199,Consumer,West,Technology,Phones,Phones Model J,1734.97,2,0.2,190.95,10001.0
+ORD-2024-10350,2024-09-08,CUST-200,Consumer,West,Technology,Copiers,Copiers Model A,1671.07,2,0.1,307.53,10001.0
+ORD-2025-10351,2024-02-17,CUST-201,Home Office,East,Technology,Accessories,Accessories Model B,782.26,2,0.0,193.19,10001.0
+ORD-2024-10352,2025-05-31,CUST-202,Corporate,North,Technology,Phones,Phones Model C,760.82,2,0.1,131.14,60601.0
+ORD-2025-10353,2024-05-15,CUST-203,Corporate,East,Office Supplies,Binders,Binders Model D,170.65,2,0.2,17.36,90001.0
+ORD-2024-10354,2025-10-30,CUST-204,Consumer,East,Furniture,Bookcases,Bookcases Model E,142.56,1,0.2,18.14,30301.0
+ORD-2025-10355,2024-08-29,CUST-205,Consumer,West,Technology,Laptops,Laptops Model F,496.0,1,0.2,52.77,10001.0
+ORD-2024-10356,2024-05-26,CUST-206,Corporate,North,Furniture,Furnishings,Furnishings Model G,187.83,1,0.1,35.53,75001.0
+ORD-2025-10357,2024-03-28,CUST-207,Corporate,South,Furniture,Bookcases,Bookcases Model H,356.05,1,0.1,63.72,30301.0
+ORD-2024-10358,2024-10-22,CUST-208,Consumer,North,Technology,Laptops,Laptops Model I,517.55,1,0.0,130.1,60601.0
+ORD-2025-10359,2025-06-30,CUST-209,Corporate,North,Furniture,Bookcases,Bookcases Model J,203.09,2,0.0,48.25,10001.0
+ORD-2024-10360,2024-12-06,CUST-210,Corporate,East,Office Supplies,Appliances,Appliances Model A,40.28,1,0.0,10.57,90001.0
+ORD-2025-10361,2025-04-28,CUST-211,Consumer,South,Furniture,Bookcases,Bookcases Model B,365.47,1,0.0,95.7,60601.0
+ORD-2024-10362,2025-07-08,CUST-212,Corporate,North,Office Supplies,Paper,Paper Model C,148.4,4,0.2,11.31,10001.0
+ORD-2025-10363,2024-04-02,CUST-213,Corporate,West,Furniture,Tables,Tables Model D,278.53,2,0.0,65.87,60601.0
+ORD-2024-10364,2024-05-02,CUST-214,Corporate,South,Office Supplies,Storage,Storage Model E,23.95,1,0.5,2.07,60601.0
+ORD-2025-10365,2025-04-22,CUST-215,Corporate,West,Office Supplies,Storage,Storage Model F,127.46,2,0.1,32.09,90001.0
+ORD-2024-10366,2025-03-27,CUST-216,Corporate,West,Furniture,Bookcases,Bookcases Model G,681.24,2,0.2,78.25,75001.0
+ORD-2025-10367,2025-07-30,CUST-217,Consumer,South,Furniture,Furnishings,Furnishings Model H,140.62,1,0.3,2.0,10001.0
+ORD-2024-10368,2025-09-14,CUST-218,Home Office,West,Office Supplies,Paper,Paper Model I,117.22,1,0.0,24.27,60601.0
+ORD-2025-10369,2025-10-17,CUST-219,Consumer,West,Furniture,Furnishings,Furnishings Model J,1073.04,3,0.0,266.54,60601.0
+ORD-2024-10370,2024-03-02,CUST-220,Consumer,West,Furniture,Chairs,Chairs Model A,776.69,2,0.0,193.13,30301.0
+ORD-2025-10371,2024-01-09,CUST-221,Home Office,East,Furniture,Chairs,Chairs Model B,693.83,2,0.2,78.99,10001.0
+ORD-2024-10372,2024-10-02,CUST-222,Home Office,East,Furniture,Bookcases,Bookcases Model C,889.6,4,0.1,163.71,60601.0
+ORD-2025-10373,2024-10-04,CUST-223,Home Office,South,Furniture,Furnishings,Furnishings Model D,225.69,1,0.1,30.09,30301.0
+ORD-2024-10374,2025-10-17,CUST-224,Home Office,East,Furniture,Tables,Tables Model E,534.88,2,0.2,65.36,60601.0
+ORD-2025-10375,2024-11-29,CUST-225,Consumer,West,Office Supplies,Storage,Storage Model F,55.78,2,0.0,23.14,30301.0
+ORD-2024-10376,2024-10-31,CUST-226,Consumer,West,Technology,Phones,Phones Model G,913.56,4,0.3,36.13,60601.0
+ORD-2025-10377,2025-09-30,CUST-227,Corporate,South,Technology,Accessories,Accessories Model H,979.82,1,0.0,229.02,10001.0
+ORD-2024-10378,2025-02-19,CUST-228,Consumer,South,Technology,Copiers,Copiers Model I,2072.84,4,0.3,85.96,90001.0
+ORD-2025-10379,2025-04-12,CUST-229,Consumer,East,Office Supplies,Paper,Paper Model J,43.64,1,0.0,24.74,10001.0
+ORD-2024-10380,2024-03-15,CUST-230,Home Office,South,Office Supplies,Storage,Storage Model A,239.01,2,0.2,20.26,90001.0
+ORD-2025-10381,2024-08-26,CUST-231,Corporate,West,Furniture,Chairs,Chairs Model B,669.16,2,0.1,115.07,60601.0
+ORD-2024-10382,2025-11-17,CUST-232,Corporate,East,Office Supplies,Appliances,Appliances Model C,461.94,4,0.0,119.21,60601.0
+ORD-2025-10383,2025-01-16,CUST-233,Consumer,East,Technology,Copiers,Copiers Model D,2076.16,3,0.0,526.24,30301.0
+ORD-2024-10384,2025-07-02,CUST-234,Consumer,North,Furniture,Tables,Tables Model E,651.87,2,0.0,168.87,10001.0
+ORD-2025-10385,2025-11-20,CUST-235,Consumer,West,Furniture,Tables,Tables Model F,867.64,3,0.0,228.3,90001.0
+ORD-2024-10386,2024-04-29,CUST-236,Home Office,West,Furniture,Furnishings,Furnishings Model G,974.74,3,0.0,241.09,90001.0
+ORD-2025-10387,2025-08-06,CUST-237,Consumer,South,Furniture,Tables,Tables Model H,462.76,1,0.0,126.51,90001.0
+ORD-2024-10388,2025-06-01,CUST-238,Consumer,West,Technology,Phones,Phones Model I,2449.75,3,0.3,92.04,30301.0
+ORD-2025-10389,2025-01-04,CUST-239,Consumer,South,Furniture,Chairs,Chairs Model J,1627.54,5,0.0,412.32,60601.0
+ORD-2024-10390,2024-09-18,CUST-240,Consumer,South,Office Supplies,Binders,Binders Model A,817.07,8,0.0,198.5,90001.0
+ORD-2025-10391,2025-03-24,CUST-241,Corporate,East,Office Supplies,Paper,Paper Model B,148.08,2,0.0,28.58,90001.0
+ORD-2024-10392,2024-07-17,CUST-242,Home Office,East,Furniture,Bookcases,Bookcases Model C,258.48,2,0.1,37.54,30301.0
+ORD-2025-10393,2024-09-12,CUST-243,Corporate,North,Technology,Phones,Phones Model D,642.83,3,0.1,123.16,30301.0
+ORD-2024-10394,2025-02-06,CUST-244,Home Office,South,Technology,Accessories,Accessories Model E,1243.17,2,0.2,132.67,10001.0
+ORD-2025-10395,2025-03-15,CUST-245,Consumer,South,Furniture,Chairs,Chairs Model F,140.26,1,0.0,35.46,30301.0
+ORD-2024-10396,2024-01-18,CUST-246,Consumer,South,Technology,Phones,Phones Model G,1339.83,2,0.0,340.1,30301.0
+ORD-2025-10397,2024-11-29,CUST-247,Consumer,East,Furniture,Furnishings,Furnishings Model H,380.14,1,0.2,38.55,75001.0
+ORD-2024-10398,2024-01-10,CUST-248,Consumer,East,Technology,Laptops,Laptops Model I,1089.76,2,0.1,197.09,90001.0
+ORD-2025-10399,2024-06-04,CUST-249,Corporate,East,Furniture,Chairs,Chairs Model J,894.3,4,0.0,225.94,60601.0
+ORD-2024-10400,2024-09-05,CUST-250,Consumer,North,Technology,Accessories,Accessories Model A,1687.91,2,0.0,426.18,30301.0
+ORD-2025-10401,2024-07-13,CUST-251,Home Office,West,Furniture,Chairs,Chairs Model B,325.39,2,0.0,82.39,30301.0
+ORD-2024-10402,2024-11-14,CUST-252,Corporate,East,Technology,Laptops,Laptops Model C,2462.24,3,0.2,263.24,30301.0
+ORD-2025-10403,2025-04-17,CUST-253,Consumer,South,Office Supplies,Binders,Binders Model D,44.02,3,0.2,13.58,10001.0
+ORD-2024-10404,2024-08-16,CUST-254,Consumer,East,Furniture,Bookcases,Bookcases Model E,265.57,1,0.0,64.0,30301.0
+ORD-2025-10405,2025-07-21,CUST-255,Home Office,West,Office Supplies,Art,Art Model F,47.89,1,0.0,5.7,10001.0
+ORD-2024-10406,2025-06-26,CUST-256,Corporate,North,Technology,Accessories,Accessories Model G,2757.67,4,0.1,497.26,60601.0
+ORD-2025-10407,2025-11-01,CUST-257,Home Office,West,Technology,Laptops,Laptops Model H,496.61,1,0.0,117.47,90001.0
+ORD-2024-10408,2025-02-09,CUST-258,Consumer,South,Furniture,Tables,Tables Model I,1659.01,8,0.1,303.51,75001.0
+ORD-2025-10409,2024-12-19,CUST-259,Consumer,North,Office Supplies,Appliances,Appliances Model J,169.08,3,0.0,31.74,30301.0
+ORD-2024-10410,2025-02-19,CUST-260,Consumer,North,Technology,Copiers,Copiers Model A,2082.1,2,0.1,370.16,60601.0
+ORD-2025-10411,2024-01-25,CUST-261,Corporate,North,Technology,Phones,Phones Model B,815.57,2,0.0,195.9,30301.0
+ORD-2024-10412,2024-10-06,CUST-262,Consumer,South,Office Supplies,Art,Art Model C,956.32,8,0.0,239.31,30301.0
+ORD-2025-10413,2025-08-13,CUST-263,Home Office,South,Technology,Phones,Phones Model D,1142.68,3,0.0,285.93,30301.0
+ORD-2024-10414,2025-07-13,CUST-264,Home Office,West,Office Supplies,Binders,Binders Model E,118.17,1,0.1,20.02,60601.0
+ORD-2025-10415,2024-03-13,CUST-265,Consumer,South,Furniture,Bookcases,Bookcases Model F,518.67,3,0.5,-57.22,30301.0
+ORD-2024-10416,2024-06-01,CUST-266,Consumer,South,Office Supplies,Art,Art Model G,134.54,2,0.0,38.23,60601.0
+ORD-2025-10417,2024-10-04,CUST-267,Consumer,South,Office Supplies,Paper,Paper Model H,136.88,2,0.1,29.93,75001.0
+ORD-2024-10418,2025-10-26,CUST-268,Corporate,South,Office Supplies,Storage,Storage Model I,80.05,1,0.1,21.29,75001.0
+ORD-2025-10419,2024-05-28,CUST-269,Consumer,South,Technology,Phones,Phones Model J,1000.76,1,0.1,181.7,75001.0
+ORD-2024-10420,2024-11-27,CUST-270,Consumer,North,Technology,Laptops,Laptops Model A,1456.88,3,0.0,367.42,60601.0
+ORD-2025-10421,2025-02-11,CUST-271,Corporate,North,Office Supplies,Binders,Binders Model B,156.73,2,0.1,28.83,90001.0
+ORD-2024-10422,2025-06-08,CUST-272,Consumer,South,Technology,Phones,Phones Model C,1418.57,2,0.1,257.55,
+ORD-2025-10423,2025-05-02,CUST-273,Consumer,South,Technology,Phones,Phones Model D,1143.52,3,0.0,291.99,90001.0
+ORD-2024-10424,2024-08-03,CUST-274,Consumer,South,Technology,Phones,Phones Model E,815.42,1,0.0,204.21,30301.0
+ORD-2025-10425,2024-10-25,CUST-275,Consumer,North,Furniture,Furnishings,Furnishings Model F,534.45,2,0.2,52.32,60601.0
+ORD-2024-10426,2025-04-28,CUST-276,Consumer,West,Technology,Laptops,Laptops Model G,1415.13,4,0.0,363.3,75001.0
+ORD-2025-10427,2024-05-08,CUST-277,Corporate,North,Technology,Phones,Phones Model H,367.56,1,0.1,69.93,90001.0
+ORD-2024-10428,2025-06-08,CUST-278,Home Office,North,Furniture,Chairs,Chairs Model I,90.34,1,0.0,26.08,90001.0
+ORD-2025-10429,2025-05-03,CUST-279,Home Office,East,Office Supplies,Paper,Paper Model J,387.41,4,0.0,95.63,60601.0
+ORD-2024-10430,2024-01-02,CUST-280,Corporate,East,Furniture,Tables,Tables Model A,1852.48,5,0.0,465.03,60601.0
+ORD-2025-10431,2025-07-02,CUST-281,Corporate,East,Furniture,Bookcases,Bookcases Model B,234.12,1,0.0,54.42,30301.0
+ORD-2024-10432,2025-08-16,CUST-282,Consumer,South,Technology,Accessories,Accessories Model C,2893.63,5,0.2,320.72,30301.0
+ORD-2025-10433,2025-01-11,CUST-283,Consumer,West,Office Supplies,Storage,Storage Model D,287.76,2,0.0,74.61,90001.0
+ORD-2024-10434,2025-03-02,CUST-284,Consumer,North,Office Supplies,Storage,Storage Model E,492.94,4,0.0,120.41,75001.0
+ORD-2025-10435,2025-04-27,CUST-285,Consumer,South,Office Supplies,Art,Art Model F,103.71,1,0.0,28.04,75001.0
+ORD-2024-10436,2025-03-06,CUST-286,Consumer,West,Office Supplies,Storage,Storage Model G,258.0,2,0.1,50.1,30301.0
+ORD-2025-10437,2025-10-30,CUST-287,Home Office,West,Furniture,Bookcases,Bookcases Model H,297.98,1,0.1,56.59,10001.0
+ORD-2024-10438,2024-01-23,CUST-288,Consumer,North,Office Supplies,Storage,Storage Model I,176.71,2,0.2,13.84,10001.0
+ORD-2025-10439,2025-02-25,CUST-289,Consumer,East,Furniture,Chairs,Chairs Model J,645.38,2,0.0,159.38,60601.0
+ORD-2024-10440,2025-02-04,CUST-290,Consumer,West,Office Supplies,Appliances,Appliances Model A,158.82,3,0.3,4.19,30301.0
+ORD-2025-10441,2025-03-31,CUST-291,Home Office,South,Office Supplies,Paper,Paper Model B,74.73,5,0.1,9.5,30301.0
+ORD-2024-10442,2024-11-14,CUST-292,Home Office,East,Office Supplies,Storage,Storage Model C,205.35,8,0.1,37.91,60601.0
+ORD-2025-10443,2024-05-10,CUST-293,Home Office,South,Furniture,Tables,Tables Model D,584.64,2,0.0,137.79,10001.0
+ORD-2024-10444,2024-06-28,CUST-294,Corporate,North,Furniture,Tables,Tables Model E,660.11,2,0.0,161.92,75001.0
+ORD-2025-10445,2024-11-05,CUST-295,Consumer,South,Furniture,Furnishings,Furnishings Model F,507.04,3,0.1,94.18,75001.0
+ORD-2024-10446,2025-07-03,CUST-296,Home Office,South,Furniture,Tables,Tables Model G,189.03,1,0.0,43.27,75001.0
+ORD-2025-10447,2024-11-15,CUST-297,Home Office,North,Technology,Laptops,Laptops Model H,3131.64,3,0.0,796.15,10001.0
+ORD-2024-10448,2024-02-27,CUST-298,Home Office,East,Furniture,Chairs,Chairs Model I,234.74,1,0.1,36.09,90001.0
+ORD-2025-10449,2025-02-08,CUST-299,Home Office,East,Furniture,Chairs,Chairs Model J,100.3,1,0.2,3.58,90001.0
+ORD-2024-10450,2025-06-10,CUST-300,Consumer,West,Technology,Copiers,Copiers Model A,1739.3,3,0.1,314.46,75001.0
+ORD-2025-10451,2025-10-28,CUST-301,Consumer,East,Furniture,Bookcases,Bookcases Model B,1959.21,8,0.2,215.4,10001.0
+ORD-2024-10452,2024-12-26,CUST-302,Home Office,South,Technology,Phones,Phones Model C,2629.41,5,0.0,650.66,90001.0
+ORD-2025-10453,2025-12-30,CUST-303,Consumer,South,Office Supplies,Appliances,Appliances Model D,663.13,5,0.0,166.58,90001.0
+ORD-2024-10454,2024-02-26,CUST-304,Consumer,West,Furniture,Tables,Tables Model E,3021.9,8,0.0,760.02,10001.0
+ORD-2025-10455,2025-01-19,CUST-305,Consumer,South,Office Supplies,Storage,Storage Model F,93.22,1,0.2,12.55,60601.0
+ORD-2024-10456,2025-07-14,CUST-306,Corporate,South,Technology,Accessories,Accessories Model G,678.0,2,0.0,167.89,30301.0
+ORD-2025-10457,2025-11-20,CUST-307,Home Office,West,Furniture,Furnishings,Furnishings Model H,453.04,1,0.0,112.06,75001.0
+ORD-2024-10458,2025-05-07,CUST-308,Corporate,South,Furniture,Chairs,Chairs Model I,441.45,3,0.0,110.54,90001.0
+ORD-2025-10459,2025-06-10,CUST-309,Consumer,North,Technology,Laptops,Laptops Model J,993.13,1,0.0,238.44,75001.0
+ORD-2024-10460,2024-11-04,CUST-310,Home Office,South,Technology,Accessories,Accessories Model A,2243.3,3,0.2,248.51,75001.0
+ORD-2025-10461,2024-09-06,CUST-311,Home Office,North,Office Supplies,Paper,Paper Model B,190.28,3,0.0,44.31,10001.0
+ORD-2024-10462,2025-01-25,CUST-312,Home Office,North,Office Supplies,Art,Art Model C,498.49,4,0.1,83.48,75001.0
+ORD-2025-10463,2025-06-28,CUST-313,Home Office,South,Office Supplies,Paper,Paper Model D,63.5,1,0.0,10.34,75001.0
+ORD-2024-10464,2025-07-09,CUST-314,Corporate,East,Office Supplies,Appliances,Appliances Model E,243.0,4,0.0,67.8,75001.0
+ORD-2025-10465,2024-09-29,CUST-315,Consumer,South,Office Supplies,Appliances,Appliances Model F,75.82,2,0.0,18.23,75001.0
+ORD-2024-10466,2024-08-25,CUST-316,Corporate,North,Technology,Accessories,Accessories Model G,881.61,2,0.0,218.14,90001.0
+ORD-2025-10467,2025-09-05,CUST-317,Consumer,North,Technology,Phones,Phones Model H,452.55,2,0.3,14.16,60601.0
+ORD-2024-10468,2025-03-12,CUST-318,Corporate,South,Furniture,Furnishings,Furnishings Model I,361.78,2,0.0,85.81,60601.0
+ORD-2025-10469,2025-09-22,CUST-319,Corporate,South,Furniture,Chairs,Chairs Model J,1000.38,5,0.1,185.41,10001.0
+ORD-2024-10470,2025-08-13,CUST-320,Consumer,South,Technology,Phones,Phones Model A,896.65,3,0.3,26.65,30301.0
+ORD-2025-10471,2024-12-08,CUST-321,Consumer,West,Technology,Laptops,Laptops Model B,2234.44,2,0.0,554.16,30301.0
+ORD-2024-10472,2025-12-16,CUST-322,Consumer,South,Technology,Copiers,Copiers Model C,1677.55,2,0.2,185.33,30301.0
+ORD-2025-10473,2024-10-09,CUST-323,Consumer,South,Technology,Laptops,Laptops Model D,1805.63,3,0.0,454.26,60601.0
+ORD-2024-10474,2025-01-19,CUST-324,Consumer,East,Office Supplies,Appliances,Appliances Model E,102.64,1,0.0,23.66,90001.0
+ORD-2025-10475,2025-02-22,CUST-325,Home Office,North,Technology,Copiers,Copiers Model F,4575.63,5,0.0,1156.53,90001.0
+ORD-2024-10476,2024-04-29,CUST-326,Corporate,South,Furniture,Furnishings,Furnishings Model G,987.88,3,0.1,174.68,75001.0
+ORD-2025-10477,2025-06-19,CUST-327,Corporate,North,Technology,Accessories,Accessories Model H,2078.2,2,0.0,519.05,10001.0
+ORD-2024-10478,2024-03-15,CUST-328,Corporate,South,Furniture,Bookcases,Bookcases Model I,878.66,2,0.0,219.8,60601.0
+ORD-2025-10479,2025-12-11,CUST-329,Home Office,South,Furniture,Tables,Tables Model J,661.74,2,0.0,169.1,10001.0
+ORD-2024-10480,2025-04-30,CUST-330,Consumer,West,Furniture,Furnishings,Furnishings Model A,1625.02,4,0.0,400.21,60601.0
+ORD-2025-10481,2025-06-24,CUST-331,Consumer,East,Technology,Phones,Phones Model B,411.75,1,0.0,101.68,10001.0
+ORD-2024-10482,2024-12-04,CUST-332,Corporate,West,Furniture,Furnishings,Furnishings Model C,187.77,1,0.1,40.37,90001.0
+ORD-2025-10483,2025-09-28,CUST-333,Corporate,South,Technology,Accessories,Accessories Model D,2293.25,3,0.0,573.97,75001.0
+ORD-2024-10484,2025-08-28,CUST-334,Corporate,West,Technology,Laptops,Laptops Model E,291.7,1,0.1,49.77,10001.0
+ORD-2025-10485,2025-06-15,CUST-335,Consumer,East,Office Supplies,Binders,Binders Model F,151.22,2,0.1,22.18,75001.0
+ORD-2024-10486,2025-06-05,CUST-336,Corporate,South,Technology,Copiers,Copiers Model G,936.89,2,0.2,106.83,30301.0
+ORD-2025-10487,2025-05-05,CUST-337,Home Office,West,Furniture,Tables,Tables Model H,523.79,2,0.1,97.37,60601.0
+ORD-2024-10488,2024-02-15,CUST-338,Consumer,West,Furniture,Furnishings,Furnishings Model I,302.57,3,0.0,81.55,60601.0
+ORD-2025-10489,2025-04-11,CUST-339,Consumer,South,Furniture,Chairs,Chairs Model J,671.19,3,0.2,67.83,30301.0
+ORD-2024-10490,2025-05-07,CUST-340,Home Office,South,Furniture,Bookcases,Bookcases Model A,1910.06,8,0.0,475.3,60601.0
+ORD-2025-10491,2024-08-08,CUST-341,Consumer,West,Office Supplies,Binders,Binders Model B,69.04,1,0.0,23.86,75001.0
+ORD-2024-10492,2025-08-20,CUST-342,Consumer,East,Technology,Laptops,Laptops Model C,3268.88,4,0.0,818.15,90001.0
+ORD-2025-10493,2025-03-19,CUST-343,Consumer,East,Office Supplies,Art,Art Model D,196.62,2,0.0,54.46,10001.0
+ORD-2024-10494,2024-04-15,CUST-344,Home Office,South,Furniture,Furnishings,Furnishings Model E,145.06,2,0.3,10.44,60601.0
+ORD-2025-10495,2024-08-18,CUST-345,Corporate,North,Office Supplies,Art,Art Model F,51.1,3,0.3,13.07,30301.0
+ORD-2024-10496,2024-07-28,CUST-346,Corporate,West,Furniture,Chairs,Chairs Model G,135.09,2,0.2,13.49,30301.0
+ORD-2025-10497,2024-06-14,CUST-347,Corporate,North,Technology,Copiers,Copiers Model H,1175.87,3,0.0,293.51,75001.0
+ORD-2024-10498,2024-09-24,CUST-348,Corporate,South,Office Supplies,Paper,Paper Model I,59.7,1,0.1,8.83,30301.0
+ORD-2025-10499,2025-09-30,CUST-349,Consumer,East,Office Supplies,Appliances,Appliances Model J,111.33,2,0.0,22.63,10001.0
+ORD-2024-10500,2025-09-13,CUST-100,Consumer,North,Office Supplies,Art,Art Model A,211.8,2,0.1,44.68,90001.0
+ORD-2025-10501,2024-06-22,CUST-101,Corporate,South,Technology,Copiers,Copiers Model B,410.59,1,0.5,-42.18,75001.0
+ORD-2024-10502,2024-01-11,CUST-102,Corporate,West,Technology,Accessories,Accessories Model C,2817.02,5,0.0,710.43,60601.0
+ORD-2025-10503,2024-09-10,CUST-103,Consumer,North,Office Supplies,Paper,Paper Model D,106.89,2,0.0,21.56,75001.0
+ORD-2024-10504,2025-06-30,CUST-104,Consumer,West,Furniture,Furnishings,Furnishings Model E,444.6,2,0.0,118.39,60601.0
+ORD-2025-10505,2025-01-25,CUST-105,Consumer,West,Furniture,Bookcases,Bookcases Model F,651.04,3,0.0,169.4,90001.0
+ORD-2024-10506,2025-08-08,CUST-106,Consumer,North,Office Supplies,Art,Art Model G,139.4,1,0.0,42.14,90001.0
+ORD-2025-10507,2025-08-29,CUST-107,Corporate,West,Office Supplies,Storage,Storage Model H,104.37,1,0.0,20.28,30301.0
+ORD-2024-10508,2025-01-05,CUST-108,Corporate,South,Technology,Accessories,Accessories Model I,559.85,3,0.1,100.22,10001.0
+ORD-2025-10509,2024-08-02,CUST-109,Consumer,West,Office Supplies,Paper,Paper Model J,108.65,2,0.1,17.62,10001.0
+ORD-2024-10510,2025-01-09,CUST-110,Corporate,South,Furniture,Furnishings,Furnishings Model A,738.86,4,0.5,-78.64,60601.0
+ORD-2025-10511,2025-05-09,CUST-111,Home Office,North,Office Supplies,Appliances,Appliances Model B,44.04,1,0.5,-5.3,60601.0
+ORD-2024-10512,2025-10-18,CUST-112,Home Office,South,Technology,Accessories,Accessories Model C,2552.5,3,0.0,647.27,10001.0
+ORD-2025-10513,2024-09-07,CUST-113,Consumer,North,Technology,Copiers,Copiers Model D,2663.65,5,0.0,666.47,75001.0
+ORD-2024-10514,2025-05-20,CUST-114,Home Office,North,Furniture,Chairs,Chairs Model E,410.02,3,0.5,-45.86,60601.0
+ORD-2025-10515,2025-01-20,CUST-115,Consumer,North,Furniture,Chairs,Chairs Model F,88.17,1,0.0,26.95,10001.0
+ORD-2024-10516,2024-06-12,CUST-116,Consumer,East,Office Supplies,Storage,Storage Model G,466.66,4,0.0,108.12,75001.0
+ORD-2025-10517,2024-05-05,CUST-117,Consumer,West,Office Supplies,Binders,Binders Model H,336.38,5,0.3,26.64,30301.0
+ORD-2024-10518,2024-08-29,CUST-118,Consumer,West,Furniture,Tables,Tables Model I,389.68,2,0.3,18.36,60601.0
+ORD-2025-10519,2025-03-11,CUST-119,Consumer,South,Office Supplies,Paper,Paper Model J,56.94,2,0.1,14.54,30301.0
+ORD-2024-10520,2024-03-18,CUST-120,Home Office,South,Technology,Laptops,Laptops Model A,2060.47,2,0.1,371.11,90001.0
+ORD-2025-10521,2025-12-30,CUST-121,Corporate,South,Office Supplies,Paper,Paper Model B,901.14,8,0.0,228.08,10001.0
+ORD-2024-10522,2025-02-18,CUST-122,Consumer,West,Office Supplies,Binders,Binders Model C,17.8,1,0.0,1.86,60601.0
+ORD-2025-10523,2024-12-01,CUST-123,Corporate,West,Furniture,Tables,Tables Model D,707.43,3,0.0,175.37,90001.0
+ORD-2024-10524,2024-07-03,CUST-124,Consumer,North,Technology,Accessories,Accessories Model E,418.3,2,0.1,72.29,30301.0
+ORD-2025-10525,2025-04-10,CUST-125,Corporate,North,Technology,Phones,Phones Model F,414.76,1,0.1,80.15,30301.0
+ORD-2024-10526,2024-12-02,CUST-126,Consumer,West,Furniture,Tables,Tables Model G,904.61,3,0.2,97.96,75001.0
+ORD-2025-10527,2025-12-07,CUST-127,Consumer,North,Office Supplies,Appliances,Appliances Model H,260.91,4,0.0,57.31,10001.0
+ORD-2024-10528,2025-09-20,CUST-128,Consumer,North,Office Supplies,Paper,Paper Model I,676.89,5,0.0,170.68,30301.0
+ORD-2025-10529,2025-12-02,CUST-129,Home Office,North,Technology,Laptops,Laptops Model J,1016.91,3,0.0,244.25,75001.0
+ORD-2024-10530,2025-08-03,CUST-130,Consumer,North,Technology,Copiers,Copiers Model A,2349.81,2,0.0,588.9,30301.0
+ORD-2025-10531,2025-06-03,CUST-131,Corporate,East,Office Supplies,Binders,Binders Model B,67.2,3,0.0,17.03,60601.0
+ORD-2024-10532,2024-05-18,CUST-132,Home Office,North,Furniture,Bookcases,Bookcases Model C,370.99,4,0.0,90.54,75001.0
+ORD-2025-10533,2024-07-11,CUST-133,Consumer,North,Office Supplies,Storage,Storage Model D,32.65,1,0.2,1.89,75001.0
+ORD-2024-10534,2024-01-06,CUST-134,Corporate,South,Office Supplies,Binders,Binders Model E,100.02,1,0.1,16.88,30301.0
+ORD-2025-10535,2025-10-07,CUST-135,Consumer,North,Technology,Phones,Phones Model F,746.87,2,0.2,87.26,30301.0
+ORD-2024-10536,2025-09-13,CUST-136,Corporate,North,Furniture,Tables,Tables Model G,141.12,1,0.1,22.31,10001.0
+ORD-2025-10537,2024-08-30,CUST-137,Home Office,South,Furniture,Tables,Tables Model H,366.2,2,0.1,63.3,30301.0
+ORD-2024-10538,2025-01-01,CUST-138,Corporate,North,Office Supplies,Art,Art Model I,476.78,5,0.0,121.31,60601.0
+ORD-2025-10539,2024-01-17,CUST-139,Corporate,South,Office Supplies,Storage,Storage Model J,100.0,1,0.1,25.78,30301.0
+ORD-2024-10540,2024-12-19,CUST-140,Consumer,North,Furniture,Bookcases,Bookcases Model A,573.28,2,0.0,133.14,75001.0
+ORD-2025-10541,2025-02-16,CUST-141,Home Office,North,Technology,Copiers,Copiers Model B,3203.11,3,0.0,801.01,75001.0
+ORD-2024-10542,2024-02-13,CUST-142,Corporate,North,Furniture,Furnishings,Furnishings Model C,774.75,2,0.1,148.05,75001.0
+ORD-2025-10543,2025-01-12,CUST-143,Consumer,North,Furniture,Tables,Tables Model D,405.83,2,0.0,89.0,30301.0
+ORD-2024-10544,2024-10-21,CUST-144,Consumer,North,Furniture,Bookcases,Bookcases Model E,508.02,4,0.1,86.6,30301.0
+ORD-2025-10545,2025-04-16,CUST-145,Corporate,West,Technology,Accessories,Accessories Model F,275.28,1,0.0,68.42,75001.0
+ORD-2024-10546,2025-05-12,CUST-146,Consumer,North,Office Supplies,Art,Art Model G,624.8,5,0.0,170.03,60601.0
+ORD-2025-10547,2024-07-22,CUST-147,Consumer,North,Furniture,Chairs,Chairs Model H,742.18,3,0.1,134.93,10001.0
+ORD-2024-10548,2024-02-25,CUST-148,Corporate,East,Technology,Laptops,Laptops Model I,4145.51,8,0.5,-407.9,10001.0
+ORD-2025-10549,2024-10-26,CUST-149,Home Office,West,Office Supplies,Appliances,Appliances Model J,71.48,1,0.0,24.48,75001.0
+ORD-2024-10550,2025-08-16,CUST-150,Home Office,South,Furniture,Furnishings,Furnishings Model A,704.8,2,0.2,80.9,90001.0
+ORD-2025-10551,2025-02-05,CUST-151,Home Office,East,Office Supplies,Paper,Paper Model B,344.81,3,0.0,85.4,75001.0
+ORD-2024-10552,2025-06-18,CUST-152,Consumer,East,Technology,Laptops,Laptops Model C,190.73,1,0.1,39.83,10001.0
+ORD-2025-10553,2024-07-19,CUST-153,Consumer,North,Furniture,Tables,Tables Model D,1729.25,4,0.0,432.22,60601.0
+ORD-2024-10554,2025-11-12,CUST-154,Corporate,South,Office Supplies,Art,Art Model E,36.44,3,0.1,14.68,60601.0
+ORD-2025-10555,2025-12-03,CUST-155,Corporate,East,Technology,Accessories,Accessories Model F,3709.81,4,0.0,933.97,60601.0
+ORD-2024-10556,2024-12-20,CUST-156,Home Office,South,Furniture,Bookcases,Bookcases Model G,78.61,1,0.1,11.46,90001.0
+ORD-2025-10557,2025-09-25,CUST-157,Home Office,West,Technology,Accessories,Accessories Model H,512.59,1,0.2,61.35,60601.0
+ORD-2024-10558,2025-05-11,CUST-158,Consumer,North,Technology,Laptops,Laptops Model I,293.5,1,0.1,47.1,60601.0
+ORD-2025-10559,2025-01-05,CUST-159,Corporate,South,Office Supplies,Art,Art Model J,47.79,3,0.2,7.59,60601.0
+ORD-2024-10560,2024-11-24,CUST-160,Consumer,East,Office Supplies,Appliances,Appliances Model A,129.7,1,0.1,25.95,10001.0
+ORD-2025-10561,2025-11-21,CUST-161,Home Office,South,Furniture,Furnishings,Furnishings Model B,135.14,1,0.2,10.78,30301.0
+ORD-2024-10562,2024-08-10,CUST-162,Home Office,South,Office Supplies,Binders,Binders Model C,144.56,2,0.2,20.31,60601.0
+ORD-2025-10563,2025-03-23,CUST-163,Consumer,West,Office Supplies,Art,Art Model D,92.29,2,0.1,16.54,10001.0
+ORD-2024-10564,2024-04-03,CUST-164,Home Office,South,Office Supplies,Storage,Storage Model E,187.67,5,0.0,40.29,30301.0
+ORD-2025-10565,2024-12-25,CUST-165,Corporate,West,Furniture,Chairs,Chairs Model F,206.67,1,0.0,54.39,30301.0
+ORD-2024-10566,2025-06-30,CUST-166,Consumer,North,Technology,Accessories,Accessories Model G,995.58,1,0.0,243.18,60601.0
+ORD-2025-10567,2025-04-20,CUST-167,Corporate,South,Technology,Laptops,Laptops Model H,1990.64,3,0.1,361.02,60601.0
+ORD-2024-10568,2025-05-05,CUST-168,Home Office,South,Furniture,Tables,Tables Model I,638.38,4,0.5,-61.33,10001.0
+ORD-2025-10569,2024-02-16,CUST-169,Consumer,North,Technology,Accessories,Accessories Model J,1087.04,1,0.0,267.37,10001.0
+ORD-2024-10570,2024-11-18,CUST-170,Corporate,South,Technology,Laptops,Laptops Model A,1260.29,2,0.0,316.92,90001.0
+ORD-2025-10571,2025-08-13,CUST-171,Consumer,South,Furniture,Chairs,Chairs Model B,296.55,2,0.0,77.06,75001.0
+ORD-2024-10572,2024-01-18,CUST-172,Corporate,South,Technology,Accessories,Accessories Model C,1384.39,4,0.0,340.75,75001.0
+ORD-2025-10573,2025-11-08,CUST-173,Home Office,South,Furniture,Chairs,Chairs Model D,123.59,1,0.2,22.19,60601.0
+ORD-2024-10574,2024-05-15,CUST-174,Home Office,West,Office Supplies,Binders,Binders Model E,241.21,3,0.0,57.77,75001.0
+ORD-2025-10575,2024-04-15,CUST-175,Consumer,North,Technology,Accessories,Accessories Model F,585.06,2,0.0,142.02,30301.0
+ORD-2024-10576,2025-02-25,CUST-176,Home Office,North,Technology,Accessories,Accessories Model G,1020.85,1,0.0,258.84,75001.0
+ORD-2025-10577,2025-02-28,CUST-177,Consumer,South,Technology,Laptops,Laptops Model H,6489.13,8,0.0,1622.97,75001.0
+ORD-2024-10578,2025-09-23,CUST-178,Consumer,North,Technology,Laptops,Laptops Model I,5878.4,8,0.0,1468.21,10001.0
+ORD-2025-10579,2024-01-30,CUST-179,Consumer,West,Furniture,Chairs,Chairs Model J,1001.42,3,0.0,256.81,60601.0
+ORD-2024-10580,2024-10-16,CUST-180,Consumer,West,Furniture,Furnishings,Furnishings Model A,506.5,3,0.0,120.36,90001.0
+ORD-2025-10581,2024-12-20,CUST-181,Corporate,East,Office Supplies,Appliances,Appliances Model B,52.27,1,0.1,9.52,10001.0
+ORD-2024-10582,2025-10-26,CUST-182,Corporate,South,Furniture,Bookcases,Bookcases Model C,149.64,2,0.1,35.27,75001.0
+ORD-2025-10583,2024-07-11,CUST-183,Home Office,East,Technology,Laptops,Laptops Model D,492.5,1,0.2,52.12,90001.0
+ORD-2024-10584,2024-12-05,CUST-184,Consumer,South,Office Supplies,Binders,Binders Model E,97.75,2,0.5,-19.86,75001.0
+ORD-2025-10585,2025-05-22,CUST-185,Consumer,West,Technology,Laptops,Laptops Model F,1837.4,2,0.0,445.19,75001.0
+ORD-2024-10586,2024-03-26,CUST-186,Consumer,North,Technology,Accessories,Accessories Model G,2063.45,2,0.0,516.78,10001.0
+ORD-2025-10587,2024-07-11,CUST-187,Consumer,West,Office Supplies,Paper,Paper Model H,70.86,2,0.0,20.61,30301.0
+ORD-2024-10588,2024-08-04,CUST-188,Corporate,West,Furniture,Chairs,Chairs Model I,511.9,2,0.0,131.24,10001.0
+ORD-2025-10589,2025-09-03,CUST-189,Home Office,South,Furniture,Bookcases,Bookcases Model J,485.09,1,0.0,113.12,90001.0
+ORD-2024-10590,2024-02-06,CUST-190,Home Office,East,Office Supplies,Appliances,Appliances Model A,42.02,2,0.0,14.99,60601.0
+ORD-2025-10591,2024-05-08,CUST-191,Home Office,North,Office Supplies,Appliances,Appliances Model B,55.13,1,0.1,15.57,10001.0
+ORD-2024-10592,2024-08-09,CUST-192,Corporate,North,Furniture,Furnishings,Furnishings Model C,426.68,1,0.0,109.22,90001.0
+ORD-2025-10593,2024-12-15,CUST-193,Home Office,East,Technology,Accessories,Accessories Model D,823.74,1,0.0,212.3,10001.0
+ORD-2024-10594,2024-12-23,CUST-194,Corporate,South,Furniture,Bookcases,Bookcases Model E,793.04,4,0.3,34.17,60601.0
+ORD-2025-10595,2025-11-16,CUST-195,Consumer,West,Technology,Phones,Phones Model F,629.84,2,0.1,116.11,60601.0
+ORD-2024-10596,2025-02-17,CUST-196,Corporate,South,Office Supplies,Appliances,Appliances Model G,138.27,3,0.0,35.18,75001.0
+ORD-2025-10597,2025-11-07,CUST-197,Consumer,South,Technology,Copiers,Copiers Model H,629.07,1,0.1,110.46,75001.0
+ORD-2024-10598,2024-03-10,CUST-198,Consumer,North,Technology,Copiers,Copiers Model I,1630.77,2,0.2,181.84,90001.0
+ORD-2025-10599,2025-03-06,CUST-199,Consumer,South,Office Supplies,Storage,Storage Model J,78.21,1,0.2,2.05,10001.0
+ORD-2024-10600,2025-06-15,CUST-200,Consumer,South,Technology,Copiers,Copiers Model A,858.13,1,0.1,150.12,30301.0
+ORD-2025-10601,2025-06-30,CUST-201,Home Office,North,Technology,Phones,Phones Model B,3352.63,3,0.0,838.65,30301.0
+ORD-2024-10602,2024-07-11,CUST-202,Consumer,East,Technology,Copiers,Copiers Model C,1317.02,2,0.2,148.18,90001.0
+ORD-2025-10603,2025-05-25,CUST-203,Consumer,West,Furniture,Furnishings,Furnishings Model D,255.51,1,0.0,57.55,10001.0
+ORD-2024-10604,2025-04-06,CUST-204,Home Office,South,Furniture,Tables,Tables Model E,324.15,1,0.0,69.97,75001.0
+ORD-2025-10605,2025-03-09,CUST-205,Home Office,South,Furniture,Chairs,Chairs Model F,574.11,2,0.0,141.49,90001.0
+ORD-2024-10606,2025-12-27,CUST-206,Home Office,South,Office Supplies,Paper,Paper Model G,390.77,5,0.3,18.81,90001.0
+ORD-2025-10607,2025-07-25,CUST-207,Consumer,East,Furniture,Tables,Tables Model H,406.94,1,0.0,113.69,90001.0
+ORD-2024-10608,2025-07-22,CUST-208,Corporate,South,Office Supplies,Storage,Storage Model I,83.89,2,0.3,-3.62,90001.0
+ORD-2025-10609,2024-10-03,CUST-209,Corporate,South,Furniture,Furnishings,Furnishings Model J,336.54,3,0.0,80.6,30301.0
+ORD-2024-10610,2025-06-01,CUST-210,Corporate,South,Furniture,Bookcases,Bookcases Model A,498.27,3,0.0,122.79,75001.0
+ORD-2025-10611,2024-02-22,CUST-211,Consumer,West,Office Supplies,Storage,Storage Model B,69.99,2,0.0,19.57,60601.0
+ORD-2024-10612,2025-06-02,CUST-212,Home Office,South,Office Supplies,Storage,Storage Model C,77.65,1,0.1,18.32,10001.0
+ORD-2025-10613,2025-08-11,CUST-213,Consumer,North,Furniture,Chairs,Chairs Model D,1553.79,4,0.1,273.75,10001.0
+ORD-2024-10614,2025-03-30,CUST-214,Corporate,South,Office Supplies,Storage,Storage Model E,85.55,1,0.0,20.4,75001.0
+ORD-2025-10615,2024-07-12,CUST-215,Corporate,West,Furniture,Bookcases,Bookcases Model F,2001.28,8,0.1,355.82,10001.0
+ORD-2024-10616,2025-08-29,CUST-216,Corporate,North,Technology,Laptops,Laptops Model G,1443.49,3,0.3,63.65,60601.0
+ORD-2025-10617,2024-11-04,CUST-217,Consumer,East,Office Supplies,Appliances,Appliances Model H,823.59,8,0.1,159.96,60601.0
+ORD-2024-10618,2025-07-16,CUST-218,Consumer,South,Furniture,Bookcases,Bookcases Model I,285.36,2,0.5,-27.8,90001.0
+ORD-2025-10619,2025-07-31,CUST-219,Consumer,West,Office Supplies,Paper,Paper Model J,267.07,2,0.0,64.16,60601.0
+ORD-2024-10620,2025-08-25,CUST-220,Home Office,North,Technology,Copiers,Copiers Model A,710.34,4,0.2,74.41,75001.0
+ORD-2025-10621,2024-12-22,CUST-221,Corporate,East,Technology,Copiers,Copiers Model B,3412.44,3,0.0,851.04,
+ORD-2024-10622,2024-04-23,CUST-222,Home Office,North,Furniture,Furnishings,Furnishings Model C,269.27,1,0.2,21.05,30301.0
+ORD-2025-10623,2024-11-15,CUST-223,Consumer,South,Technology,Laptops,Laptops Model D,602.26,1,0.0,151.35,60601.0
+ORD-2024-10624,2024-12-31,CUST-224,Home Office,North,Technology,Copiers,Copiers Model E,274.35,1,0.1,47.91,60601.0
+ORD-2025-10625,2024-10-12,CUST-225,Consumer,East,Furniture,Bookcases,Bookcases Model F,210.62,1,0.1,38.11,75001.0
+ORD-2024-10626,2025-05-17,CUST-226,Consumer,North,Furniture,Furnishings,Furnishings Model G,582.67,2,0.0,133.59,75001.0
+ORD-2025-10627,2025-06-18,CUST-227,Home Office,East,Office Supplies,Appliances,Appliances Model H,675.78,5,0.0,169.07,75001.0
+ORD-2024-10628,2025-04-09,CUST-228,Consumer,South,Office Supplies,Paper,Paper Model I,33.69,1,0.0,9.03,10001.0
+ORD-2025-10629,2024-08-27,CUST-229,Consumer,South,Furniture,Bookcases,Bookcases Model J,698.09,3,0.5,-74.15,75001.0
+ORD-2024-10630,2025-03-20,CUST-230,Consumer,North,Office Supplies,Storage,Storage Model A,109.14,1,0.2,15.61,10001.0
+ORD-2025-10631,2025-09-13,CUST-231,Consumer,West,Furniture,Tables,Tables Model B,559.36,2,0.1,99.25,60601.0
+ORD-2024-10632,2025-09-02,CUST-232,Home Office,East,Furniture,Furnishings,Furnishings Model C,1106.3,4,0.1,198.33,60601.0
+ORD-2025-10633,2025-08-05,CUST-233,Consumer,South,Technology,Laptops,Laptops Model D,1056.18,3,0.3,39.2,60601.0
+ORD-2024-10634,2025-08-03,CUST-234,Consumer,East,Furniture,Furnishings,Furnishings Model E,1086.79,3,0.0,271.94,60601.0
+ORD-2025-10635,2024-03-23,CUST-235,Corporate,South,Office Supplies,Appliances,Appliances Model F,221.82,2,0.1,39.06,30301.0
+ORD-2024-10636,2025-11-20,CUST-236,Consumer,South,Furniture,Furnishings,Furnishings Model G,323.35,2,0.0,82.09,10001.0
+ORD-2025-10637,2025-04-05,CUST-237,Consumer,South,Technology,Phones,Phones Model H,197.03,1,0.3,5.07,10001.0
+ORD-2024-10638,2025-01-21,CUST-238,Consumer,West,Office Supplies,Appliances,Appliances Model I,294.1,2,0.0,69.24,90001.0
+ORD-2025-10639,2024-11-04,CUST-239,Corporate,West,Furniture,Furnishings,Furnishings Model J,335.32,3,0.1,59.53,30301.0
+ORD-2024-10640,2025-08-15,CUST-240,Corporate,West,Office Supplies,Art,Art Model A,98.43,1,0.1,18.1,75001.0
+ORD-2025-10641,2024-01-14,CUST-241,Home Office,South,Furniture,Furnishings,Furnishings Model B,932.49,2,0.0,230.56,90001.0
+ORD-2024-10642,2025-08-01,CUST-242,Consumer,South,Technology,Laptops,Laptops Model C,1564.29,2,0.0,397.51,30301.0
+ORD-2025-10643,2025-12-04,CUST-243,Corporate,North,Technology,Phones,Phones Model D,1579.43,2,0.1,284.37,60601.0
+ORD-2024-10644,2024-06-13,CUST-244,Home Office,West,Office Supplies,Art,Art Model E,188.15,2,0.0,45.75,10001.0
+ORD-2025-10645,2025-11-06,CUST-245,Home Office,South,Furniture,Chairs,Chairs Model F,699.98,3,0.1,117.93,90001.0
+ORD-2024-10646,2025-10-26,CUST-246,Consumer,West,Furniture,Chairs,Chairs Model G,578.48,2,0.0,146.77,10001.0
+ORD-2025-10647,2024-08-31,CUST-247,Home Office,South,Furniture,Chairs,Chairs Model H,714.68,2,0.0,182.83,60601.0
+ORD-2024-10648,2024-09-05,CUST-248,Consumer,East,Technology,Phones,Phones Model I,405.22,1,0.0,104.8,90001.0
+ORD-2025-10649,2025-10-19,CUST-249,Consumer,East,Office Supplies,Paper,Paper Model J,134.24,1,0.0,31.85,90001.0
+ORD-2024-10650,2024-04-15,CUST-250,Corporate,West,Furniture,Chairs,Chairs Model A,346.83,2,0.1,70.15,10001.0
+ORD-2025-10651,2025-10-06,CUST-251,Consumer,North,Technology,Accessories,Accessories Model B,729.53,1,0.0,182.81,10001.0
+ORD-2024-10652,2025-07-16,CUST-252,Home Office,South,Office Supplies,Art,Art Model C,70.01,1,0.1,3.5,90001.0
+ORD-2025-10653,2025-06-16,CUST-253,Corporate,North,Technology,Accessories,Accessories Model D,2836.55,3,0.2,308.49,10001.0
+ORD-2024-10654,2025-09-12,CUST-254,Consumer,West,Furniture,Bookcases,Bookcases Model E,214.21,1,0.3,12.1,75001.0
+ORD-2025-10655,2025-12-01,CUST-255,Corporate,South,Office Supplies,Storage,Storage Model F,311.92,3,0.1,62.1,30301.0
+ORD-2024-10656,2024-08-04,CUST-256,Consumer,South,Technology,Copiers,Copiers Model G,822.58,1,0.0,208.87,10001.0
+ORD-2025-10657,2025-03-02,CUST-257,Consumer,South,Office Supplies,Binders,Binders Model H,108.84,1,0.0,27.15,60601.0
+ORD-2024-10658,2025-08-09,CUST-258,Consumer,South,Technology,Copiers,Copiers Model I,1265.34,3,0.0,316.08,10001.0
+ORD-2025-10659,2024-03-21,CUST-259,Consumer,East,Technology,Copiers,Copiers Model J,759.62,1,0.0,185.76,60601.0
+ORD-2024-10660,2024-02-13,CUST-260,Corporate,West,Office Supplies,Binders,Binders Model A,64.95,1,0.2,4.92,10001.0
+ORD-2025-10661,2024-12-13,CUST-261,Corporate,West,Technology,Laptops,Laptops Model B,2990.93,3,0.1,535.58,60601.0
+ORD-2024-10662,2024-01-19,CUST-262,Consumer,North,Technology,Laptops,Laptops Model C,368.27,1,0.3,14.73,10001.0
+ORD-2025-10663,2025-07-13,CUST-263,Consumer,East,Office Supplies,Paper,Paper Model D,613.48,5,0.0,158.91,90001.0
+ORD-2024-10664,2025-12-18,CUST-264,Corporate,South,Technology,Phones,Phones Model E,688.87,2,0.0,184.97,30301.0
+ORD-2025-10665,2024-03-24,CUST-265,Consumer,North,Office Supplies,Paper,Paper Model F,87.56,1,0.0,25.14,75001.0
+ORD-2024-10666,2024-11-13,CUST-266,Consumer,South,Technology,Phones,Phones Model G,776.94,1,0.0,196.98,60601.0
+ORD-2025-10667,2025-01-01,CUST-267,Corporate,East,Office Supplies,Binders,Binders Model H,66.0,1,0.1,20.89,30301.0
+ORD-2024-10668,2025-08-28,CUST-268,Corporate,West,Technology,Copiers,Copiers Model I,3448.45,5,0.2,364.91,90001.0
+ORD-2025-10669,2025-06-10,CUST-269,Consumer,North,Office Supplies,Art,Art Model J,241.34,2,0.0,60.76,10001.0
+ORD-2024-10670,2024-08-19,CUST-270,Consumer,East,Office Supplies,Binders,Binders Model A,18.52,1,0.3,5.74,90001.0
+ORD-2025-10671,2024-08-09,CUST-271,Corporate,North,Office Supplies,Appliances,Appliances Model B,61.17,1,0.2,18.91,30301.0
+ORD-2024-10672,2025-02-07,CUST-272,Consumer,East,Office Supplies,Storage,Storage Model C,13.58,1,0.1,-0.13,75001.0
+ORD-2025-10673,2025-03-11,CUST-273,Corporate,East,Office Supplies,Art,Art Model D,939.23,8,0.0,228.81,10001.0
+ORD-2024-10674,2025-11-04,CUST-274,Consumer,East,Furniture,Tables,Tables Model E,372.94,3,0.1,60.14,60601.0
+ORD-2025-10675,2025-05-13,CUST-275,Corporate,South,Technology,Laptops,Laptops Model F,1590.62,2,0.2,180.98,10001.0
+ORD-2024-10676,2024-07-06,CUST-276,Home Office,West,Office Supplies,Art,Art Model G,424.0,4,0.0,104.0,75001.0
+ORD-2025-10677,2024-06-17,CUST-277,Consumer,South,Furniture,Bookcases,Bookcases Model H,123.02,1,0.1,26.22,90001.0
+ORD-2024-10678,2024-04-02,CUST-278,Corporate,South,Office Supplies,Paper,Paper Model I,36.96,1,0.3,7.96,90001.0
+ORD-2025-10679,2024-09-02,CUST-279,Consumer,North,Furniture,Furnishings,Furnishings Model J,487.14,4,0.1,85.35,75001.0
+ORD-2024-10680,2025-08-14,CUST-280,Home Office,South,Furniture,Furnishings,Furnishings Model A,356.39,1,0.1,52.12,75001.0
+ORD-2025-10681,2025-11-08,CUST-281,Corporate,North,Technology,Accessories,Accessories Model B,2006.07,2,0.0,505.11,75001.0
+ORD-2024-10682,2025-11-28,CUST-282,Corporate,South,Furniture,Bookcases,Bookcases Model C,481.29,2,0.0,125.78,90001.0
+ORD-2025-10683,2025-02-04,CUST-283,Corporate,South,Technology,Copiers,Copiers Model D,1103.27,1,0.0,274.36,75001.0
+ORD-2024-10684,2025-03-27,CUST-284,Consumer,North,Furniture,Bookcases,Bookcases Model E,376.25,1,0.0,98.72,10001.0
+ORD-2025-10685,2025-03-30,CUST-285,Corporate,North,Furniture,Chairs,Chairs Model F,369.33,1,0.1,67.58,75001.0
+ORD-2024-10686,2025-07-09,CUST-286,Consumer,South,Furniture,Bookcases,Bookcases Model G,944.1,2,0.0,239.3,75001.0
+ORD-2025-10687,2024-03-05,CUST-287,Consumer,South,Technology,Accessories,Accessories Model H,2603.48,3,0.1,469.09,60601.0
+ORD-2024-10688,2024-01-28,CUST-288,Consumer,West,Furniture,Chairs,Chairs Model I,2836.73,8,0.1,510.85,30301.0
+ORD-2025-10689,2024-11-29,CUST-289,Corporate,West,Technology,Accessories,Accessories Model J,1199.21,1,0.0,294.73,10001.0
+ORD-2024-10690,2024-11-22,CUST-290,Corporate,South,Furniture,Chairs,Chairs Model A,3683.34,8,0.0,919.1,60601.0
+ORD-2025-10691,2024-03-24,CUST-291,Consumer,North,Furniture,Furnishings,Furnishings Model B,601.94,3,0.0,154.34,75001.0
+ORD-2024-10692,2025-01-31,CUST-292,Consumer,North,Furniture,Tables,Tables Model C,623.95,2,0.0,162.81,75001.0
+ORD-2025-10693,2025-07-24,CUST-293,Consumer,South,Furniture,Furnishings,Furnishings Model D,219.84,1,0.0,52.51,60601.0
+ORD-2024-10694,2024-02-08,CUST-294,Home Office,South,Office Supplies,Binders,Binders Model E,36.31,1,0.0,18.37,10001.0
+ORD-2025-10695,2025-03-06,CUST-295,Home Office,East,Technology,Accessories,Accessories Model F,4168.48,4,0.1,756.12,75001.0
+ORD-2024-10696,2025-08-24,CUST-296,Consumer,North,Technology,Laptops,Laptops Model G,1991.09,2,0.0,499.93,30301.0
+ORD-2025-10697,2024-04-08,CUST-297,Home Office,West,Furniture,Tables,Tables Model H,681.65,4,0.0,174.11,75001.0
+ORD-2024-10698,2025-01-06,CUST-298,Home Office,South,Technology,Phones,Phones Model I,822.67,2,0.3,26.5,10001.0
+ORD-2025-10699,2025-09-01,CUST-299,Corporate,South,Office Supplies,Art,Art Model J,250.53,3,0.1,37.11,90001.0
+ORD-2024-10700,2025-08-31,CUST-300,Consumer,West,Furniture,Bookcases,Bookcases Model A,469.05,2,0.2,41.71,10001.0
+ORD-2025-10701,2025-12-13,CUST-301,Consumer,North,Technology,Accessories,Accessories Model B,579.57,1,0.3,17.27,75001.0
+ORD-2024-10702,2025-11-24,CUST-302,Consumer,West,Furniture,Chairs,Chairs Model C,607.18,2,0.0,153.32,30301.0
+ORD-2025-10703,2024-01-23,CUST-303,Corporate,South,Technology,Accessories,Accessories Model D,1072.62,2,0.0,261.89,75001.0
+ORD-2024-10704,2025-09-03,CUST-304,Corporate,South,Furniture,Furnishings,Furnishings Model E,92.51,1,0.0,28.92,10001.0
+ORD-2025-10705,2025-10-08,CUST-305,Home Office,North,Furniture,Tables,Tables Model F,763.56,3,0.1,138.02,
+ORD-2024-10706,2025-07-21,CUST-306,Consumer,South,Furniture,Furnishings,Furnishings Model G,1825.68,4,0.0,452.56,60601.0
+ORD-2025-10707,2025-12-01,CUST-307,Corporate,East,Office Supplies,Appliances,Appliances Model H,234.28,2,0.0,49.7,10001.0
+ORD-2024-10708,2025-11-10,CUST-308,Consumer,West,Technology,Laptops,Laptops Model I,1161.98,5,0.1,216.0,30301.0
+ORD-2025-10709,2025-09-16,CUST-309,Consumer,East,Office Supplies,Appliances,Appliances Model J,140.82,1,0.0,31.98,30301.0
+ORD-2024-10710,2024-11-14,CUST-310,Consumer,East,Office Supplies,Art,Art Model A,118.68,3,0.2,13.87,75001.0
+ORD-2025-10711,2024-08-16,CUST-311,Consumer,South,Office Supplies,Storage,Storage Model B,143.53,2,0.2,26.59,60601.0
+ORD-2024-10712,2025-04-17,CUST-312,Corporate,West,Furniture,Chairs,Chairs Model C,159.56,2,0.2,15.68,10001.0
+ORD-2025-10713,2025-05-19,CUST-313,Home Office,North,Office Supplies,Paper,Paper Model D,36.86,2,0.2,1.55,10001.0
+ORD-2024-10714,2025-10-20,CUST-314,Home Office,East,Technology,Phones,Phones Model E,1023.88,2,0.3,34.09,90001.0
+ORD-2025-10715,2024-12-23,CUST-315,Consumer,South,Technology,Laptops,Laptops Model F,496.13,2,0.1,94.14,90001.0
+ORD-2024-10716,2025-01-16,CUST-316,Corporate,South,Furniture,Furnishings,Furnishings Model G,1283.19,3,0.0,321.62,90001.0
+ORD-2025-10717,2025-04-15,CUST-317,Consumer,West,Furniture,Chairs,Chairs Model H,520.74,2,0.0,123.27,60601.0
+ORD-2024-10718,2024-06-22,CUST-318,Corporate,South,Technology,Accessories,Accessories Model I,1438.53,4,0.0,368.72,90001.0
+ORD-2025-10719,2025-04-17,CUST-319,Home Office,North,Office Supplies,Binders,Binders Model J,234.7,2,0.0,56.71,10001.0
+ORD-2024-10720,2025-11-27,CUST-320,Corporate,North,Office Supplies,Art,Art Model A,44.82,1,0.0,18.95,10001.0
+ORD-2025-10721,2024-11-20,CUST-321,Consumer,North,Technology,Copiers,Copiers Model B,1502.29,3,0.1,274.36,90001.0
+ORD-2024-10722,2024-06-30,CUST-322,Corporate,West,Furniture,Bookcases,Bookcases Model C,223.89,1,0.1,44.09,60601.0
+ORD-2025-10723,2025-05-17,CUST-323,Home Office,West,Office Supplies,Appliances,Appliances Model D,126.06,4,0.0,24.82,60601.0
+ORD-2024-10724,2025-07-11,CUST-324,Consumer,East,Technology,Accessories,Accessories Model E,2038.77,2,0.1,372.25,60601.0
+ORD-2025-10725,2025-10-29,CUST-325,Consumer,South,Technology,Accessories,Accessories Model F,2654.21,4,0.0,663.37,90001.0
+ORD-2024-10726,2024-11-24,CUST-326,Consumer,South,Furniture,Tables,Tables Model G,358.51,2,0.1,54.6,75001.0
+ORD-2025-10727,2024-02-13,CUST-327,Corporate,West,Furniture,Bookcases,Bookcases Model H,42.82,1,0.5,-7.34,60601.0
+ORD-2024-10728,2024-12-05,CUST-328,Corporate,North,Furniture,Chairs,Chairs Model I,625.88,2,0.1,118.5,60601.0
+ORD-2025-10729,2025-10-14,CUST-329,Corporate,North,Furniture,Furnishings,Furnishings Model J,300.14,1,0.0,71.42,10001.0
+ORD-2024-10730,2025-08-07,CUST-330,Consumer,East,Technology,Copiers,Copiers Model A,486.34,2,0.0,123.84,90001.0
+ORD-2025-10731,2024-09-19,CUST-331,Home Office,South,Furniture,Furnishings,Furnishings Model B,498.39,1,0.0,129.55,75001.0
+ORD-2024-10732,2024-12-21,CUST-332,Home Office,South,Technology,Laptops,Laptops Model C,923.99,1,0.0,226.63,60601.0
+ORD-2025-10733,2025-02-26,CUST-333,Corporate,North,Office Supplies,Binders,Binders Model D,77.57,3,0.0,21.8,10001.0
+ORD-2024-10734,2024-01-20,CUST-334,Consumer,South,Furniture,Tables,Tables Model E,275.55,2,0.3,9.42,75001.0
+ORD-2025-10735,2024-12-25,CUST-335,Home Office,North,Office Supplies,Binders,Binders Model F,305.3,3,0.1,46.06,60601.0
+ORD-2024-10736,2024-08-31,CUST-336,Corporate,North,Office Supplies,Appliances,Appliances Model G,351.55,4,0.1,62.16,10001.0
+ORD-2025-10737,2025-04-11,CUST-337,Home Office,West,Technology,Copiers,Copiers Model H,1693.25,4,0.1,302.34,30301.0
+ORD-2024-10738,2025-07-22,CUST-338,Consumer,East,Technology,Phones,Phones Model I,2129.08,2,0.0,540.09,10001.0
+ORD-2025-10739,2025-08-19,CUST-339,Consumer,South,Furniture,Tables,Tables Model J,1131.46,4,0.0,289.85,10001.0
+ORD-2024-10740,2025-03-27,CUST-340,Home Office,North,Furniture,Bookcases,Bookcases Model A,708.19,2,0.0,175.03,30301.0
+ORD-2025-10741,2024-08-12,CUST-341,Corporate,West,Furniture,Chairs,Chairs Model B,431.22,2,0.1,73.63,10001.0
+ORD-2024-10742,2024-12-21,CUST-342,Corporate,East,Office Supplies,Binders,Binders Model C,493.47,4,0.0,122.41,75001.0
+ORD-2025-10743,2024-12-31,CUST-343,Consumer,West,Office Supplies,Paper,Paper Model D,138.11,1,0.0,26.92,10001.0
+ORD-2024-10744,2025-03-25,CUST-344,Consumer,East,Office Supplies,Appliances,Appliances Model E,30.52,1,0.1,7.15,10001.0
+ORD-2025-10745,2025-03-18,CUST-345,Consumer,North,Technology,Phones,Phones Model F,5989.07,8,0.0,1492.03,30301.0
+ORD-2024-10746,2025-09-13,CUST-346,Home Office,West,Technology,Laptops,Laptops Model G,741.53,1,0.3,28.85,60601.0
+ORD-2025-10747,2024-07-08,CUST-347,Home Office,South,Office Supplies,Appliances,Appliances Model H,55.35,1,0.1,9.84,75001.0
+ORD-2024-10748,2025-03-05,CUST-348,Corporate,West,Technology,Accessories,Accessories Model I,400.41,2,0.1,85.89,90001.0
+ORD-2025-10749,2024-05-04,CUST-349,Consumer,West,Technology,Phones,Phones Model J,1987.12,2,0.1,349.91,30301.0
+ORD-2024-10750,2024-12-10,CUST-100,Consumer,East,Office Supplies,Paper,Paper Model A,41.29,1,0.1,5.83,75001.0
+ORD-2025-10751,2024-08-06,CUST-101,Corporate,West,Technology,Laptops,Laptops Model B,357.49,2,0.2,27.3,60601.0
+ORD-2024-10752,2024-01-05,CUST-102,Corporate,West,Technology,Phones,Phones Model C,200.36,1,0.2,28.56,90001.0
+ORD-2025-10753,2025-02-04,CUST-103,Home Office,South,Technology,Copiers,Copiers Model D,3127.39,3,0.0,782.4,90001.0
+ORD-2024-10754,2025-01-23,CUST-104,Corporate,East,Technology,Phones,Phones Model E,3287.38,3,0.0,814.69,60601.0
+ORD-2025-10755,2025-09-08,CUST-105,Home Office,North,Technology,Phones,Phones Model F,826.4,1,0.2,95.41,75001.0
+ORD-2024-10756,2025-09-12,CUST-106,Corporate,South,Technology,Laptops,Laptops Model G,417.61,1,0.1,75.56,75001.0
+ORD-2025-10757,2025-03-02,CUST-107,Consumer,West,Technology,Copiers,Copiers Model H,1317.76,2,0.1,238.92,10001.0
+ORD-2024-10758,2025-05-15,CUST-108,Consumer,East,Office Supplies,Paper,Paper Model I,42.66,2,0.1,7.83,90001.0
+ORD-2025-10759,2025-07-10,CUST-109,Consumer,South,Technology,Accessories,Accessories Model J,1408.65,3,0.3,50.55,60601.0
+ORD-2024-10760,2025-05-09,CUST-110,Consumer,North,Furniture,Chairs,Chairs Model A,444.3,1,0.1,82.75,75001.0
+ORD-2025-10761,2024-06-30,CUST-111,Corporate,South,Office Supplies,Appliances,Appliances Model B,257.89,2,0.0,60.32,60601.0
+ORD-2024-10762,2025-06-13,CUST-112,Consumer,South,Technology,Phones,Phones Model C,1788.14,2,0.0,438.48,90001.0
+ORD-2025-10763,2024-03-11,CUST-113,Consumer,South,Office Supplies,Storage,Storage Model D,285.34,3,0.1,48.08,75001.0
+ORD-2024-10764,2024-04-18,CUST-114,Corporate,South,Technology,Accessories,Accessories Model E,1931.54,4,0.0,489.4,60601.0
+ORD-2025-10765,2025-09-06,CUST-115,Consumer,South,Furniture,Tables,Tables Model F,84.7,1,0.2,4.87,10001.0
+ORD-2024-10766,2024-03-26,CUST-116,Corporate,North,Technology,Phones,Phones Model G,1544.82,2,0.0,389.52,75001.0
+ORD-2025-10767,2025-02-18,CUST-117,Consumer,South,Office Supplies,Binders,Binders Model H,58.03,1,0.2,0.86,60601.0
+ORD-2024-10768,2025-09-27,CUST-118,Consumer,South,Furniture,Bookcases,Bookcases Model I,348.25,3,0.0,82.53,60601.0
+ORD-2025-10769,2024-01-31,CUST-119,Consumer,South,Office Supplies,Art,Art Model J,144.04,3,0.1,33.79,75001.0
+ORD-2024-10770,2025-08-26,CUST-120,Consumer,North,Technology,Accessories,Accessories Model A,3663.24,4,0.1,658.04,75001.0
+ORD-2025-10771,2025-02-06,CUST-121,Corporate,South,Office Supplies,Binders,Binders Model B,79.24,1,0.1,21.77,10001.0
+ORD-2024-10772,2025-01-21,CUST-122,Consumer,West,Office Supplies,Art,Art Model C,209.55,2,0.0,52.0,90001.0
+ORD-2025-10773,2024-12-01,CUST-123,Consumer,East,Furniture,Tables,Tables Model D,733.77,2,0.2,81.7,30301.0
+ORD-2024-10774,2025-12-23,CUST-124,Consumer,East,Office Supplies,Storage,Storage Model E,99.61,1,0.2,-1.53,60601.0
+ORD-2025-10775,2024-02-20,CUST-125,Home Office,North,Furniture,Furnishings,Furnishings Model F,535.26,2,0.0,135.38,30301.0
+ORD-2024-10776,2025-06-30,CUST-126,Corporate,South,Office Supplies,Art,Art Model G,310.16,5,0.1,55.23,60601.0
+ORD-2025-10777,2024-09-05,CUST-127,Home Office,South,Technology,Accessories,Accessories Model H,222.67,1,0.2,24.96,30301.0
+ORD-2024-10778,2024-07-06,CUST-128,Corporate,South,Technology,Copiers,Copiers Model I,937.21,1,0.2,106.65,75001.0
+ORD-2025-10779,2024-07-15,CUST-129,Consumer,North,Technology,Phones,Phones Model J,2775.4,5,0.2,299.9,75001.0
+ORD-2024-10780,2025-02-04,CUST-130,Consumer,South,Furniture,Bookcases,Bookcases Model A,410.53,1,0.0,117.09,75001.0
+ORD-2025-10781,2024-09-08,CUST-131,Corporate,East,Furniture,Chairs,Chairs Model B,930.0,3,0.0,233.89,60601.0
+ORD-2024-10782,2024-08-19,CUST-132,Corporate,North,Office Supplies,Binders,Binders Model C,306.39,3,0.2,28.21,90001.0
+ORD-2025-10783,2024-12-10,CUST-133,Corporate,West,Technology,Phones,Phones Model D,1297.61,3,0.3,43.32,90001.0
+ORD-2024-10784,2025-01-09,CUST-134,Corporate,West,Technology,Laptops,Laptops Model E,549.48,2,0.1,99.41,60601.0
+ORD-2025-10785,2025-12-12,CUST-135,Corporate,North,Technology,Phones,Phones Model F,2622.9,4,0.1,477.91,10001.0
+ORD-2024-10786,2025-05-24,CUST-136,Consumer,South,Technology,Copiers,Copiers Model G,948.14,2,0.2,109.03,75001.0
+ORD-2025-10787,2025-04-30,CUST-137,Consumer,South,Office Supplies,Appliances,Appliances Model H,114.48,1,0.0,24.05,10001.0
+ORD-2024-10788,2024-11-25,CUST-138,Corporate,West,Technology,Accessories,Accessories Model I,1743.56,2,0.0,436.36,90001.0
+ORD-2025-10789,2024-12-13,CUST-139,Home Office,North,Technology,Copiers,Copiers Model J,1131.69,2,0.3,40.09,60601.0
+ORD-2024-10790,2025-12-22,CUST-140,Home Office,West,Office Supplies,Paper,Paper Model A,246.92,2,0.0,57.24,10001.0
+ORD-2025-10791,2024-02-09,CUST-141,Home Office,South,Furniture,Tables,Tables Model B,643.43,3,0.0,166.25,90001.0
+ORD-2024-10792,2025-07-22,CUST-142,Home Office,South,Office Supplies,Storage,Storage Model C,255.37,2,0.0,61.48,60601.0
+ORD-2025-10793,2025-06-23,CUST-143,Corporate,North,Office Supplies,Binders,Binders Model D,68.75,3,0.0,17.92,75001.0
+ORD-2024-10794,2025-06-20,CUST-144,Consumer,South,Technology,Phones,Phones Model E,699.19,1,0.1,130.58,60601.0
+ORD-2025-10795,2024-08-10,CUST-145,Consumer,South,Technology,Laptops,Laptops Model F,2867.9,3,0.0,717.66,90001.0
+ORD-2024-10796,2024-01-01,CUST-146,Consumer,South,Technology,Copiers,Copiers Model G,277.96,1,0.2,34.68,30301.0
+ORD-2025-10797,2024-01-25,CUST-147,Consumer,East,Technology,Phones,Phones Model H,2519.85,3,0.2,281.27,60601.0
+ORD-2024-10798,2024-11-29,CUST-148,Consumer,South,Technology,Laptops,Laptops Model I,2022.72,3,0.2,228.42,60601.0
+ORD-2025-10799,2024-12-14,CUST-149,Corporate,West,Office Supplies,Storage,Storage Model J,281.6,2,0.0,66.94,90001.0
+ORD-2024-10800,2025-12-16,CUST-150,Corporate,North,Office Supplies,Storage,Storage Model A,263.32,3,0.0,61.97,30301.0
+ORD-2025-10801,2024-08-06,CUST-151,Consumer,West,Furniture,Furnishings,Furnishings Model B,405.06,1,0.1,70.25,90001.0
+ORD-2024-10802,2025-03-04,CUST-152,Corporate,South,Technology,Accessories,Accessories Model C,271.99,1,0.5,-23.5,30301.0
+ORD-2025-10803,2024-08-25,CUST-153,Consumer,South,Office Supplies,Appliances,Appliances Model D,77.13,1,0.0,25.68,60601.0
+ORD-2024-10804,2024-01-17,CUST-154,Consumer,North,Furniture,Bookcases,Bookcases Model E,551.99,5,0.0,137.32,60601.0
+ORD-2025-10805,2025-10-29,CUST-155,Consumer,South,Office Supplies,Paper,Paper Model F,35.49,2,0.3,5.28,10001.0
+ORD-2024-10806,2024-02-15,CUST-156,Home Office,South,Technology,Accessories,Accessories Model G,1898.23,5,0.0,478.74,60601.0
+ORD-2025-10807,2025-06-17,CUST-157,Corporate,North,Technology,Laptops,Laptops Model H,836.1,3,0.0,207.26,75001.0
+ORD-2024-10808,2024-03-15,CUST-158,Corporate,South,Office Supplies,Storage,Storage Model I,101.93,3,0.0,20.71,90001.0
+ORD-2025-10809,2024-05-01,CUST-159,Consumer,South,Technology,Accessories,Accessories Model J,758.7,1,0.2,85.72,75001.0
+ORD-2024-10810,2024-11-23,CUST-160,Corporate,South,Office Supplies,Art,Art Model A,306.96,3,0.0,72.62,60601.0
+ORD-2025-10811,2024-07-31,CUST-161,Home Office,South,Furniture,Chairs,Chairs Model B,476.6,3,0.1,84.52,10001.0
+ORD-2024-10812,2024-02-26,CUST-162,Corporate,West,Technology,Phones,Phones Model C,1464.89,3,0.0,362.36,60601.0
+ORD-2025-10813,2025-01-09,CUST-163,Corporate,South,Technology,Phones,Phones Model D,754.78,2,0.1,127.93,30301.0
+ORD-2024-10814,2025-10-09,CUST-164,Home Office,North,Technology,Accessories,Accessories Model E,880.92,1,0.0,219.16,75001.0
+ORD-2025-10815,2024-05-10,CUST-165,Consumer,North,Technology,Accessories,Accessories Model F,3677.84,4,0.0,926.43,10001.0
+ORD-2024-10816,2025-06-08,CUST-166,Corporate,South,Furniture,Chairs,Chairs Model G,564.2,2,0.0,150.01,60601.0
+ORD-2025-10817,2024-04-24,CUST-167,Home Office,East,Office Supplies,Storage,Storage Model H,231.49,3,0.1,47.91,10001.0
+ORD-2024-10818,2024-07-07,CUST-168,Consumer,West,Furniture,Furnishings,Furnishings Model I,315.49,1,0.0,72.16,60601.0
+ORD-2025-10819,2025-04-26,CUST-169,Home Office,North,Office Supplies,Binders,Binders Model J,254.79,2,0.0,61.72,10001.0
+ORD-2024-10820,2025-01-06,CUST-170,Consumer,North,Furniture,Chairs,Chairs Model A,1019.3,3,0.2,106.92,30301.0
+ORD-2025-10821,2024-07-13,CUST-171,Consumer,East,Technology,Laptops,Laptops Model B,2073.1,2,0.0,518.19,75001.0
+ORD-2024-10822,2024-10-30,CUST-172,Home Office,East,Office Supplies,Art,Art Model C,67.31,1,0.0,7.43,30301.0
+ORD-2025-10823,2025-01-08,CUST-173,Consumer,South,Furniture,Tables,Tables Model D,334.2,4,0.0,90.75,90001.0
+ORD-2024-10824,2025-10-07,CUST-174,Corporate,South,Office Supplies,Binders,Binders Model E,182.75,2,0.1,43.69,30301.0
+ORD-2025-10825,2025-03-23,CUST-175,Consumer,West,Office Supplies,Art,Art Model F,130.34,2,0.0,23.28,90001.0
+ORD-2024-10826,2025-08-21,CUST-176,Consumer,West,Technology,Accessories,Accessories Model G,2486.21,4,0.1,439.02,30301.0
+ORD-2025-10827,2025-09-01,CUST-177,Corporate,South,Office Supplies,Paper,Paper Model H,232.52,2,0.0,57.8,60601.0
+ORD-2024-10828,2025-02-18,CUST-178,Consumer,South,Technology,Accessories,Accessories Model I,1945.17,2,0.1,354.09,60601.0
+ORD-2025-10829,2024-10-07,CUST-179,Corporate,South,Office Supplies,Art,Art Model J,109.69,1,0.0,21.83,10001.0
+ORD-2024-10830,2024-02-06,CUST-180,Consumer,East,Technology,Copiers,Copiers Model A,828.54,1,0.0,202.6,30301.0
+ORD-2025-10831,2024-07-30,CUST-181,Corporate,North,Office Supplies,Binders,Binders Model B,183.87,2,0.0,51.85,75001.0
+ORD-2024-10832,2024-02-19,CUST-182,Consumer,North,Furniture,Chairs,Chairs Model C,1149.6,5,0.5,-111.82,75001.0
+ORD-2025-10833,2025-12-04,CUST-183,Consumer,East,Office Supplies,Paper,Paper Model D,243.23,2,0.1,49.34,30301.0
+ORD-2024-10834,2025-01-06,CUST-184,Home Office,North,Office Supplies,Storage,Storage Model E,54.09,1,0.0,11.51,60601.0
+ORD-2025-10835,2024-12-24,CUST-185,Home Office,East,Furniture,Tables,Tables Model F,178.28,1,0.0,44.99,10001.0
+ORD-2024-10836,2025-01-27,CUST-186,Consumer,South,Office Supplies,Paper,Paper Model G,375.41,3,0.1,62.98,60601.0
+ORD-2025-10837,2025-10-09,CUST-187,Consumer,South,Office Supplies,Storage,Storage Model H,124.15,2,0.2,16.86,60601.0
+ORD-2024-10838,2024-02-17,CUST-188,Corporate,West,Furniture,Furnishings,Furnishings Model I,175.94,1,0.0,42.25,10001.0
+ORD-2025-10839,2025-01-23,CUST-189,Corporate,East,Office Supplies,Binders,Binders Model J,52.49,2,0.5,-8.18,90001.0
+ORD-2024-10840,2025-10-23,CUST-190,Consumer,East,Office Supplies,Appliances,Appliances Model A,85.67,1,0.2,19.79,10001.0
+ORD-2025-10841,2025-02-21,CUST-191,Consumer,East,Furniture,Furnishings,Furnishings Model B,543.11,2,0.2,55.81,75001.0
+ORD-2024-10842,2024-07-30,CUST-192,Corporate,South,Office Supplies,Storage,Storage Model C,220.86,3,0.0,47.42,90001.0
+ORD-2025-10843,2024-08-05,CUST-193,Consumer,East,Technology,Phones,Phones Model D,1885.53,4,0.0,478.48,30301.0
+ORD-2024-10844,2025-10-10,CUST-194,Home Office,South,Office Supplies,Binders,Binders Model E,120.87,1,0.1,18.65,90001.0
+ORD-2025-10845,2024-04-30,CUST-195,Corporate,North,Office Supplies,Binders,Binders Model F,330.31,3,0.2,40.49,10001.0
+ORD-2024-10846,2024-03-21,CUST-196,Consumer,North,Furniture,Furnishings,Furnishings Model G,935.3,3,0.0,223.44,90001.0
+ORD-2025-10847,2025-04-23,CUST-197,Consumer,South,Furniture,Bookcases,Bookcases Model H,930.59,3,0.2,101.19,75001.0
+ORD-2024-10848,2025-10-23,CUST-198,Consumer,South,Furniture,Furnishings,Furnishings Model I,568.29,2,0.0,140.78,30301.0
+ORD-2025-10849,2025-05-11,CUST-199,Home Office,South,Office Supplies,Binders,Binders Model J,42.16,1,0.0,9.6,30301.0
+ORD-2024-10850,2024-09-20,CUST-200,Corporate,West,Furniture,Chairs,Chairs Model A,460.24,1,0.0,125.35,10001.0
+ORD-2025-10851,2025-01-04,CUST-201,Consumer,East,Furniture,Tables,Tables Model B,1682.96,5,0.3,60.13,90001.0
+ORD-2024-10852,2025-07-03,CUST-202,Corporate,East,Furniture,Furnishings,Furnishings Model C,289.84,2,0.5,-33.84,10001.0
+ORD-2025-10853,2024-02-08,CUST-203,Home Office,South,Furniture,Bookcases,Bookcases Model D,494.82,3,0.5,-40.84,60601.0
+ORD-2024-10854,2024-03-05,CUST-204,Consumer,North,Office Supplies,Binders,Binders Model E,20.08,1,0.2,2.32,30301.0
+ORD-2025-10855,2025-01-22,CUST-205,Consumer,West,Furniture,Tables,Tables Model F,366.21,1,0.0,88.99,90001.0
+ORD-2024-10856,2025-03-13,CUST-206,Home Office,South,Technology,Laptops,Laptops Model G,1230.99,2,0.0,316.67,10001.0
+ORD-2025-10857,2024-03-07,CUST-207,Corporate,North,Office Supplies,Binders,Binders Model H,150.18,4,0.0,39.73,10001.0
+ORD-2024-10858,2024-03-30,CUST-208,Consumer,West,Office Supplies,Paper,Paper Model I,209.81,2,0.0,61.45,90001.0
+ORD-2025-10859,2025-11-24,CUST-209,Home Office,North,Office Supplies,Storage,Storage Model J,290.13,3,0.0,72.18,10001.0
+ORD-2024-10860,2025-10-20,CUST-210,Home Office,West,Office Supplies,Appliances,Appliances Model A,37.72,1,0.0,7.42,10001.0
+ORD-2025-10861,2025-01-16,CUST-211,Consumer,West,Office Supplies,Art,Art Model B,21.63,1,0.3,4.47,75001.0
+ORD-2024-10862,2025-04-23,CUST-212,Consumer,West,Furniture,Bookcases,Bookcases Model C,220.7,1,0.0,60.88,60601.0
+ORD-2025-10863,2024-02-03,CUST-213,Home Office,South,Office Supplies,Storage,Storage Model D,188.45,3,0.0,41.21,90001.0
+ORD-2024-10864,2024-09-22,CUST-214,Consumer,South,Office Supplies,Binders,Binders Model E,103.08,3,0.0,15.41,30301.0
+ORD-2025-10865,2024-01-26,CUST-215,Home Office,East,Furniture,Furnishings,Furnishings Model F,1540.7,5,0.2,174.44,75001.0
+ORD-2024-10866,2025-12-18,CUST-216,Consumer,West,Office Supplies,Art,Art Model G,174.37,2,0.0,47.11,60601.0
+ORD-2025-10867,2024-04-09,CUST-217,Consumer,South,Office Supplies,Binders,Binders Model H,50.39,1,0.3,14.51,30301.0
+ORD-2024-10868,2024-03-01,CUST-218,Consumer,North,Furniture,Tables,Tables Model I,1072.09,3,0.0,262.71,60601.0
+ORD-2025-10869,2024-01-21,CUST-219,Corporate,West,Technology,Accessories,Accessories Model J,8971.66,8,0.0,2249.9,30301.0
+ORD-2024-10870,2024-02-23,CUST-220,Consumer,West,Technology,Copiers,Copiers Model A,2834.47,3,0.2,305.68,90001.0
+ORD-2025-10871,2025-01-05,CUST-221,Consumer,South,Office Supplies,Appliances,Appliances Model B,35.55,2,0.1,13.52,75001.0
+ORD-2024-10872,2025-08-10,CUST-222,Consumer,South,Office Supplies,Binders,Binders Model C,364.66,8,0.2,44.59,10001.0
+ORD-2025-10873,2025-02-16,CUST-223,Corporate,West,Technology,Copiers,Copiers Model D,2195.06,2,0.0,540.06,30301.0
+ORD-2024-10874,2024-02-15,CUST-224,Home Office,East,Technology,Phones,Phones Model E,2453.08,3,0.0,615.69,90001.0
+ORD-2025-10875,2025-11-11,CUST-225,Consumer,North,Furniture,Furnishings,Furnishings Model F,489.31,3,0.5,-46.17,10001.0
+ORD-2024-10876,2025-03-13,CUST-226,Corporate,West,Office Supplies,Paper,Paper Model G,456.52,5,0.3,14.75,75001.0
+ORD-2025-10877,2024-06-23,CUST-227,Consumer,North,Office Supplies,Storage,Storage Model H,103.96,2,0.1,17.72,60601.0
+ORD-2024-10878,2025-03-13,CUST-228,Home Office,North,Office Supplies,Art,Art Model I,235.79,2,0.1,48.53,60601.0
+ORD-2025-10879,2024-05-16,CUST-229,Consumer,South,Furniture,Tables,Tables Model J,272.51,2,0.1,51.45,75001.0
+ORD-2024-10880,2025-08-16,CUST-230,Consumer,North,Office Supplies,Appliances,Appliances Model A,46.96,4,0.0,14.83,75001.0
+ORD-2025-10881,2025-08-16,CUST-231,Home Office,West,Technology,Laptops,Laptops Model B,1655.29,3,0.2,184.0,10001.0
+ORD-2024-10882,2024-11-20,CUST-232,Consumer,South,Office Supplies,Binders,Binders Model C,128.78,4,0.0,30.85,60601.0
+ORD-2025-10883,2024-02-14,CUST-233,Corporate,South,Furniture,Furnishings,Furnishings Model D,339.71,1,0.0,77.21,30301.0
+ORD-2024-10884,2024-11-22,CUST-234,Corporate,East,Office Supplies,Binders,Binders Model E,64.34,1,0.0,7.26,75001.0
+ORD-2025-10885,2024-01-30,CUST-235,Consumer,South,Technology,Phones,Phones Model F,1853.4,2,0.1,342.32,30301.0
+ORD-2024-10886,2024-11-04,CUST-236,Home Office,South,Technology,Phones,Phones Model G,4350.17,5,0.1,773.71,60601.0
+ORD-2025-10887,2025-06-07,CUST-237,Home Office,South,Office Supplies,Art,Art Model H,183.33,2,0.0,50.92,30301.0
+ORD-2024-10888,2025-11-25,CUST-238,Consumer,South,Furniture,Bookcases,Bookcases Model I,161.33,2,0.0,38.66,10001.0
+ORD-2025-10889,2025-05-15,CUST-239,Consumer,South,Technology,Accessories,Accessories Model J,4151.99,5,0.0,1041.56,75001.0
+ORD-2024-10890,2025-12-26,CUST-240,Consumer,West,Office Supplies,Storage,Storage Model A,25.42,1,0.1,2.59,10001.0
+ORD-2025-10891,2024-10-20,CUST-241,Corporate,North,Office Supplies,Storage,Storage Model B,61.44,1,0.1,10.85,90001.0
+ORD-2024-10892,2024-11-27,CUST-242,Corporate,West,Furniture,Bookcases,Bookcases Model C,1354.11,5,0.3,50.16,90001.0
+ORD-2025-10893,2024-09-16,CUST-243,Corporate,East,Technology,Accessories,Accessories Model D,1538.64,3,0.3,64.71,60601.0
+ORD-2024-10894,2025-11-26,CUST-244,Home Office,East,Office Supplies,Storage,Storage Model E,23.38,1,0.0,10.55,90001.0
+ORD-2025-10895,2025-02-11,CUST-245,Consumer,North,Furniture,Chairs,Chairs Model F,285.8,1,0.0,77.33,30301.0
+ORD-2024-10896,2024-11-09,CUST-246,Consumer,East,Technology,Accessories,Accessories Model G,713.88,1,0.0,176.89,60601.0
+ORD-2025-10897,2024-04-22,CUST-247,Home Office,North,Technology,Laptops,Laptops Model H,2388.58,2,0.0,598.49,90001.0
+ORD-2024-10898,2024-09-11,CUST-248,Corporate,South,Office Supplies,Appliances,Appliances Model I,377.4,3,0.1,66.28,30301.0
+ORD-2025-10899,2024-06-17,CUST-249,Consumer,South,Furniture,Furnishings,Furnishings Model J,955.0,3,0.1,173.14,60601.0
+ORD-2024-10900,2025-06-04,CUST-250,Consumer,South,Technology,Phones,Phones Model A,556.48,1,0.0,142.16,75001.0
+ORD-2025-10901,2024-09-22,CUST-251,Corporate,East,Furniture,Furnishings,Furnishings Model B,513.46,3,0.3,26.08,60601.0
+ORD-2024-10902,2025-06-20,CUST-252,Corporate,South,Office Supplies,Binders,Binders Model C,31.3,1,0.0,13.02,10001.0
+ORD-2025-10903,2025-06-17,CUST-253,Home Office,South,Office Supplies,Appliances,Appliances Model D,124.62,2,0.0,33.81,60601.0
+ORD-2024-10904,2025-01-21,CUST-254,Consumer,East,Technology,Accessories,Accessories Model E,1816.86,3,0.0,461.24,60601.0
+ORD-2025-10905,2024-04-30,CUST-255,Home Office,South,Technology,Phones,Phones Model F,2651.53,3,0.0,665.3,60601.0
+ORD-2024-10906,2024-01-23,CUST-256,Consumer,West,Furniture,Furnishings,Furnishings Model G,390.51,2,0.0,92.62,10001.0
+ORD-2025-10907,2025-07-11,CUST-257,Consumer,South,Furniture,Chairs,Chairs Model H,356.92,1,0.0,84.62,75001.0
+ORD-2024-10908,2024-04-13,CUST-258,Consumer,West,Office Supplies,Storage,Storage Model I,119.83,2,0.2,13.58,10001.0
+ORD-2025-10909,2024-04-25,CUST-259,Consumer,North,Office Supplies,Appliances,Appliances Model J,369.94,3,0.1,74.59,60601.0
+ORD-2024-10910,2025-06-09,CUST-260,Consumer,South,Technology,Phones,Phones Model A,322.17,2,0.2,35.86,90001.0
+ORD-2025-10911,2024-06-18,CUST-261,Consumer,North,Furniture,Bookcases,Bookcases Model B,290.05,2,0.0,72.87,60601.0
+ORD-2024-10912,2024-02-21,CUST-262,Consumer,North,Technology,Laptops,Laptops Model C,5751.9,5,0.0,1443.98,30301.0
+ORD-2025-10913,2025-02-08,CUST-263,Home Office,South,Furniture,Furnishings,Furnishings Model D,537.44,3,0.1,96.78,60601.0
+ORD-2024-10914,2024-01-23,CUST-264,Consumer,South,Technology,Laptops,Laptops Model E,4035.91,4,0.0,1016.67,10001.0
+ORD-2025-10915,2024-06-12,CUST-265,Consumer,South,Technology,Copiers,Copiers Model F,1472.38,2,0.0,375.96,90001.0
+ORD-2024-10916,2025-05-25,CUST-266,Corporate,East,Furniture,Furnishings,Furnishings Model G,967.01,2,0.0,236.93,30301.0
+ORD-2025-10917,2025-01-26,CUST-267,Home Office,North,Office Supplies,Paper,Paper Model H,141.44,2,0.0,21.79,30301.0
+ORD-2024-10918,2025-09-15,CUST-268,Consumer,North,Office Supplies,Paper,Paper Model I,101.53,1,0.0,25.72,75001.0
+ORD-2025-10919,2024-01-04,CUST-269,Consumer,South,Office Supplies,Paper,Paper Model J,164.59,5,0.5,-24.08,10001.0
+ORD-2024-10920,2024-10-30,CUST-270,Corporate,South,Office Supplies,Binders,Binders Model A,54.19,1,0.0,12.05,90001.0
+ORD-2025-10921,2025-09-13,CUST-271,Consumer,South,Furniture,Bookcases,Bookcases Model B,166.6,1,0.3,0.16,30301.0
+ORD-2024-10922,2024-12-15,CUST-272,Home Office,West,Office Supplies,Binders,Binders Model C,55.22,1,0.0,22.27,10001.0
+ORD-2025-10923,2024-05-27,CUST-273,Corporate,South,Technology,Laptops,Laptops Model D,2479.04,3,0.2,272.85,90001.0
+ORD-2024-10924,2024-11-06,CUST-274,Consumer,West,Technology,Copiers,Copiers Model E,1539.75,3,0.0,389.89,
+ORD-2025-10925,2024-01-27,CUST-275,Consumer,East,Office Supplies,Binders,Binders Model F,204.05,2,0.0,49.5,75001.0
+ORD-2024-10926,2024-12-19,CUST-276,Consumer,South,Technology,Accessories,Accessories Model G,641.56,2,0.0,157.89,75001.0
+ORD-2025-10927,2024-09-12,CUST-277,Corporate,North,Technology,Accessories,Accessories Model H,1344.93,2,0.3,49.9,10001.0
+ORD-2024-10928,2024-08-18,CUST-278,Consumer,North,Furniture,Furnishings,Furnishings Model I,611.6,5,0.2,63.67,90001.0
+ORD-2025-10929,2024-01-14,CUST-279,Consumer,East,Furniture,Furnishings,Furnishings Model J,418.52,1,0.0,99.0,
+ORD-2024-10930,2024-02-07,CUST-280,Consumer,East,Furniture,Chairs,Chairs Model A,247.39,1,0.0,63.81,30301.0
+ORD-2025-10931,2025-08-26,CUST-281,Consumer,South,Office Supplies,Art,Art Model B,147.0,3,0.0,28.49,30301.0
+ORD-2024-10932,2025-11-17,CUST-282,Corporate,East,Furniture,Chairs,Chairs Model C,500.65,2,0.1,91.4,60601.0
+ORD-2025-10933,2024-06-26,CUST-283,Corporate,North,Technology,Copiers,Copiers Model D,1274.56,2,0.0,315.49,75001.0
+ORD-2024-10934,2024-11-19,CUST-284,Corporate,South,Technology,Laptops,Laptops Model E,458.26,2,0.5,-41.43,60601.0
+ORD-2025-10935,2024-09-12,CUST-285,Corporate,North,Technology,Copiers,Copiers Model F,805.34,1,0.0,203.74,30301.0
+ORD-2024-10936,2024-12-05,CUST-286,Corporate,East,Technology,Phones,Phones Model G,1114.48,2,0.0,276.78,10001.0
+ORD-2025-10937,2025-10-12,CUST-287,Consumer,South,Technology,Phones,Phones Model H,977.48,2,0.1,179.46,75001.0
+ORD-2024-10938,2025-03-05,CUST-288,Corporate,North,Office Supplies,Art,Art Model I,458.96,5,0.0,120.32,60601.0
+ORD-2025-10939,2025-05-16,CUST-289,Corporate,North,Technology,Laptops,Laptops Model J,3399.34,3,0.0,851.0,60601.0
+ORD-2024-10940,2025-05-14,CUST-290,Consumer,South,Furniture,Chairs,Chairs Model A,702.75,5,0.0,171.38,10001.0
+ORD-2025-10941,2025-03-23,CUST-291,Corporate,West,Furniture,Tables,Tables Model B,256.07,3,0.0,65.19,10001.0
+ORD-2024-10942,2024-12-30,CUST-292,Home Office,South,Technology,Phones,Phones Model C,1001.92,3,0.0,249.1,60601.0
+ORD-2025-10943,2024-06-25,CUST-293,Home Office,West,Furniture,Chairs,Chairs Model D,927.89,2,0.0,228.61,30301.0
+ORD-2024-10944,2025-09-23,CUST-294,Consumer,South,Technology,Accessories,Accessories Model E,476.38,1,0.2,56.33,90001.0
+ORD-2025-10945,2025-01-27,CUST-295,Home Office,North,Furniture,Chairs,Chairs Model F,933.34,5,0.2,94.63,30301.0
+ORD-2024-10946,2024-12-25,CUST-296,Home Office,South,Furniture,Bookcases,Bookcases Model G,368.7,1,0.0,85.51,75001.0
+ORD-2025-10947,2025-05-20,CUST-297,Home Office,North,Furniture,Bookcases,Bookcases Model H,1000.88,3,0.0,248.64,90001.0
+ORD-2024-10948,2025-08-14,CUST-298,Home Office,East,Office Supplies,Storage,Storage Model I,57.69,2,0.1,10.1,30301.0
+ORD-2025-10949,2024-08-23,CUST-299,Consumer,North,Office Supplies,Paper,Paper Model J,91.97,3,0.0,24.26,90001.0
+ORD-2024-10950,2024-01-14,CUST-300,Consumer,South,Furniture,Furnishings,Furnishings Model A,2213.51,5,0.0,555.14,60601.0
+ORD-2025-10951,2024-12-13,CUST-301,Consumer,South,Furniture,Furnishings,Furnishings Model B,363.49,3,0.2,42.26,60601.0
+ORD-2024-10952,2025-06-01,CUST-302,Consumer,South,Furniture,Tables,Tables Model C,669.51,3,0.0,174.37,60601.0
+ORD-2025-10953,2025-09-23,CUST-303,Corporate,East,Technology,Phones,Phones Model D,1872.56,2,0.0,474.4,90001.0
+ORD-2024-10954,2025-09-02,CUST-304,Consumer,South,Technology,Accessories,Accessories Model E,1259.21,2,0.0,319.18,30301.0
+ORD-2025-10955,2024-02-11,CUST-305,Corporate,East,Technology,Accessories,Accessories Model F,1966.85,3,0.0,498.42,10001.0
+ORD-2024-10956,2025-12-30,CUST-306,Consumer,South,Furniture,Chairs,Chairs Model G,331.12,2,0.0,83.47,60601.0
+ORD-2025-10957,2024-03-01,CUST-307,Corporate,South,Technology,Phones,Phones Model H,247.32,1,0.0,52.4,90001.0
+ORD-2024-10958,2025-01-29,CUST-308,Consumer,East,Technology,Accessories,Accessories Model I,1002.32,2,0.0,242.27,90001.0
+ORD-2025-10959,2024-09-18,CUST-309,Consumer,North,Technology,Accessories,Accessories Model J,219.4,1,0.2,27.23,10001.0
+ORD-2024-10960,2024-03-11,CUST-310,Home Office,South,Office Supplies,Paper,Paper Model A,140.22,2,0.1,30.72,60601.0
+ORD-2025-10961,2025-08-24,CUST-311,Consumer,South,Office Supplies,Paper,Paper Model B,79.6,1,0.1,4.26,75001.0
+ORD-2024-10962,2024-01-12,CUST-312,Corporate,East,Furniture,Chairs,Chairs Model C,493.55,1,0.0,114.32,90001.0
+ORD-2025-10963,2025-11-21,CUST-313,Consumer,South,Office Supplies,Paper,Paper Model D,744.19,5,0.0,177.83,10001.0
+ORD-2024-10964,2024-02-02,CUST-314,Corporate,South,Furniture,Tables,Tables Model E,1917.0,4,0.0,475.99,60601.0
+ORD-2025-10965,2024-04-22,CUST-315,Consumer,East,Office Supplies,Appliances,Appliances Model F,87.82,1,0.3,0.46,10001.0
+ORD-2024-10966,2024-02-22,CUST-316,Corporate,West,Technology,Accessories,Accessories Model G,1245.74,2,0.0,315.58,90001.0
+ORD-2025-10967,2025-07-23,CUST-317,Consumer,South,Technology,Phones,Phones Model H,1592.38,3,0.0,401.6,60601.0
+ORD-2024-10968,2024-02-23,CUST-318,Home Office,West,Technology,Phones,Phones Model I,482.75,2,0.0,121.78,60601.0
+ORD-2025-10969,2024-04-20,CUST-319,Consumer,South,Technology,Copiers,Copiers Model J,2045.82,2,0.1,363.95,30301.0
+ORD-2024-10970,2024-02-23,CUST-320,Consumer,North,Office Supplies,Storage,Storage Model A,236.52,5,0.2,24.57,30301.0
+ORD-2025-10971,2025-12-28,CUST-321,Corporate,South,Office Supplies,Paper,Paper Model B,149.09,2,0.0,23.2,30301.0
+ORD-2024-10972,2024-01-17,CUST-322,Home Office,West,Office Supplies,Storage,Storage Model C,242.06,2,0.1,42.4,60601.0
+ORD-2025-10973,2024-10-29,CUST-323,Corporate,South,Office Supplies,Paper,Paper Model D,127.33,1,0.1,27.24,30301.0
+ORD-2024-10974,2025-11-08,CUST-324,Corporate,South,Office Supplies,Appliances,Appliances Model E,194.28,2,0.2,24.1,75001.0
+ORD-2025-10975,2024-12-29,CUST-325,Corporate,West,Furniture,Tables,Tables Model F,776.49,2,0.0,193.25,90001.0
+ORD-2024-10976,2024-10-16,CUST-326,Corporate,West,Technology,Phones,Phones Model G,924.85,3,0.2,94.78,60601.0
+ORD-2025-10977,2024-07-25,CUST-327,Corporate,East,Furniture,Bookcases,Bookcases Model H,1119.39,5,0.1,206.65,10001.0
+ORD-2024-10978,2024-10-25,CUST-328,Consumer,North,Furniture,Furnishings,Furnishings Model I,392.68,2,0.0,96.18,60601.0
+ORD-2025-10979,2024-12-02,CUST-329,Corporate,East,Furniture,Bookcases,Bookcases Model J,433.08,2,0.3,14.2,60601.0
+ORD-2024-10980,2025-09-27,CUST-330,Consumer,North,Office Supplies,Binders,Binders Model A,106.1,3,0.0,25.95,30301.0
+ORD-2025-10981,2025-10-16,CUST-331,Consumer,South,Furniture,Furnishings,Furnishings Model B,855.89,2,0.0,220.32,90001.0
+ORD-2024-10982,2025-12-14,CUST-332,Consumer,West,Furniture,Bookcases,Bookcases Model C,895.18,2,0.0,226.3,10001.0
+ORD-2025-10983,2024-06-01,CUST-333,Corporate,North,Office Supplies,Appliances,Appliances Model D,109.32,1,0.1,15.46,10001.0
+ORD-2024-10984,2025-03-02,CUST-334,Consumer,South,Furniture,Furnishings,Furnishings Model E,1111.73,3,0.1,192.38,30301.0
+ORD-2025-10985,2025-11-12,CUST-335,Consumer,West,Furniture,Bookcases,Bookcases Model F,817.07,2,0.1,143.09,75001.0
+ORD-2024-10986,2025-09-30,CUST-336,Consumer,East,Office Supplies,Storage,Storage Model G,53.38,3,0.0,5.87,10001.0
+ORD-2025-10987,2025-12-12,CUST-337,Corporate,South,Technology,Copiers,Copiers Model H,2695.91,3,0.0,679.78,75001.0
+ORD-2024-10988,2024-11-17,CUST-338,Consumer,North,Office Supplies,Appliances,Appliances Model I,339.26,4,0.0,88.06,60601.0
+ORD-2025-10989,2024-05-14,CUST-339,Consumer,East,Office Supplies,Storage,Storage Model J,148.53,1,0.0,39.0,60601.0
+ORD-2024-10990,2024-10-30,CUST-340,Corporate,East,Office Supplies,Storage,Storage Model A,123.5,1,0.0,27.25,75001.0
+ORD-2025-10991,2024-09-07,CUST-341,Corporate,South,Furniture,Furnishings,Furnishings Model B,720.19,3,0.0,177.8,30301.0
+ORD-2024-10992,2025-10-30,CUST-342,Home Office,West,Technology,Accessories,Accessories Model C,2282.82,4,0.2,257.22,75001.0
+ORD-2025-10993,2025-02-14,CUST-343,Home Office,East,Office Supplies,Appliances,Appliances Model D,150.84,2,0.0,45.74,90001.0
+ORD-2024-10994,2025-12-16,CUST-344,Corporate,North,Technology,Phones,Phones Model E,230.79,1,0.2,21.31,60601.0
+ORD-2025-10995,2024-06-18,CUST-345,Consumer,East,Furniture,Furnishings,Furnishings Model F,899.76,2,0.0,218.77,60601.0
+ORD-2024-10996,2025-02-04,CUST-346,Consumer,East,Furniture,Furnishings,Furnishings Model G,250.57,1,0.2,34.81,10001.0
+ORD-2025-10997,2025-07-18,CUST-347,Corporate,West,Furniture,Bookcases,Bookcases Model H,182.05,1,0.3,0.93,10001.0
+ORD-2024-10998,2025-01-04,CUST-348,Home Office,South,Office Supplies,Paper,Paper Model I,322.18,3,0.0,76.62,60601.0
+ORD-2025-10999,2025-03-13,CUST-349,Corporate,North,Technology,Copiers,Copiers Model J,1611.49,2,0.1,297.56,10001.0
+ORD-2024-11000,2024-04-27,CUST-100,Consumer,East,Technology,Phones,Phones Model A,2876.21,3,0.2,321.04,10001.0
+ORD-2025-11001,2024-09-20,CUST-101,Consumer,West,Furniture,Furnishings,Furnishings Model B,270.87,3,0.2,31.77,30301.0
+ORD-2024-11002,2025-06-01,CUST-102,Consumer,East,Furniture,Furnishings,Furnishings Model C,229.79,2,0.1,44.08,60601.0
+ORD-2025-11003,2024-04-21,CUST-103,Corporate,South,Furniture,Furnishings,Furnishings Model D,353.93,1,0.2,41.6,75001.0
+ORD-2024-11004,2024-09-23,CUST-104,Home Office,South,Office Supplies,Storage,Storage Model E,51.72,1,0.0,3.55,75001.0
+ORD-2025-11005,2025-03-23,CUST-105,Home Office,West,Office Supplies,Appliances,Appliances Model F,206.14,2,0.0,57.43,60601.0
+ORD-2024-11006,2025-08-29,CUST-106,Consumer,East,Office Supplies,Binders,Binders Model G,11.14,1,0.0,0.64,75001.0
+ORD-2025-11007,2024-01-03,CUST-107,Consumer,West,Office Supplies,Storage,Storage Model H,53.7,1,0.0,13.37,90001.0
+ORD-2024-11008,2025-10-17,CUST-108,Corporate,North,Technology,Copiers,Copiers Model I,857.71,3,0.2,93.94,60601.0
+ORD-2025-11009,2024-08-15,CUST-109,Consumer,East,Technology,Accessories,Accessories Model J,1034.13,1,0.0,253.59,75001.0
+ORD-2024-11010,2024-02-06,CUST-110,Consumer,West,Office Supplies,Binders,Binders Model A,404.47,3,0.1,72.36,30301.0
+ORD-2025-11011,2024-01-02,CUST-111,Consumer,East,Office Supplies,Storage,Storage Model B,46.48,1,0.1,7.51,30301.0
+ORD-2024-11012,2024-11-10,CUST-112,Consumer,East,Furniture,Tables,Tables Model C,123.88,1,0.0,27.94,90001.0
+ORD-2025-11013,2024-02-26,CUST-113,Consumer,South,Furniture,Tables,Tables Model D,805.16,3,0.0,201.13,10001.0
+ORD-2024-11014,2025-03-04,CUST-114,Home Office,East,Technology,Copiers,Copiers Model E,4039.03,8,0.0,1006.59,30301.0
+ORD-2025-11015,2024-09-01,CUST-115,Corporate,South,Furniture,Furnishings,Furnishings Model F,306.45,1,0.2,43.61,60601.0
+ORD-2024-11016,2025-04-05,CUST-116,Home Office,North,Furniture,Chairs,Chairs Model G,2703.2,8,0.2,294.56,10001.0
+ORD-2025-11017,2024-10-06,CUST-117,Home Office,West,Furniture,Chairs,Chairs Model H,341.98,1,0.0,83.93,60601.0
+ORD-2024-11018,2025-12-13,CUST-118,Consumer,North,Office Supplies,Appliances,Appliances Model I,105.26,3,0.0,12.45,60601.0
+ORD-2025-11019,2024-04-03,CUST-119,Corporate,East,Technology,Accessories,Accessories Model J,2258.04,2,0.0,563.61,75001.0
+ORD-2024-11020,2025-02-15,CUST-120,Consumer,South,Technology,Laptops,Laptops Model A,1158.55,1,0.0,287.04,30301.0
+ORD-2025-11021,2024-12-13,CUST-121,Corporate,East,Furniture,Chairs,Chairs Model B,442.99,2,0.1,82.71,10001.0
+ORD-2024-11022,2025-11-20,CUST-122,Consumer,South,Furniture,Chairs,Chairs Model C,491.15,1,0.0,120.55,10001.0
+ORD-2025-11023,2025-05-25,CUST-123,Corporate,East,Technology,Accessories,Accessories Model D,802.53,1,0.0,197.81,30301.0
+ORD-2024-11024,2025-12-11,CUST-124,Consumer,South,Office Supplies,Appliances,Appliances Model E,25.03,1,0.0,9.31,90001.0
+ORD-2025-11025,2024-03-24,CUST-125,Corporate,East,Office Supplies,Storage,Storage Model F,401.36,4,0.0,100.14,75001.0
+ORD-2024-11026,2025-10-06,CUST-126,Home Office,South,Technology,Laptops,Laptops Model G,735.13,3,0.1,124.7,90001.0
+ORD-2025-11027,2024-06-07,CUST-127,Consumer,West,Furniture,Tables,Tables Model H,843.11,4,0.0,205.01,90001.0
+ORD-2024-11028,2025-11-28,CUST-128,Consumer,South,Office Supplies,Appliances,Appliances Model I,331.53,3,0.0,79.26,10001.0
+ORD-2025-11029,2025-07-09,CUST-129,Home Office,North,Technology,Accessories,Accessories Model J,1004.2,1,0.0,246.57,60601.0
+ORD-2024-11030,2025-02-10,CUST-130,Corporate,North,Furniture,Tables,Tables Model A,246.69,1,0.0,50.91,10001.0
+ORD-2025-11031,2024-12-18,CUST-131,Corporate,North,Technology,Copiers,Copiers Model B,333.85,1,0.1,59.94,60601.0
+ORD-2024-11032,2024-04-19,CUST-132,Consumer,North,Office Supplies,Paper,Paper Model C,125.44,4,0.0,25.59,10001.0
+ORD-2025-11033,2024-09-15,CUST-133,Corporate,West,Technology,Laptops,Laptops Model D,3416.25,3,0.0,843.12,60601.0
+ORD-2024-11034,2024-02-24,CUST-134,Home Office,South,Furniture,Bookcases,Bookcases Model E,388.11,2,0.2,35.26,30301.0
+ORD-2025-11035,2024-03-08,CUST-135,Corporate,North,Technology,Copiers,Copiers Model F,917.17,3,0.0,227.26,10001.0
+ORD-2024-11036,2024-09-28,CUST-136,Corporate,West,Technology,Accessories,Accessories Model G,3009.17,3,0.0,748.98,75001.0
+ORD-2025-11037,2024-01-01,CUST-137,Corporate,East,Technology,Accessories,Accessories Model H,789.83,1,0.0,198.82,30301.0
+ORD-2024-11038,2024-02-13,CUST-138,Corporate,North,Furniture,Furnishings,Furnishings Model I,1581.65,5,0.0,400.92,60601.0
+ORD-2025-11039,2024-11-14,CUST-139,Consumer,West,Technology,Laptops,Laptops Model J,800.25,1,0.0,202.52,30301.0
+ORD-2024-11040,2024-06-04,CUST-140,Corporate,East,Office Supplies,Binders,Binders Model A,221.23,3,0.0,53.63,75001.0
+ORD-2025-11041,2024-03-08,CUST-141,Corporate,North,Office Supplies,Appliances,Appliances Model B,112.1,2,0.0,22.42,90001.0
+ORD-2024-11042,2025-02-15,CUST-142,Home Office,North,Furniture,Furnishings,Furnishings Model C,548.38,2,0.0,138.65,75001.0
+ORD-2025-11043,2024-05-05,CUST-143,Home Office,North,Furniture,Chairs,Chairs Model D,299.65,1,0.0,71.1,90001.0
+ORD-2024-11044,2025-03-14,CUST-144,Corporate,South,Office Supplies,Art,Art Model E,192.68,2,0.3,1.95,90001.0
+ORD-2025-11045,2024-12-01,CUST-145,Consumer,South,Technology,Laptops,Laptops Model F,611.09,1,0.1,110.0,30301.0
+ORD-2024-11046,2024-01-05,CUST-146,Consumer,East,Technology,Accessories,Accessories Model G,2155.92,3,0.0,536.64,90001.0
+ORD-2025-11047,2024-05-06,CUST-147,Consumer,North,Furniture,Tables,Tables Model H,770.71,4,0.0,187.84,60601.0
+ORD-2024-11048,2024-03-24,CUST-148,Corporate,East,Furniture,Bookcases,Bookcases Model I,157.88,2,0.1,30.64,75001.0
+ORD-2025-11049,2025-03-12,CUST-149,Consumer,South,Furniture,Tables,Tables Model J,943.53,2,0.0,240.14,10001.0
+ORD-2024-11050,2024-01-06,CUST-150,Home Office,South,Furniture,Furnishings,Furnishings Model A,183.95,1,0.0,48.7,10001.0
+ORD-2025-11051,2025-08-03,CUST-151,Home Office,West,Office Supplies,Binders,Binders Model B,120.46,1,0.1,22.55,60601.0
+ORD-2024-11052,2024-06-04,CUST-152,Home Office,South,Office Supplies,Storage,Storage Model C,43.19,1,0.1,14.19,30301.0
+ORD-2025-11053,2025-10-15,CUST-153,Consumer,East,Technology,Copiers,Copiers Model D,1244.85,3,0.3,64.66,30301.0
+ORD-2024-11054,2024-06-08,CUST-154,Corporate,East,Furniture,Furnishings,Furnishings Model E,93.88,1,0.0,25.83,60601.0
+ORD-2025-11055,2025-01-16,CUST-155,Home Office,East,Technology,Laptops,Laptops Model F,2268.07,2,0.0,574.35,90001.0
+ORD-2024-11056,2025-01-12,CUST-156,Consumer,North,Furniture,Chairs,Chairs Model G,582.15,2,0.2,67.69,30301.0
+ORD-2025-11057,2025-03-19,CUST-157,Corporate,South,Furniture,Bookcases,Bookcases Model H,93.47,1,0.0,30.33,60601.0
+ORD-2024-11058,2025-12-03,CUST-158,Corporate,North,Office Supplies,Appliances,Appliances Model I,130.83,3,0.1,23.17,10001.0
+ORD-2025-11059,2025-06-28,CUST-159,Corporate,West,Technology,Copiers,Copiers Model J,1196.01,2,0.0,304.63,30301.0
+ORD-2024-11060,2024-06-03,CUST-160,Consumer,West,Technology,Phones,Phones Model A,859.8,4,0.0,219.03,10001.0
+ORD-2025-11061,2024-04-24,CUST-161,Home Office,South,Office Supplies,Paper,Paper Model B,252.68,3,0.2,30.81,90001.0
+ORD-2024-11062,2024-06-11,CUST-162,Consumer,North,Office Supplies,Storage,Storage Model C,245.8,2,0.1,44.0,60601.0
+ORD-2025-11063,2024-07-01,CUST-163,Corporate,West,Office Supplies,Art,Art Model D,506.37,4,0.1,96.63,90001.0
+ORD-2024-11064,2025-12-22,CUST-164,Consumer,South,Technology,Laptops,Laptops Model E,1464.38,3,0.0,369.23,75001.0
+ORD-2025-11065,2025-07-18,CUST-165,Consumer,North,Technology,Accessories,Accessories Model F,1841.33,2,0.0,468.66,75001.0
+ORD-2024-11066,2024-10-12,CUST-166,Consumer,West,Furniture,Bookcases,Bookcases Model G,759.87,2,0.0,191.04,60601.0
+ORD-2025-11067,2024-09-06,CUST-167,Corporate,West,Furniture,Furnishings,Furnishings Model H,347.79,1,0.1,56.1,90001.0
+ORD-2024-11068,2025-10-04,CUST-168,Corporate,West,Furniture,Furnishings,Furnishings Model I,508.02,2,0.0,125.99,10001.0
+ORD-2025-11069,2025-10-16,CUST-169,Consumer,North,Furniture,Chairs,Chairs Model J,129.89,2,0.3,8.0,10001.0
+ORD-2024-11070,2025-03-22,CUST-170,Consumer,North,Furniture,Chairs,Chairs Model A,669.33,2,0.3,28.84,90001.0
+ORD-2025-11071,2025-10-30,CUST-171,Consumer,East,Technology,Phones,Phones Model B,2103.13,3,0.1,369.22,30301.0
+ORD-2024-11072,2025-02-28,CUST-172,Home Office,West,Technology,Phones,Phones Model C,1844.26,2,0.2,199.26,60601.0
+ORD-2025-11073,2025-09-01,CUST-173,Consumer,North,Furniture,Chairs,Chairs Model D,431.55,1,0.0,108.93,60601.0
+ORD-2024-11074,2024-05-11,CUST-174,Consumer,South,Furniture,Tables,Tables Model E,885.66,3,0.0,217.98,30301.0
+ORD-2025-11075,2025-01-23,CUST-175,Home Office,East,Office Supplies,Paper,Paper Model F,773.38,8,0.2,82.51,10001.0
+ORD-2024-11076,2025-10-01,CUST-176,Consumer,South,Furniture,Tables,Tables Model G,952.48,3,0.0,235.21,10001.0
+ORD-2025-11077,2024-12-18,CUST-177,Home Office,West,Furniture,Bookcases,Bookcases Model H,1580.16,4,0.0,397.04,75001.0
+ORD-2024-11078,2025-08-01,CUST-178,Corporate,West,Technology,Laptops,Laptops Model I,1661.72,3,0.0,405.96,90001.0
+ORD-2025-11079,2024-01-02,CUST-179,Home Office,South,Office Supplies,Binders,Binders Model J,87.83,4,0.2,12.81,75001.0
+ORD-2024-11080,2025-02-17,CUST-180,Corporate,South,Technology,Phones,Phones Model A,659.86,1,0.3,28.45,10001.0
+ORD-2025-11081,2025-11-13,CUST-181,Corporate,East,Technology,Accessories,Accessories Model B,620.9,1,0.1,110.91,60601.0
+ORD-2024-11082,2024-02-07,CUST-182,Consumer,South,Technology,Laptops,Laptops Model C,1142.6,5,0.0,282.2,90001.0
+ORD-2025-11083,2025-11-28,CUST-183,Consumer,South,Technology,Accessories,Accessories Model D,470.25,2,0.5,-44.69,
+ORD-2024-11084,2024-10-06,CUST-184,Consumer,East,Technology,Copiers,Copiers Model E,984.28,1,0.1,175.25,75001.0
+ORD-2025-11085,2024-03-04,CUST-185,Consumer,East,Office Supplies,Storage,Storage Model F,15.2,3,0.5,-4.03,60601.0
+ORD-2024-11086,2024-10-19,CUST-186,Corporate,South,Office Supplies,Art,Art Model G,58.34,2,0.0,23.27,60601.0
+ORD-2025-11087,2025-06-02,CUST-187,Consumer,East,Furniture,Furnishings,Furnishings Model H,655.83,4,0.1,119.46,10001.0
+ORD-2024-11088,2024-02-12,CUST-188,Consumer,West,Office Supplies,Storage,Storage Model I,44.29,2,0.0,22.35,10001.0
+ORD-2025-11089,2024-07-14,CUST-189,Consumer,West,Office Supplies,Binders,Binders Model J,140.93,3,0.2,17.46,90001.0
+ORD-2024-11090,2024-05-23,CUST-190,Consumer,East,Furniture,Furnishings,Furnishings Model A,172.94,1,0.0,44.71,90001.0
+ORD-2025-11091,2025-10-03,CUST-191,Consumer,South,Office Supplies,Paper,Paper Model B,85.73,2,0.1,16.99,60601.0
+ORD-2024-11092,2024-10-26,CUST-192,Consumer,North,Office Supplies,Binders,Binders Model C,103.96,2,0.1,15.64,60601.0
+ORD-2025-11093,2025-01-24,CUST-193,Consumer,East,Office Supplies,Storage,Storage Model D,217.67,3,0.3,19.61,60601.0
+ORD-2024-11094,2024-07-24,CUST-194,Home Office,North,Office Supplies,Paper,Paper Model E,88.48,1,0.2,15.78,90001.0
+ORD-2025-11095,2025-05-24,CUST-195,Corporate,North,Office Supplies,Paper,Paper Model F,74.44,1,0.0,18.49,30301.0
+ORD-2024-11096,2024-10-06,CUST-196,Consumer,North,Furniture,Furnishings,Furnishings Model G,803.8,5,0.2,85.25,30301.0
+ORD-2025-11097,2024-03-10,CUST-197,Home Office,West,Furniture,Bookcases,Bookcases Model H,281.71,1,0.0,69.47,30301.0
+ORD-2024-11098,2025-04-28,CUST-198,Consumer,North,Technology,Copiers,Copiers Model I,3965.04,4,0.1,711.12,10001.0
+ORD-2025-11099,2024-11-19,CUST-199,Consumer,South,Office Supplies,Binders,Binders Model J,143.53,2,0.1,37.54,10001.0
+ORD-2024-11100,2024-03-11,CUST-200,Consumer,South,Technology,Phones,Phones Model A,1908.67,2,0.1,330.96,75001.0
+ORD-2025-11101,2025-08-30,CUST-201,Consumer,South,Office Supplies,Paper,Paper Model B,159.37,2,0.2,11.12,30301.0
+ORD-2024-11102,2025-05-04,CUST-202,Corporate,North,Office Supplies,Binders,Binders Model C,41.74,1,0.2,9.36,10001.0
+ORD-2025-11103,2024-09-01,CUST-203,Corporate,East,Office Supplies,Storage,Storage Model D,158.61,4,0.0,43.6,30301.0
+ORD-2024-11104,2025-02-03,CUST-204,Consumer,East,Technology,Copiers,Copiers Model E,342.69,3,0.5,-38.16,75001.0
+ORD-2025-11105,2024-02-20,CUST-205,Corporate,West,Furniture,Chairs,Chairs Model F,261.87,1,0.1,45.41,75001.0
+ORD-2024-11106,2025-06-01,CUST-206,Consumer,West,Office Supplies,Art,Art Model G,22.65,2,0.1,1.09,30301.0
+ORD-2025-11107,2024-04-05,CUST-207,Corporate,South,Technology,Phones,Phones Model H,3258.71,5,0.0,817.51,60601.0
+ORD-2024-11108,2024-10-08,CUST-208,Consumer,West,Furniture,Furnishings,Furnishings Model I,309.36,1,0.0,71.63,90001.0
+ORD-2025-11109,2024-07-08,CUST-209,Home Office,North,Furniture,Chairs,Chairs Model J,659.68,2,0.3,21.93,30301.0
+ORD-2024-11110,2025-08-08,CUST-210,Consumer,West,Furniture,Tables,Tables Model A,523.06,2,0.2,58.78,90001.0
+ORD-2025-11111,2024-09-26,CUST-211,Consumer,West,Technology,Phones,Phones Model B,5771.85,5,0.0,1440.11,30301.0
+ORD-2024-11112,2025-12-17,CUST-212,Consumer,South,Furniture,Tables,Tables Model C,343.9,1,0.3,25.37,75001.0
+ORD-2025-11113,2025-05-20,CUST-213,Corporate,West,Technology,Phones,Phones Model D,2154.64,2,0.1,385.98,90001.0
+ORD-2024-11114,2025-09-30,CUST-214,Consumer,North,Technology,Phones,Phones Model E,895.97,3,0.0,222.83,60601.0
+ORD-2025-11115,2024-08-20,CUST-215,Home Office,South,Office Supplies,Appliances,Appliances Model F,239.1,2,0.0,59.83,10001.0
+ORD-2024-11116,2025-09-02,CUST-216,Consumer,South,Office Supplies,Storage,Storage Model G,109.88,1,0.0,19.05,90001.0
+ORD-2025-11117,2025-03-25,CUST-217,Corporate,North,Technology,Copiers,Copiers Model H,1464.22,2,0.0,362.62,90001.0
+ORD-2024-11118,2024-07-23,CUST-218,Consumer,South,Office Supplies,Art,Art Model I,143.79,1,0.0,33.48,90001.0
+ORD-2025-11119,2024-03-16,CUST-219,Corporate,West,Office Supplies,Appliances,Appliances Model J,82.08,1,0.1,7.36,30301.0
+ORD-2024-11120,2024-09-24,CUST-220,Consumer,South,Office Supplies,Binders,Binders Model A,236.26,4,0.0,53.52,75001.0
+ORD-2025-11121,2025-12-13,CUST-221,Consumer,West,Technology,Laptops,Laptops Model B,374.46,2,0.1,68.42,90001.0
+ORD-2024-11122,2025-06-29,CUST-222,Home Office,North,Office Supplies,Appliances,Appliances Model C,56.78,1,0.2,2.2,30301.0
+ORD-2025-11123,2025-05-11,CUST-223,Home Office,West,Office Supplies,Storage,Storage Model D,16.48,2,0.2,0.57,30301.0
+ORD-2024-11124,2025-04-30,CUST-224,Consumer,East,Furniture,Furnishings,Furnishings Model E,919.76,2,0.0,229.93,75001.0
+ORD-2025-11125,2025-11-29,CUST-225,Corporate,West,Technology,Copiers,Copiers Model F,2965.75,3,0.0,742.14,90001.0
+ORD-2024-11126,2025-04-07,CUST-226,Home Office,North,Office Supplies,Art,Art Model G,53.97,2,0.1,9.62,60601.0
+ORD-2025-11127,2024-05-20,CUST-227,Consumer,South,Furniture,Chairs,Chairs Model H,707.6,2,0.1,119.14,90001.0
+ORD-2024-11128,2025-09-13,CUST-228,Consumer,East,Furniture,Furnishings,Furnishings Model I,561.45,2,0.2,59.02,90001.0
+ORD-2025-11129,2024-04-04,CUST-229,Consumer,West,Office Supplies,Appliances,Appliances Model J,46.2,1,0.1,8.72,30301.0
+ORD-2024-11130,2024-10-17,CUST-230,Corporate,South,Furniture,Bookcases,Bookcases Model A,285.68,2,0.1,56.92,60601.0
+ORD-2025-11131,2024-09-08,CUST-231,Consumer,West,Office Supplies,Storage,Storage Model B,103.05,4,0.5,-13.68,10001.0
+ORD-2024-11132,2025-02-24,CUST-232,Corporate,East,Technology,Laptops,Laptops Model C,1177.31,2,0.0,286.8,10001.0
+ORD-2025-11133,2025-07-09,CUST-233,Home Office,East,Office Supplies,Storage,Storage Model D,15.08,1,0.1,8.66,10001.0
+ORD-2024-11134,2025-01-27,CUST-234,Home Office,West,Technology,Accessories,Accessories Model E,659.16,1,0.0,164.89,60601.0
+ORD-2025-11135,2025-07-29,CUST-235,Consumer,North,Technology,Laptops,Laptops Model F,1512.45,3,0.3,58.5,90001.0
+ORD-2024-11136,2025-01-31,CUST-236,Corporate,South,Office Supplies,Storage,Storage Model G,517.69,4,0.0,126.83,90001.0
+ORD-2025-11137,2024-04-20,CUST-237,Home Office,South,Furniture,Furnishings,Furnishings Model H,1165.73,3,0.0,300.02,10001.0
+ORD-2024-11138,2024-04-14,CUST-238,Consumer,East,Technology,Laptops,Laptops Model I,3729.27,4,0.1,673.46,10001.0
+ORD-2025-11139,2025-04-06,CUST-239,Corporate,North,Furniture,Bookcases,Bookcases Model J,327.85,1,0.0,88.44,90001.0
+ORD-2024-11140,2024-01-07,CUST-240,Consumer,South,Office Supplies,Binders,Binders Model A,281.56,3,0.2,28.04,90001.0
+ORD-2025-11141,2025-07-28,CUST-241,Consumer,South,Furniture,Chairs,Chairs Model B,633.09,2,0.1,114.9,30301.0
+ORD-2024-11142,2025-09-17,CUST-242,Home Office,North,Furniture,Furnishings,Furnishings Model C,2653.04,8,0.0,663.84,10001.0
+ORD-2025-11143,2025-07-28,CUST-243,Home Office,East,Office Supplies,Appliances,Appliances Model D,25.66,2,0.2,2.16,75001.0
+ORD-2024-11144,2024-01-23,CUST-244,Consumer,East,Technology,Copiers,Copiers Model E,914.28,5,0.1,166.74,30301.0
+ORD-2025-11145,2024-06-06,CUST-245,Consumer,South,Technology,Copiers,Copiers Model F,2576.36,3,0.0,646.22,10001.0
+ORD-2024-11146,2025-02-14,CUST-246,Consumer,South,Technology,Accessories,Accessories Model G,1396.29,2,0.1,246.49,75001.0
+ORD-2025-11147,2024-03-03,CUST-247,Consumer,South,Technology,Copiers,Copiers Model H,146.18,1,0.3,5.97,60601.0
+ORD-2024-11148,2025-11-29,CUST-248,Corporate,South,Technology,Phones,Phones Model I,1183.69,2,0.0,293.28,75001.0
+ORD-2025-11149,2024-02-15,CUST-249,Home Office,West,Technology,Copiers,Copiers Model J,881.47,1,0.2,86.67,90001.0
+ORD-2024-11150,2024-10-31,CUST-250,Corporate,North,Office Supplies,Binders,Binders Model A,76.8,1,0.0,21.3,30301.0
+ORD-2025-11151,2025-01-02,CUST-251,Consumer,South,Office Supplies,Art,Art Model B,351.98,3,0.1,61.83,30301.0
+ORD-2024-11152,2025-10-02,CUST-252,Consumer,South,Furniture,Tables,Tables Model C,351.79,3,0.3,7.45,60601.0
+ORD-2025-11153,2025-01-21,CUST-253,Consumer,West,Office Supplies,Art,Art Model D,224.43,2,0.2,22.51,90001.0
+ORD-2024-11154,2025-09-28,CUST-254,Consumer,South,Furniture,Chairs,Chairs Model E,252.22,2,0.0,55.07,30301.0
+ORD-2025-11155,2024-02-03,CUST-255,Corporate,South,Furniture,Furnishings,Furnishings Model F,344.7,2,0.0,81.99,30301.0
+ORD-2024-11156,2024-01-05,CUST-256,Corporate,West,Technology,Phones,Phones Model G,964.62,1,0.0,232.7,75001.0
+ORD-2025-11157,2025-09-13,CUST-257,Consumer,East,Furniture,Tables,Tables Model H,2181.59,8,0.0,544.88,10001.0
+ORD-2024-11158,2025-02-28,CUST-258,Consumer,West,Furniture,Bookcases,Bookcases Model I,298.81,1,0.1,58.52,75001.0
+ORD-2025-11159,2024-09-24,CUST-259,Corporate,East,Furniture,Tables,Tables Model J,682.36,2,0.1,118.2,75001.0
+ORD-2024-11160,2025-07-17,CUST-260,Consumer,South,Furniture,Chairs,Chairs Model A,563.07,3,0.0,144.39,30301.0
+ORD-2025-11161,2024-12-12,CUST-261,Home Office,South,Office Supplies,Appliances,Appliances Model B,93.69,1,0.0,19.38,90001.0
+ORD-2024-11162,2024-01-11,CUST-262,Consumer,South,Technology,Copiers,Copiers Model C,813.62,3,0.0,201.96,75001.0
+ORD-2025-11163,2025-01-31,CUST-263,Home Office,West,Office Supplies,Art,Art Model D,230.71,3,0.0,58.43,75001.0
+ORD-2024-11164,2024-06-17,CUST-264,Home Office,North,Furniture,Bookcases,Bookcases Model E,216.76,2,0.1,49.22,75001.0
+ORD-2025-11165,2024-05-26,CUST-265,Consumer,East,Office Supplies,Storage,Storage Model F,135.7,1,0.0,36.32,90001.0
+ORD-2024-11166,2024-06-25,CUST-266,Consumer,East,Office Supplies,Paper,Paper Model G,292.54,4,0.1,44.55,90001.0
+ORD-2025-11167,2024-07-11,CUST-267,Consumer,East,Office Supplies,Binders,Binders Model H,349.19,3,0.1,56.16,90001.0
+ORD-2024-11168,2024-04-15,CUST-268,Corporate,South,Technology,Accessories,Accessories Model I,690.22,2,0.0,170.09,60601.0
+ORD-2025-11169,2024-03-09,CUST-269,Consumer,West,Office Supplies,Appliances,Appliances Model J,73.95,1,0.1,13.91,75001.0
+ORD-2024-11170,2025-04-11,CUST-270,Consumer,East,Furniture,Furnishings,Furnishings Model A,281.24,1,0.2,37.27,60601.0
+ORD-2025-11171,2025-08-23,CUST-271,Consumer,East,Technology,Phones,Phones Model B,2687.28,3,0.1,478.86,90001.0
+ORD-2024-11172,2025-04-24,CUST-272,Home Office,North,Furniture,Tables,Tables Model C,864.62,3,0.0,214.53,60601.0
+ORD-2025-11173,2025-04-28,CUST-273,Home Office,North,Technology,Copiers,Copiers Model D,3160.81,5,0.1,571.69,90001.0
+ORD-2024-11174,2025-02-06,CUST-274,Consumer,East,Furniture,Tables,Tables Model E,1644.99,4,0.1,286.18,10001.0
+ORD-2025-11175,2024-11-28,CUST-275,Corporate,North,Technology,Phones,Phones Model F,407.19,1,0.1,67.92,75001.0
+ORD-2024-11176,2025-12-23,CUST-276,Home Office,South,Technology,Laptops,Laptops Model G,2385.6,3,0.0,593.83,10001.0
+ORD-2025-11177,2025-05-03,CUST-277,Corporate,East,Furniture,Furnishings,Furnishings Model H,466.38,4,0.1,79.64,10001.0
+ORD-2024-11178,2024-06-21,CUST-278,Corporate,East,Office Supplies,Art,Art Model I,103.31,1,0.0,26.33,90001.0
+ORD-2025-11179,2025-05-05,CUST-279,Corporate,West,Office Supplies,Art,Art Model J,42.05,1,0.0,21.31,60601.0
+ORD-2024-11180,2025-10-17,CUST-280,Consumer,East,Furniture,Tables,Tables Model A,508.99,2,0.2,55.49,75001.0
+ORD-2025-11181,2025-07-16,CUST-281,Consumer,South,Technology,Accessories,Accessories Model B,897.29,3,0.1,159.16,75001.0
+ORD-2024-11182,2025-03-07,CUST-282,Consumer,West,Technology,Phones,Phones Model C,649.3,1,0.0,162.65,10001.0
+ORD-2025-11183,2024-03-02,CUST-283,Consumer,South,Furniture,Tables,Tables Model D,580.2,2,0.2,71.81,75001.0
+ORD-2024-11184,2025-07-03,CUST-284,Corporate,East,Office Supplies,Paper,Paper Model E,55.45,1,0.1,1.89,75001.0
+ORD-2025-11185,2025-05-05,CUST-285,Home Office,North,Technology,Phones,Phones Model F,3025.51,5,0.0,759.53,75001.0
+ORD-2024-11186,2024-10-20,CUST-286,Corporate,South,Technology,Accessories,Accessories Model G,2140.96,3,0.0,539.47,75001.0
+ORD-2025-11187,2025-11-13,CUST-287,Home Office,North,Technology,Phones,Phones Model H,1682.37,3,0.0,417.73,90001.0
+ORD-2024-11188,2025-05-08,CUST-288,Home Office,North,Furniture,Furnishings,Furnishings Model I,1123.61,3,0.1,202.12,30301.0
+ORD-2025-11189,2024-01-25,CUST-289,Consumer,South,Technology,Phones,Phones Model J,1042.17,1,0.0,267.87,30301.0
+ORD-2024-11190,2025-05-27,CUST-290,Corporate,South,Technology,Accessories,Accessories Model A,735.61,1,0.0,181.28,75001.0
+ORD-2025-11191,2025-12-24,CUST-291,Consumer,South,Furniture,Tables,Tables Model B,316.05,1,0.2,45.51,75001.0
+ORD-2024-11192,2025-10-04,CUST-292,Consumer,North,Technology,Laptops,Laptops Model C,208.82,1,0.1,39.78,75001.0
+ORD-2025-11193,2025-10-04,CUST-293,Consumer,North,Technology,Laptops,Laptops Model D,594.76,3,0.1,106.69,10001.0
+ORD-2024-11194,2025-01-13,CUST-294,Home Office,West,Office Supplies,Paper,Paper Model E,175.85,2,0.3,8.66,30301.0
+ORD-2025-11195,2025-11-27,CUST-295,Home Office,West,Technology,Accessories,Accessories Model F,580.25,2,0.2,55.52,75001.0
+ORD-2024-11196,2025-01-30,CUST-296,Consumer,South,Furniture,Chairs,Chairs Model G,914.56,4,0.0,229.87,30301.0
+ORD-2025-11197,2025-11-26,CUST-297,Home Office,South,Furniture,Tables,Tables Model H,495.66,3,0.1,83.59,75001.0
+ORD-2024-11198,2025-10-28,CUST-298,Consumer,East,Furniture,Bookcases,Bookcases Model I,861.63,3,0.1,153.47,30301.0
+ORD-2025-11199,2024-07-23,CUST-299,Consumer,South,Office Supplies,Storage,Storage Model J,109.97,1,0.1,24.09,30301.0
+ORD-2024-11200,2025-08-09,CUST-300,Corporate,West,Technology,Phones,Phones Model A,1524.71,2,0.2,171.61,90001.0
+ORD-2025-11201,2025-04-23,CUST-301,Consumer,South,Furniture,Bookcases,Bookcases Model B,1148.25,3,0.2,127.13,10001.0
+ORD-2024-11202,2025-02-05,CUST-302,Consumer,North,Furniture,Chairs,Chairs Model C,896.81,2,0.0,224.55,60601.0
+ORD-2025-11203,2025-05-13,CUST-303,Corporate,West,Furniture,Chairs,Chairs Model D,488.21,5,0.0,127.74,60601.0
+ORD-2024-11204,2024-10-02,CUST-304,Consumer,West,Technology,Laptops,Laptops Model E,880.36,3,0.0,216.06,60601.0
+ORD-2025-11205,2024-06-29,CUST-305,Corporate,East,Furniture,Tables,Tables Model F,435.9,5,0.2,47.15,60601.0
+ORD-2024-11206,2025-03-31,CUST-306,Consumer,South,Technology,Laptops,Laptops Model G,2071.07,3,0.0,521.58,90001.0
+ORD-2025-11207,2024-11-17,CUST-307,Corporate,North,Technology,Laptops,Laptops Model H,1298.69,2,0.0,328.76,75001.0
+ORD-2024-11208,2025-12-09,CUST-308,Consumer,South,Technology,Accessories,Accessories Model I,828.6,1,0.1,144.12,90001.0
+ORD-2025-11209,2025-04-16,CUST-309,Home Office,West,Technology,Copiers,Copiers Model J,1931.15,3,0.0,479.15,10001.0
+ORD-2024-11210,2025-10-10,CUST-310,Home Office,North,Technology,Accessories,Accessories Model A,2392.29,2,0.0,605.43,30301.0
+ORD-2025-11211,2025-07-18,CUST-311,Consumer,East,Technology,Copiers,Copiers Model B,2616.17,3,0.1,474.89,30301.0
+ORD-2024-11212,2024-04-07,CUST-312,Consumer,South,Technology,Laptops,Laptops Model C,1234.84,3,0.2,138.93,90001.0
+ORD-2025-11213,2025-12-11,CUST-313,Corporate,North,Office Supplies,Storage,Storage Model D,76.07,1,0.1,11.82,10001.0
+ORD-2024-11214,2024-05-31,CUST-314,Consumer,North,Furniture,Chairs,Chairs Model E,893.75,4,0.3,43.89,60601.0
+ORD-2025-11215,2024-02-26,CUST-315,Corporate,South,Technology,Accessories,Accessories Model F,845.1,4,0.1,153.04,90001.0
+ORD-2024-11216,2025-03-31,CUST-316,Home Office,South,Technology,Copiers,Copiers Model G,975.65,1,0.0,247.19,30301.0
+ORD-2025-11217,2024-10-06,CUST-317,Corporate,South,Technology,Laptops,Laptops Model H,1693.63,3,0.0,432.69,30301.0
+ORD-2024-11218,2024-04-28,CUST-318,Consumer,East,Technology,Laptops,Laptops Model I,1741.52,2,0.0,435.7,30301.0
+ORD-2025-11219,2024-09-18,CUST-319,Corporate,North,Office Supplies,Paper,Paper Model J,104.96,3,0.0,24.86,30301.0
+ORD-2024-11220,2024-02-06,CUST-320,Consumer,South,Technology,Copiers,Copiers Model A,3104.4,3,0.0,772.52,60601.0
+ORD-2025-11221,2024-07-06,CUST-321,Corporate,West,Office Supplies,Paper,Paper Model B,298.43,3,0.3,12.21,30301.0
+ORD-2024-11222,2025-08-23,CUST-322,Consumer,South,Technology,Accessories,Accessories Model C,749.4,2,0.0,192.37,75001.0
+ORD-2025-11223,2024-08-18,CUST-323,Corporate,South,Office Supplies,Paper,Paper Model D,95.07,1,0.0,33.5,60601.0
+ORD-2024-11224,2024-07-22,CUST-324,Home Office,South,Technology,Copiers,Copiers Model E,737.93,2,0.3,26.79,90001.0
+ORD-2025-11225,2024-06-17,CUST-325,Home Office,West,Furniture,Tables,Tables Model F,406.19,1,0.0,94.8,60601.0
+ORD-2024-11226,2024-11-07,CUST-326,Home Office,South,Furniture,Tables,Tables Model G,203.43,1,0.0,54.45,10001.0
+ORD-2025-11227,2025-04-01,CUST-327,Corporate,South,Technology,Phones,Phones Model H,2230.35,2,0.0,556.98,60601.0
+ORD-2024-11228,2025-04-09,CUST-328,Consumer,East,Office Supplies,Art,Art Model I,124.26,3,0.2,11.31,60601.0
+ORD-2025-11229,2025-03-02,CUST-329,Corporate,South,Office Supplies,Storage,Storage Model J,22.87,2,0.1,4.41,10001.0
+ORD-2024-11230,2025-01-06,CUST-330,Consumer,East,Office Supplies,Art,Art Model A,94.66,2,0.2,19.1,60601.0
+ORD-2025-11231,2025-08-08,CUST-331,Home Office,North,Technology,Copiers,Copiers Model B,1232.38,2,0.2,137.71,60601.0
+ORD-2024-11232,2025-08-09,CUST-332,Corporate,West,Furniture,Bookcases,Bookcases Model C,199.82,1,0.1,32.77,60601.0
+ORD-2025-11233,2024-11-18,CUST-333,Consumer,South,Furniture,Furnishings,Furnishings Model D,235.57,2,0.0,53.59,10001.0
+ORD-2024-11234,2024-01-12,CUST-334,Corporate,South,Technology,Phones,Phones Model E,3050.24,3,0.0,758.87,10001.0
+ORD-2025-11235,2025-08-08,CUST-335,Corporate,South,Furniture,Chairs,Chairs Model F,386.9,1,0.0,86.97,90001.0
+ORD-2024-11236,2024-12-11,CUST-336,Consumer,South,Technology,Phones,Phones Model G,547.67,1,0.0,141.21,30301.0
+ORD-2025-11237,2025-07-30,CUST-337,Home Office,West,Technology,Laptops,Laptops Model H,2424.37,4,0.1,443.03,60601.0
+ORD-2024-11238,2024-03-26,CUST-338,Corporate,West,Furniture,Bookcases,Bookcases Model I,665.77,2,0.0,167.1,75001.0
+ORD-2025-11239,2024-05-18,CUST-339,Consumer,East,Office Supplies,Art,Art Model J,326.89,3,0.0,84.58,90001.0
+ORD-2024-11240,2024-01-31,CUST-340,Home Office,North,Furniture,Tables,Tables Model A,500.11,4,0.1,91.21,75001.0
+ORD-2025-11241,2025-05-02,CUST-341,Consumer,West,Office Supplies,Paper,Paper Model B,65.8,1,0.0,10.4,30301.0
+ORD-2024-11242,2024-11-17,CUST-342,Consumer,South,Office Supplies,Appliances,Appliances Model C,256.72,4,0.1,42.08,30301.0
+ORD-2025-11243,2024-11-19,CUST-343,Consumer,East,Office Supplies,Storage,Storage Model D,58.43,3,0.3,5.28,75001.0
+ORD-2024-11244,2024-03-16,CUST-344,Corporate,South,Office Supplies,Paper,Paper Model E,55.85,1,0.1,11.59,60601.0
+ORD-2025-11245,2025-12-27,CUST-345,Corporate,North,Technology,Laptops,Laptops Model F,530.27,2,0.0,132.31,30301.0
+ORD-2024-11246,2025-06-06,CUST-346,Consumer,East,Technology,Laptops,Laptops Model G,427.8,1,0.0,109.88,10001.0
+ORD-2025-11247,2025-04-15,CUST-347,Consumer,South,Furniture,Chairs,Chairs Model H,331.22,2,0.5,-26.0,75001.0
+ORD-2024-11248,2025-02-16,CUST-348,Corporate,North,Office Supplies,Art,Art Model I,287.07,3,0.0,75.59,30301.0
+ORD-2025-11249,2025-06-23,CUST-349,Home Office,West,Technology,Phones,Phones Model J,2498.29,4,0.0,629.94,60601.0
+ORD-2024-11250,2025-11-04,CUST-100,Home Office,South,Furniture,Chairs,Chairs Model A,348.03,1,0.2,35.23,10001.0
+ORD-2025-11251,2024-12-01,CUST-101,Corporate,South,Office Supplies,Binders,Binders Model B,252.7,3,0.0,64.47,10001.0
+ORD-2024-11252,2024-03-12,CUST-102,Corporate,North,Furniture,Tables,Tables Model C,982.61,3,0.0,235.91,90001.0
+ORD-2025-11253,2024-06-15,CUST-103,Home Office,South,Office Supplies,Art,Art Model D,113.53,2,0.3,1.62,30301.0
+ORD-2024-11254,2024-08-19,CUST-104,Consumer,North,Furniture,Chairs,Chairs Model E,925.77,5,0.1,175.59,90001.0
+ORD-2025-11255,2025-06-12,CUST-105,Consumer,West,Office Supplies,Art,Art Model F,97.71,2,0.0,26.79,30301.0
+ORD-2024-11256,2025-11-04,CUST-106,Home Office,West,Furniture,Furnishings,Furnishings Model G,161.85,1,0.1,35.39,90001.0
+ORD-2025-11257,2024-09-29,CUST-107,Corporate,South,Technology,Accessories,Accessories Model H,1677.72,2,0.2,178.6,30301.0
+ORD-2024-11258,2024-06-07,CUST-108,Corporate,South,Technology,Phones,Phones Model I,1033.19,3,0.1,190.59,30301.0
+ORD-2025-11259,2025-07-20,CUST-109,Consumer,South,Office Supplies,Art,Art Model J,132.77,2,0.0,30.59,60601.0
+ORD-2024-11260,2025-04-26,CUST-110,Consumer,West,Technology,Laptops,Laptops Model A,1662.4,3,0.1,295.97,90001.0
+ORD-2025-11261,2024-04-14,CUST-111,Corporate,South,Furniture,Tables,Tables Model B,898.15,2,0.1,162.01,75001.0
+ORD-2024-11262,2024-07-30,CUST-112,Consumer,North,Furniture,Tables,Tables Model C,198.71,1,0.1,34.06,30301.0
+ORD-2025-11263,2025-04-08,CUST-113,Home Office,South,Furniture,Furnishings,Furnishings Model D,2079.98,5,0.0,525.1,60601.0
+ORD-2024-11264,2024-12-17,CUST-114,Consumer,East,Office Supplies,Paper,Paper Model E,51.42,1,0.1,6.13,10001.0
+ORD-2025-11265,2025-10-15,CUST-115,Corporate,West,Furniture,Tables,Tables Model F,790.86,3,0.2,92.89,30301.0
+ORD-2024-11266,2024-01-16,CUST-116,Consumer,North,Office Supplies,Paper,Paper Model G,156.67,3,0.0,47.76,90001.0
+ORD-2025-11267,2024-11-21,CUST-117,Corporate,East,Technology,Copiers,Copiers Model H,2447.4,4,0.2,271.9,60601.0
+ORD-2024-11268,2024-05-18,CUST-118,Home Office,South,Technology,Phones,Phones Model I,2528.1,4,0.0,632.02,60601.0
+ORD-2025-11269,2025-10-08,CUST-119,Corporate,South,Furniture,Tables,Tables Model J,163.7,1,0.3,5.66,75001.0
+ORD-2024-11270,2024-07-27,CUST-120,Corporate,West,Technology,Phones,Phones Model A,1011.02,1,0.0,254.32,10001.0
+ORD-2025-11271,2024-05-18,CUST-121,Consumer,North,Furniture,Bookcases,Bookcases Model B,796.47,2,0.1,146.23,60601.0
+ORD-2024-11272,2025-07-22,CUST-122,Consumer,South,Technology,Laptops,Laptops Model C,2896.55,3,0.1,519.77,60601.0
+ORD-2025-11273,2025-12-05,CUST-123,Home Office,West,Office Supplies,Binders,Binders Model D,188.57,3,0.0,45.05,10001.0
+ORD-2024-11274,2025-05-22,CUST-124,Home Office,West,Furniture,Chairs,Chairs Model E,1287.11,3,0.0,317.53,90001.0
+ORD-2025-11275,2024-01-09,CUST-125,Consumer,North,Office Supplies,Binders,Binders Model F,20.94,1,0.2,-5.76,90001.0
+ORD-2024-11276,2025-01-09,CUST-126,Corporate,West,Furniture,Furnishings,Furnishings Model G,903.13,2,0.0,233.47,60601.0
+ORD-2025-11277,2024-10-13,CUST-127,Home Office,North,Furniture,Chairs,Chairs Model H,934.24,4,0.2,109.84,75001.0
+ORD-2024-11278,2025-11-09,CUST-128,Consumer,South,Office Supplies,Paper,Paper Model I,223.33,2,0.1,41.44,90001.0
+ORD-2025-11279,2025-08-06,CUST-129,Consumer,South,Furniture,Bookcases,Bookcases Model J,3171.67,8,0.1,575.33,90001.0
+ORD-2024-11280,2025-05-06,CUST-130,Consumer,North,Furniture,Chairs,Chairs Model A,1861.18,5,0.0,458.03,10001.0
+ORD-2025-11281,2024-04-03,CUST-131,Consumer,South,Technology,Accessories,Accessories Model B,327.82,1,0.1,50.08,30301.0
+ORD-2024-11282,2024-08-31,CUST-132,Consumer,West,Technology,Phones,Phones Model C,956.07,1,0.0,235.22,60601.0
+ORD-2025-11283,2025-04-25,CUST-133,Consumer,South,Furniture,Furnishings,Furnishings Model D,962.47,5,0.3,41.22,60601.0
+ORD-2024-11284,2025-07-07,CUST-134,Corporate,West,Office Supplies,Binders,Binders Model E,205.11,2,0.0,47.8,90001.0
+ORD-2025-11285,2024-02-25,CUST-135,Consumer,West,Furniture,Tables,Tables Model F,739.23,2,0.0,185.57,90001.0
+ORD-2024-11286,2025-08-29,CUST-136,Corporate,North,Technology,Accessories,Accessories Model G,774.46,1,0.2,87.67,10001.0
+ORD-2025-11287,2025-04-05,CUST-137,Corporate,North,Furniture,Chairs,Chairs Model H,335.42,2,0.0,81.5,60601.0
+ORD-2024-11288,2025-02-08,CUST-138,Home Office,South,Office Supplies,Appliances,Appliances Model I,633.37,5,0.0,160.77,10001.0
+ORD-2025-11289,2025-09-18,CUST-139,Consumer,North,Technology,Copiers,Copiers Model J,242.78,1,0.0,67.82,30301.0
+ORD-2024-11290,2025-03-25,CUST-140,Consumer,East,Technology,Copiers,Copiers Model A,958.88,2,0.2,115.18,10001.0
+ORD-2025-11291,2024-01-27,CUST-141,Consumer,North,Technology,Accessories,Accessories Model B,834.05,1,0.0,208.97,30301.0
+ORD-2024-11292,2025-01-24,CUST-142,Consumer,North,Technology,Accessories,Accessories Model C,219.74,1,0.5,-25.68,60601.0
+ORD-2025-11293,2025-01-13,CUST-143,Consumer,East,Furniture,Tables,Tables Model D,852.87,3,0.1,151.59,90001.0
+ORD-2024-11294,2025-12-22,CUST-144,Corporate,East,Technology,Copiers,Copiers Model E,859.75,1,0.0,217.18,10001.0
+ORD-2025-11295,2024-03-19,CUST-145,Home Office,South,Office Supplies,Storage,Storage Model F,83.01,2,0.0,25.32,30301.0
+ORD-2024-11296,2025-11-14,CUST-146,Consumer,South,Technology,Phones,Phones Model G,3121.99,4,0.1,555.79,30301.0
+ORD-2025-11297,2024-02-11,CUST-147,Consumer,West,Office Supplies,Appliances,Appliances Model H,208.62,2,0.1,38.05,75001.0
+ORD-2024-11298,2024-01-27,CUST-148,Corporate,South,Technology,Copiers,Copiers Model I,770.46,1,0.0,196.74,60601.0
+ORD-2025-11299,2025-12-31,CUST-149,Consumer,North,Technology,Phones,Phones Model J,1773.38,4,0.0,444.22,75001.0
+ORD-2024-11300,2025-08-07,CUST-150,Home Office,West,Furniture,Tables,Tables Model A,1406.43,4,0.1,250.75,75001.0
+ORD-2025-11301,2025-11-19,CUST-151,Corporate,South,Technology,Laptops,Laptops Model B,1684.15,3,0.0,424.5,90001.0
+ORD-2024-11302,2025-10-30,CUST-152,Corporate,East,Office Supplies,Art,Art Model C,53.6,2,0.0,16.7,60601.0
+ORD-2025-11303,2025-05-17,CUST-153,Consumer,East,Technology,Phones,Phones Model D,5649.18,8,0.1,1020.59,60601.0
+ORD-2024-11304,2025-02-09,CUST-154,Home Office,East,Furniture,Chairs,Chairs Model E,444.92,2,0.1,78.47,90001.0
+ORD-2025-11305,2024-05-31,CUST-155,Corporate,North,Furniture,Chairs,Chairs Model F,165.11,2,0.0,47.96,90001.0
+ORD-2024-11306,2025-01-04,CUST-156,Consumer,North,Office Supplies,Binders,Binders Model G,159.22,2,0.1,18.07,30301.0
+ORD-2025-11307,2024-08-03,CUST-157,Corporate,South,Technology,Accessories,Accessories Model H,2748.27,3,0.1,494.64,60601.0
+ORD-2024-11308,2024-06-08,CUST-158,Corporate,South,Technology,Phones,Phones Model I,2869.0,3,0.0,716.16,30301.0
+ORD-2025-11309,2025-06-08,CUST-159,Home Office,East,Technology,Phones,Phones Model J,815.78,1,0.0,203.79,60601.0
+ORD-2024-11310,2025-01-05,CUST-160,Corporate,North,Office Supplies,Appliances,Appliances Model A,212.15,2,0.0,54.46,90001.0
+ORD-2025-11311,2025-09-06,CUST-161,Corporate,West,Furniture,Furnishings,Furnishings Model B,714.15,3,0.2,76.18,60601.0
+ORD-2024-11312,2025-09-01,CUST-162,Corporate,North,Furniture,Bookcases,Bookcases Model C,254.75,1,0.0,66.48,30301.0
+ORD-2025-11313,2024-10-08,CUST-163,Consumer,South,Office Supplies,Binders,Binders Model D,130.32,3,0.5,-15.06,60601.0
+ORD-2024-11314,2025-06-07,CUST-164,Home Office,West,Office Supplies,Storage,Storage Model E,50.48,1,0.1,6.95,60601.0
+ORD-2025-11315,2025-05-04,CUST-165,Consumer,South,Technology,Accessories,Accessories Model F,1196.99,2,0.2,131.01,90001.0
+ORD-2024-11316,2025-09-18,CUST-166,Corporate,North,Technology,Laptops,Laptops Model G,1717.19,2,0.2,179.11,90001.0
+ORD-2025-11317,2025-12-02,CUST-167,Consumer,South,Technology,Copiers,Copiers Model H,307.65,1,0.1,48.54,60601.0
+ORD-2024-11318,2024-02-16,CUST-168,Corporate,West,Technology,Copiers,Copiers Model I,611.79,1,0.0,157.43,75001.0
+ORD-2025-11319,2025-06-25,CUST-169,Consumer,West,Technology,Laptops,Laptops Model J,1503.14,2,0.3,62.58,90001.0
+ORD-2024-11320,2025-06-20,CUST-170,Consumer,North,Furniture,Furnishings,Furnishings Model A,566.92,2,0.3,27.9,60601.0
+ORD-2025-11321,2025-09-30,CUST-171,Home Office,North,Office Supplies,Storage,Storage Model B,99.97,1,0.2,9.99,90001.0
+ORD-2024-11322,2025-07-10,CUST-172,Home Office,North,Office Supplies,Binders,Binders Model C,34.44,1,0.0,14.14,60601.0
+ORD-2025-11323,2025-01-30,CUST-173,Consumer,East,Office Supplies,Storage,Storage Model D,188.23,3,0.0,48.26,90001.0
+ORD-2024-11324,2024-08-26,CUST-174,Corporate,East,Furniture,Furnishings,Furnishings Model E,896.55,2,0.0,225.08,75001.0
+ORD-2025-11325,2024-08-07,CUST-175,Consumer,East,Office Supplies,Paper,Paper Model F,108.83,1,0.1,25.35,10001.0
+ORD-2024-11326,2024-03-20,CUST-176,Consumer,East,Technology,Copiers,Copiers Model G,832.1,3,0.1,151.22,10001.0
+ORD-2025-11327,2024-03-29,CUST-177,Corporate,North,Technology,Copiers,Copiers Model H,3111.21,3,0.1,562.56,90001.0
+ORD-2024-11328,2024-08-15,CUST-178,Corporate,North,Office Supplies,Storage,Storage Model I,119.15,2,0.1,13.91,90001.0
+ORD-2025-11329,2025-03-18,CUST-179,Corporate,East,Office Supplies,Appliances,Appliances Model J,215.32,3,0.0,51.4,90001.0
+ORD-2024-11330,2024-12-23,CUST-180,Consumer,North,Office Supplies,Binders,Binders Model A,18.37,1,0.1,13.3,60601.0
+ORD-2025-11331,2025-02-04,CUST-181,Consumer,North,Technology,Laptops,Laptops Model B,3147.21,3,0.0,792.7,90001.0
+ORD-2024-11332,2025-04-04,CUST-182,Consumer,West,Office Supplies,Paper,Paper Model C,59.03,1,0.0,13.9,30301.0
+ORD-2025-11333,2024-01-03,CUST-183,Consumer,West,Furniture,Furnishings,Furnishings Model D,1946.62,5,0.2,209.3,30301.0
+ORD-2024-11334,2024-06-09,CUST-184,Consumer,North,Office Supplies,Binders,Binders Model E,184.66,2,0.2,18.46,60601.0
+ORD-2025-11335,2025-01-11,CUST-185,Consumer,West,Furniture,Chairs,Chairs Model F,233.86,1,0.5,-19.89,60601.0
+ORD-2024-11336,2024-03-14,CUST-186,Consumer,East,Furniture,Tables,Tables Model G,568.06,4,0.2,64.81,90001.0
+ORD-2025-11337,2025-06-23,CUST-187,Corporate,West,Technology,Laptops,Laptops Model H,675.31,2,0.1,127.68,75001.0
+ORD-2024-11338,2024-03-12,CUST-188,Consumer,North,Technology,Copiers,Copiers Model I,1259.1,2,0.0,319.44,90001.0
+ORD-2025-11339,2025-11-14,CUST-189,Consumer,North,Office Supplies,Paper,Paper Model J,56.8,2,0.1,18.64,10001.0
+ORD-2024-11340,2025-03-21,CUST-190,Corporate,West,Furniture,Furnishings,Furnishings Model A,238.3,1,0.0,56.88,90001.0
+ORD-2025-11341,2025-09-28,CUST-191,Consumer,East,Furniture,Bookcases,Bookcases Model B,668.64,2,0.0,165.64,30301.0
+ORD-2024-11342,2024-12-06,CUST-192,Corporate,South,Technology,Laptops,Laptops Model C,1784.67,4,0.3,76.87,90001.0
+ORD-2025-11343,2024-02-09,CUST-193,Consumer,South,Office Supplies,Art,Art Model D,283.55,2,0.0,73.27,60601.0
+ORD-2024-11344,2024-09-06,CUST-194,Corporate,South,Office Supplies,Art,Art Model E,162.51,3,0.0,31.5,30301.0
+ORD-2025-11345,2025-01-31,CUST-195,Corporate,South,Technology,Accessories,Accessories Model F,2885.95,4,0.0,726.5,75001.0
+ORD-2024-11346,2024-12-10,CUST-196,Corporate,East,Furniture,Bookcases,Bookcases Model G,219.0,1,0.0,53.3,90001.0
+ORD-2025-11347,2024-12-28,CUST-197,Corporate,North,Office Supplies,Appliances,Appliances Model H,71.97,3,0.5,-10.73,30301.0
+ORD-2024-11348,2025-05-12,CUST-198,Consumer,North,Technology,Laptops,Laptops Model I,2173.88,3,0.1,387.17,60601.0
+ORD-2025-11349,2025-11-17,CUST-199,Consumer,North,Office Supplies,Binders,Binders Model J,349.95,3,0.2,40.45,60601.0
+ORD-2024-11350,2024-12-09,CUST-200,Corporate,East,Technology,Laptops,Laptops Model A,926.18,2,0.1,173.97,30301.0
+ORD-2025-11351,2024-08-16,CUST-201,Consumer,North,Technology,Copiers,Copiers Model B,2676.5,3,0.1,479.32,75001.0
+ORD-2024-11352,2025-07-10,CUST-202,Corporate,West,Furniture,Chairs,Chairs Model C,393.26,2,0.1,79.04,10001.0
+ORD-2025-11353,2024-07-11,CUST-203,Corporate,East,Furniture,Bookcases,Bookcases Model D,444.61,1,0.1,84.91,90001.0
+ORD-2024-11354,2024-05-06,CUST-204,Home Office,South,Furniture,Tables,Tables Model E,599.43,3,0.2,65.75,10001.0
+ORD-2025-11355,2025-01-26,CUST-205,Home Office,South,Office Supplies,Appliances,Appliances Model F,166.56,2,0.1,39.5,30301.0
+ORD-2024-11356,2025-03-30,CUST-206,Home Office,South,Furniture,Bookcases,Bookcases Model G,411.5,3,0.1,68.5,60601.0
+ORD-2025-11357,2025-09-14,CUST-207,Consumer,South,Office Supplies,Art,Art Model H,89.3,8,0.0,29.05,60601.0
+ORD-2024-11358,2025-03-16,CUST-208,Consumer,South,Furniture,Tables,Tables Model I,1235.49,3,0.0,309.39,75001.0
+ORD-2025-11359,2025-08-31,CUST-209,Corporate,North,Furniture,Furnishings,Furnishings Model J,772.11,2,0.1,139.1,10001.0
+ORD-2024-11360,2025-06-08,CUST-210,Consumer,East,Office Supplies,Art,Art Model A,173.3,3,0.0,41.31,30301.0
+ORD-2025-11361,2025-04-02,CUST-211,Home Office,North,Technology,Phones,Phones Model B,997.62,1,0.1,181.39,75001.0
+ORD-2024-11362,2025-02-19,CUST-212,Consumer,South,Office Supplies,Appliances,Appliances Model C,193.01,2,0.2,13.37,30301.0
+ORD-2025-11363,2025-11-06,CUST-213,Consumer,East,Office Supplies,Binders,Binders Model D,252.56,2,0.0,60.98,10001.0
+ORD-2024-11364,2025-09-26,CUST-214,Consumer,South,Technology,Phones,Phones Model E,1939.2,5,0.2,214.05,90001.0
+ORD-2025-11365,2024-10-15,CUST-215,Corporate,North,Technology,Copiers,Copiers Model F,262.38,1,0.1,45.72,90001.0
+ORD-2024-11366,2024-12-13,CUST-216,Home Office,South,Technology,Phones,Phones Model G,967.7,3,0.3,42.89,60601.0
+ORD-2025-11367,2025-07-29,CUST-217,Consumer,North,Office Supplies,Binders,Binders Model H,153.63,2,0.1,29.5,10001.0
+ORD-2024-11368,2024-11-03,CUST-218,Consumer,West,Furniture,Tables,Tables Model I,49.15,1,0.5,-6.26,30301.0
+ORD-2025-11369,2024-01-29,CUST-219,Consumer,North,Furniture,Chairs,Chairs Model J,962.14,3,0.0,242.32,90001.0
+ORD-2024-11370,2024-03-02,CUST-220,Corporate,West,Technology,Phones,Phones Model A,930.18,2,0.0,236.9,10001.0
+ORD-2025-11371,2024-12-23,CUST-221,Consumer,North,Office Supplies,Paper,Paper Model B,24.37,2,0.0,20.04,30301.0
+ORD-2024-11372,2024-12-16,CUST-222,Home Office,North,Furniture,Tables,Tables Model C,1690.26,5,0.0,423.14,75001.0
+ORD-2025-11373,2025-07-08,CUST-223,Consumer,East,Furniture,Furnishings,Furnishings Model D,846.16,2,0.0,211.55,90001.0
+ORD-2024-11374,2025-08-22,CUST-224,Home Office,West,Office Supplies,Paper,Paper Model E,377.25,3,0.1,66.17,75001.0
+ORD-2025-11375,2024-09-12,CUST-225,Corporate,North,Furniture,Chairs,Chairs Model F,902.52,3,0.1,169.64,60601.0
+ORD-2024-11376,2024-09-10,CUST-226,Corporate,East,Office Supplies,Paper,Paper Model G,132.26,2,0.0,40.16,75001.0
+ORD-2025-11377,2024-09-25,CUST-227,Consumer,South,Furniture,Furnishings,Furnishings Model H,511.27,2,0.2,55.16,60601.0
+ORD-2024-11378,2024-04-24,CUST-228,Consumer,West,Technology,Laptops,Laptops Model I,535.91,1,0.0,141.76,30301.0
+ORD-2025-11379,2025-09-27,CUST-229,Consumer,South,Office Supplies,Storage,Storage Model J,217.27,3,0.3,9.92,10001.0
+ORD-2024-11380,2025-11-04,CUST-230,Home Office,North,Technology,Laptops,Laptops Model A,4170.82,8,0.0,1050.0,60601.0
+ORD-2025-11381,2025-08-19,CUST-231,Corporate,South,Furniture,Chairs,Chairs Model B,370.46,4,0.1,67.09,60601.0
+ORD-2024-11382,2025-09-25,CUST-232,Consumer,South,Office Supplies,Art,Art Model C,30.51,3,0.0,10.35,75001.0
+ORD-2025-11383,2025-09-04,CUST-233,Consumer,South,Office Supplies,Art,Art Model D,340.76,4,0.0,79.72,60601.0
+ORD-2024-11384,2024-08-28,CUST-234,Home Office,South,Office Supplies,Storage,Storage Model E,40.48,1,0.0,18.18,30301.0
+ORD-2025-11385,2024-01-02,CUST-235,Consumer,North,Office Supplies,Appliances,Appliances Model F,277.4,3,0.1,54.67,10001.0
+ORD-2024-11386,2024-11-19,CUST-236,Consumer,East,Technology,Phones,Phones Model G,1911.85,2,0.0,483.42,30301.0
+ORD-2025-11387,2024-08-02,CUST-237,Home Office,South,Furniture,Tables,Tables Model H,364.4,3,0.1,68.91,10001.0
+ORD-2024-11388,2024-01-14,CUST-238,Consumer,South,Office Supplies,Art,Art Model I,171.66,2,0.0,46.36,10001.0
+ORD-2025-11389,2025-07-05,CUST-239,Corporate,North,Office Supplies,Art,Art Model J,342.5,3,0.2,40.41,75001.0
+ORD-2024-11390,2024-10-23,CUST-240,Corporate,North,Office Supplies,Art,Art Model A,79.33,1,0.0,23.16,90001.0
+ORD-2025-11391,2025-01-26,CUST-241,Consumer,South,Office Supplies,Storage,Storage Model B,224.81,2,0.1,43.5,90001.0
+ORD-2024-11392,2024-02-06,CUST-242,Consumer,West,Furniture,Tables,Tables Model C,94.69,1,0.0,24.94,90001.0
+ORD-2025-11393,2025-02-11,CUST-243,Corporate,West,Technology,Accessories,Accessories Model D,1517.19,2,0.1,276.58,30301.0
+ORD-2024-11394,2025-07-23,CUST-244,Consumer,North,Furniture,Furnishings,Furnishings Model E,835.49,2,0.1,147.96,60601.0
+ORD-2025-11395,2024-03-02,CUST-245,Consumer,North,Office Supplies,Appliances,Appliances Model F,115.18,1,0.1,20.68,90001.0
+ORD-2024-11396,2024-01-20,CUST-246,Corporate,East,Furniture,Tables,Tables Model G,993.22,2,0.0,246.08,75001.0
+ORD-2025-11397,2025-11-02,CUST-247,Consumer,South,Technology,Accessories,Accessories Model H,441.59,1,0.1,76.97,60601.0
+ORD-2024-11398,2024-01-20,CUST-248,Consumer,North,Office Supplies,Paper,Paper Model I,442.56,4,0.0,114.41,60601.0
+ORD-2025-11399,2025-03-30,CUST-249,Consumer,North,Office Supplies,Binders,Binders Model J,109.56,3,0.1,20.03,90001.0
+ORD-2024-11400,2024-01-17,CUST-250,Corporate,South,Technology,Copiers,Copiers Model A,1334.74,3,0.1,244.38,60601.0
+ORD-2025-11401,2025-05-21,CUST-251,Home Office,South,Furniture,Bookcases,Bookcases Model B,1018.45,3,0.0,250.03,30301.0
+ORD-2024-11402,2025-07-26,CUST-252,Corporate,West,Office Supplies,Appliances,Appliances Model C,107.39,1,0.0,25.3,30301.0
+ORD-2025-11403,2025-04-30,CUST-253,Consumer,South,Office Supplies,Storage,Storage Model D,346.9,3,0.0,81.63,10001.0
+ORD-2024-11404,2025-11-13,CUST-254,Consumer,East,Furniture,Bookcases,Bookcases Model E,217.87,1,0.0,57.56,75001.0
+ORD-2025-11405,2024-10-12,CUST-255,Consumer,East,Furniture,Chairs,Chairs Model F,240.42,1,0.2,36.37,60601.0
+ORD-2024-11406,2024-06-15,CUST-256,Home Office,West,Technology,Phones,Phones Model G,3592.93,5,0.2,396.53,75001.0
+ORD-2025-11407,2024-01-13,CUST-257,Corporate,South,Office Supplies,Storage,Storage Model H,652.18,5,0.1,123.56,60601.0
+ORD-2024-11408,2025-09-29,CUST-258,Corporate,East,Office Supplies,Art,Art Model I,183.16,2,0.0,44.41,30301.0
+ORD-2025-11409,2024-11-10,CUST-259,Consumer,North,Technology,Accessories,Accessories Model J,335.88,1,0.1,62.63,90001.0
+ORD-2024-11410,2024-12-21,CUST-260,Corporate,East,Technology,Copiers,Copiers Model A,1285.28,2,0.1,233.31,30301.0
+ORD-2025-11411,2024-03-22,CUST-261,Consumer,South,Office Supplies,Appliances,Appliances Model B,117.44,4,0.1,11.93,10001.0
+ORD-2024-11412,2024-10-23,CUST-262,Consumer,South,Technology,Laptops,Laptops Model C,433.57,1,0.3,16.77,75001.0
+ORD-2025-11413,2024-05-10,CUST-263,Consumer,East,Furniture,Bookcases,Bookcases Model D,157.85,2,0.1,36.41,10001.0
+ORD-2024-11414,2025-02-03,CUST-264,Consumer,South,Office Supplies,Paper,Paper Model E,72.26,3,0.3,5.7,90001.0
+ORD-2025-11415,2024-08-09,CUST-265,Consumer,South,Technology,Accessories,Accessories Model F,888.41,2,0.0,221.57,60601.0
+ORD-2024-11416,2025-03-16,CUST-266,Corporate,North,Furniture,Furnishings,Furnishings Model G,456.4,1,0.0,117.25,30301.0
+ORD-2025-11417,2025-11-24,CUST-267,Consumer,North,Technology,Phones,Phones Model H,4961.25,5,0.0,1247.4,10001.0
+ORD-2024-11418,2025-03-24,CUST-268,Consumer,East,Furniture,Tables,Tables Model I,404.81,4,0.5,-44.78,30301.0
+ORD-2025-11419,2025-04-22,CUST-269,Consumer,North,Furniture,Furnishings,Furnishings Model J,305.77,2,0.0,74.22,30301.0
+ORD-2024-11420,2025-12-31,CUST-270,Consumer,West,Office Supplies,Appliances,Appliances Model A,29.54,1,0.2,-3.84,10001.0
+ORD-2025-11421,2024-12-07,CUST-271,Home Office,West,Technology,Phones,Phones Model B,567.81,2,0.0,153.24,30301.0
+ORD-2024-11422,2024-11-04,CUST-272,Consumer,South,Technology,Accessories,Accessories Model C,765.63,1,0.0,196.13,60601.0
+ORD-2025-11423,2024-03-03,CUST-273,Consumer,East,Technology,Phones,Phones Model D,1895.6,2,0.1,343.28,60601.0
+ORD-2024-11424,2025-05-11,CUST-274,Home Office,East,Office Supplies,Storage,Storage Model E,43.38,1,0.3,11.73,30301.0
+ORD-2025-11425,2025-11-05,CUST-275,Consumer,South,Technology,Accessories,Accessories Model F,2245.05,4,0.2,241.68,90001.0
+ORD-2024-11426,2025-02-02,CUST-276,Consumer,North,Furniture,Chairs,Chairs Model G,842.22,5,0.2,93.81,30301.0
+ORD-2025-11427,2024-12-02,CUST-277,Consumer,South,Furniture,Furnishings,Furnishings Model H,919.67,4,0.2,111.75,75001.0
+ORD-2024-11428,2025-10-02,CUST-278,Home Office,North,Technology,Phones,Phones Model I,1733.15,5,0.0,433.93,75001.0
+ORD-2025-11429,2025-11-09,CUST-279,Home Office,South,Furniture,Furnishings,Furnishings Model J,398.71,1,0.2,44.74,10001.0
+ORD-2024-11430,2025-01-21,CUST-280,Corporate,South,Office Supplies,Appliances,Appliances Model A,383.06,3,0.1,71.22,30301.0
+ORD-2025-11431,2024-01-14,CUST-281,Consumer,North,Furniture,Bookcases,Bookcases Model B,346.39,2,0.2,39.25,30301.0
+ORD-2024-11432,2024-03-13,CUST-282,Corporate,East,Furniture,Bookcases,Bookcases Model C,314.38,1,0.0,73.6,30301.0
+ORD-2025-11433,2025-10-04,CUST-283,Consumer,East,Technology,Phones,Phones Model D,1020.04,2,0.0,250.08,60601.0
+ORD-2024-11434,2024-01-05,CUST-284,Home Office,South,Office Supplies,Art,Art Model E,96.22,1,0.0,22.54,90001.0
+ORD-2025-11435,2024-11-24,CUST-285,Home Office,North,Office Supplies,Art,Art Model F,37.92,1,0.0,13.26,10001.0
+ORD-2024-11436,2025-07-07,CUST-286,Home Office,West,Furniture,Chairs,Chairs Model G,510.85,4,0.0,134.69,90001.0
+ORD-2025-11437,2024-03-31,CUST-287,Consumer,North,Technology,Phones,Phones Model H,1121.16,1,0.0,284.51,10001.0
+ORD-2024-11438,2025-01-27,CUST-288,Consumer,North,Furniture,Chairs,Chairs Model I,457.91,1,0.0,115.64,10001.0
+ORD-2025-11439,2024-12-27,CUST-289,Consumer,West,Technology,Copiers,Copiers Model J,1871.0,8,0.0,475.23,90001.0
+ORD-2024-11440,2025-08-31,CUST-290,Home Office,East,Office Supplies,Paper,Paper Model A,29.72,1,0.2,5.41,90001.0
+ORD-2025-11441,2025-10-11,CUST-291,Consumer,West,Office Supplies,Art,Art Model B,24.1,2,0.2,8.47,30301.0
+ORD-2024-11442,2024-02-17,CUST-292,Corporate,West,Technology,Laptops,Laptops Model C,2279.88,3,0.0,562.03,75001.0
+ORD-2025-11443,2024-01-27,CUST-293,Consumer,South,Furniture,Bookcases,Bookcases Model D,462.46,2,0.0,113.43,90001.0
+ORD-2024-11444,2024-10-29,CUST-294,Corporate,South,Office Supplies,Art,Art Model E,226.58,2,0.1,50.22,90001.0
+ORD-2025-11445,2024-11-18,CUST-295,Corporate,West,Furniture,Tables,Tables Model F,469.61,2,0.5,-51.79,75001.0
+ORD-2024-11446,2025-01-03,CUST-296,Consumer,East,Office Supplies,Appliances,Appliances Model G,88.91,2,0.0,20.81,90001.0
+ORD-2025-11447,2024-07-16,CUST-297,Corporate,East,Furniture,Chairs,Chairs Model H,1419.29,5,0.1,254.11,90001.0
+ORD-2024-11448,2024-02-03,CUST-298,Corporate,North,Technology,Phones,Phones Model I,2761.32,3,0.2,308.69,30301.0
+ORD-2025-11449,2025-10-12,CUST-299,Home Office,North,Office Supplies,Appliances,Appliances Model J,106.86,1,0.2,13.99,10001.0
+ORD-2024-11450,2025-09-30,CUST-300,Corporate,East,Furniture,Chairs,Chairs Model A,97.62,1,0.5,-8.35,60601.0
+ORD-2025-11451,2024-12-31,CUST-301,Home Office,North,Furniture,Chairs,Chairs Model B,203.75,2,0.0,52.59,30301.0
+ORD-2024-11452,2025-07-24,CUST-302,Corporate,East,Furniture,Chairs,Chairs Model C,485.35,2,0.3,20.12,10001.0
+ORD-2025-11453,2025-12-26,CUST-303,Corporate,South,Furniture,Furnishings,Furnishings Model D,286.29,1,0.1,43.91,10001.0
+ORD-2024-11454,2025-09-09,CUST-304,Home Office,East,Office Supplies,Paper,Paper Model E,160.44,2,0.0,38.67,30301.0
+ORD-2025-11455,2025-04-11,CUST-305,Consumer,East,Office Supplies,Art,Art Model F,172.59,2,0.1,36.06,30301.0
+ORD-2024-11456,2024-06-26,CUST-306,Home Office,North,Furniture,Bookcases,Bookcases Model G,539.63,5,0.0,131.04,30301.0
+ORD-2025-11457,2024-08-22,CUST-307,Corporate,West,Furniture,Tables,Tables Model H,1141.97,3,0.0,284.37,30301.0
+ORD-2024-11458,2024-04-07,CUST-308,Consumer,South,Technology,Phones,Phones Model I,262.32,1,0.0,77.33,10001.0
+ORD-2025-11459,2024-03-15,CUST-309,Consumer,South,Furniture,Chairs,Chairs Model J,221.56,1,0.1,44.63,60601.0
+ORD-2024-11460,2025-12-18,CUST-310,Home Office,East,Furniture,Tables,Tables Model A,1154.57,3,0.0,296.42,60601.0
+ORD-2025-11461,2024-02-05,CUST-311,Consumer,North,Technology,Copiers,Copiers Model B,2163.71,4,0.3,79.64,60601.0
+ORD-2024-11462,2024-12-12,CUST-312,Home Office,North,Technology,Laptops,Laptops Model C,4619.63,5,0.2,505.02,30301.0
+ORD-2025-11463,2024-05-23,CUST-313,Consumer,North,Technology,Laptops,Laptops Model D,1049.69,1,0.1,187.94,90001.0
+ORD-2024-11464,2025-05-21,CUST-314,Corporate,South,Office Supplies,Art,Art Model E,175.69,2,0.3,12.31,60601.0
+ORD-2025-11465,2025-08-26,CUST-315,Consumer,North,Furniture,Bookcases,Bookcases Model F,469.13,1,0.0,119.27,30301.0
+ORD-2024-11466,2024-01-30,CUST-316,Corporate,West,Technology,Accessories,Accessories Model G,896.23,1,0.0,216.6,10001.0
+ORD-2025-11467,2025-04-01,CUST-317,Home Office,South,Furniture,Furnishings,Furnishings Model H,300.01,1,0.1,50.25,10001.0
+ORD-2024-11468,2024-01-20,CUST-318,Consumer,West,Furniture,Tables,Tables Model I,2079.43,8,0.3,81.48,90001.0
+ORD-2025-11469,2024-01-12,CUST-319,Consumer,South,Furniture,Furnishings,Furnishings Model J,345.72,1,0.0,85.3,30301.0
+ORD-2024-11470,2025-06-01,CUST-320,Consumer,South,Office Supplies,Storage,Storage Model A,47.2,1,0.0,7.7,75001.0
+ORD-2025-11471,2024-03-04,CUST-321,Home Office,South,Technology,Copiers,Copiers Model B,465.02,3,0.3,24.39,30301.0
+ORD-2024-11472,2025-09-01,CUST-322,Consumer,West,Furniture,Furnishings,Furnishings Model C,716.28,4,0.3,23.39,60601.0
+ORD-2025-11473,2024-02-22,CUST-323,Consumer,South,Furniture,Bookcases,Bookcases Model D,642.87,3,0.2,72.21,60601.0
+ORD-2024-11474,2024-03-24,CUST-324,Consumer,East,Office Supplies,Storage,Storage Model E,512.25,4,0.1,93.11,90001.0
+ORD-2025-11475,2025-12-11,CUST-325,Corporate,North,Office Supplies,Paper,Paper Model F,63.81,2,0.2,4.41,30301.0
+ORD-2024-11476,2024-02-19,CUST-326,Consumer,South,Furniture,Tables,Tables Model G,375.87,3,0.1,66.25,75001.0
+ORD-2025-11477,2025-02-25,CUST-327,Consumer,North,Office Supplies,Paper,Paper Model H,337.48,3,0.0,82.39,10001.0
+ORD-2024-11478,2024-09-11,CUST-328,Corporate,South,Technology,Laptops,Laptops Model I,501.15,2,0.0,126.43,60601.0
+ORD-2025-11479,2024-05-13,CUST-329,Home Office,South,Office Supplies,Storage,Storage Model J,164.0,3,0.2,17.61,60601.0
+ORD-2024-11480,2025-06-03,CUST-330,Consumer,South,Technology,Laptops,Laptops Model A,467.44,1,0.2,42.47,90001.0
+ORD-2025-11481,2025-02-01,CUST-331,Consumer,West,Furniture,Tables,Tables Model B,1333.46,3,0.0,335.77,90001.0
+ORD-2024-11482,2025-04-10,CUST-332,Corporate,North,Furniture,Furnishings,Furnishings Model C,328.37,1,0.0,87.06,30301.0
+ORD-2025-11483,2025-05-21,CUST-333,Home Office,North,Technology,Copiers,Copiers Model D,1619.84,2,0.2,176.93,30301.0
+ORD-2024-11484,2024-06-09,CUST-334,Home Office,South,Furniture,Bookcases,Bookcases Model E,710.82,4,0.0,179.58,75001.0
+ORD-2025-11485,2024-01-06,CUST-335,Consumer,South,Furniture,Tables,Tables Model F,1607.15,4,0.1,278.98,60601.0
+ORD-2024-11486,2025-10-15,CUST-336,Consumer,South,Furniture,Tables,Tables Model G,1406.5,5,0.1,260.76,90001.0
+ORD-2025-11487,2024-04-14,CUST-337,Corporate,West,Furniture,Furnishings,Furnishings Model H,466.94,2,0.0,118.17,90001.0
+ORD-2024-11488,2024-06-13,CUST-338,Home Office,East,Furniture,Bookcases,Bookcases Model I,1030.09,5,0.1,188.82,60601.0
+ORD-2025-11489,2024-11-17,CUST-339,Consumer,South,Furniture,Chairs,Chairs Model J,1545.87,4,0.2,174.95,60601.0
+ORD-2024-11490,2025-06-21,CUST-340,Corporate,South,Technology,Laptops,Laptops Model A,1751.88,3,0.0,441.17,75001.0
+ORD-2025-11491,2024-06-30,CUST-341,Consumer,West,Furniture,Furnishings,Furnishings Model B,418.13,2,0.3,11.65,10001.0
+ORD-2024-11492,2025-04-19,CUST-342,Consumer,West,Furniture,Tables,Tables Model C,501.55,3,0.3,16.11,60601.0
+ORD-2025-11493,2024-12-11,CUST-343,Corporate,South,Furniture,Tables,Tables Model D,351.98,1,0.0,91.68,10001.0
+ORD-2024-11494,2025-08-18,CUST-344,Corporate,North,Technology,Accessories,Accessories Model E,1487.07,2,0.0,369.89,10001.0
+ORD-2025-11495,2024-08-14,CUST-345,Corporate,East,Office Supplies,Art,Art Model F,336.74,4,0.0,84.56,30301.0
+ORD-2024-11496,2025-06-25,CUST-346,Consumer,South,Furniture,Bookcases,Bookcases Model G,440.43,2,0.0,111.48,75001.0
+ORD-2025-11497,2025-09-20,CUST-347,Consumer,East,Office Supplies,Storage,Storage Model H,859.18,8,0.1,151.65,10001.0
+ORD-2024-11498,2024-08-25,CUST-348,Home Office,South,Furniture,Furnishings,Furnishings Model I,150.32,1,0.0,33.33,30301.0
+ORD-2025-11499,2024-01-23,CUST-349,Home Office,West,Furniture,Tables,Tables Model J,337.66,1,0.1,68.05,10001.0
+ORD-2024-10000,2025-07-02,CUST-100,Consumer,West,Furniture,Furnishings,Furnishings Model A,1592.68,5,0.0,392.76,75001.0
+ORD-2025-10001,2025-12-11,CUST-101,Home Office,South,Office Supplies,Art,Art Model B,205.18,2,0.2,27.84,90001.0
+ORD-2024-10002,2025-02-22,CUST-102,Corporate,South,Furniture,Bookcases,Bookcases Model C,1015.37,4,0.1,172.37,90001.0
+ORD-2025-10003,2025-09-22,CUST-103,Corporate,South,Technology,Laptops,Laptops Model D,3257.93,3,0.0,808.06,10001.0
+ORD-2024-10004,2025-07-04,CUST-104,Home Office,North,Furniture,Tables,Tables Model E,1208.61,5,0.2,130.36,60601.0
+ORD-2025-10005,2025-06-17,CUST-105,Home Office,West,Technology,Copiers,Copiers Model F,1936.55,2,0.0,491.18,60601.0
+ORD-2024-10006,2025-05-23,CUST-106,Consumer,North,Technology,Laptops,Laptops Model G,1789.21,4,0.1,314.1,60601.0
+ORD-2025-10007,2024-02-28,CUST-107,Consumer,South,Furniture,Bookcases,Bookcases Model H,255.82,1,0.3,13.42,60601.0
